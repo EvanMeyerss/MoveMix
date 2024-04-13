@@ -10,12 +10,12 @@ let bucketSelect = 0
 let easyBool = true
 let medBool = true
 let hardBool = true
-
+let Num_sports = activities.length
 
 class HashTable {
     constructor() {
         this.buckets = {};
-        this.size = 57;
+        this.size = Num_sports;
         // Initialize buckets for easy, medium, and hard difficulties
         this.buckets['easy'] = [];
         this.buckets['medium'] = [];
@@ -75,9 +75,6 @@ document.addEventListener('DOMContentLoaded', function() {
                 }
             }
 
-            console.log(activities);
-
-
             // Call the propagate function with the activities array
             for (let i = 0; i < activities.length; i++)
             {
@@ -90,7 +87,7 @@ document.addEventListener('DOMContentLoaded', function() {
             console.log("Easy Objects:", easyObjects);
             console.log("Medium Objects:", mediumObjects);
             console.log("Hard Objects:", hardObjects);
-            currentIndex = Math.floor(Math.random() * 24);
+            currentIndex = Math.floor(Math.random() * easyObjects.length);
             propagate(easyObjects, currentIndex);
             // Set up the event listener for the "Next" button
             document.getElementById("next").addEventListener("click", () => {
@@ -102,14 +99,14 @@ document.addEventListener('DOMContentLoaded', function() {
                         easyIterator++;
 
 
-                        currentIndex = Math.floor(Math.random() * 24);
+                        currentIndex = Math.floor(Math.random() * easyObjects.length);
                         console.log("currentIndex1", currentIndex);
                         while (easyObjects[currentIndex].selected == true)
                         {
-                            currentIndex = Math.floor(Math.random() * 24);
+                            currentIndex = Math.floor(Math.random() * easyObjects.length);
                             console.log("currentIndex2", currentIndex)
                         }
-                        if(easyIterator >= 23) {
+                        if(easyIterator >= (easyObjects.length-1)) {
                             easyBool = false;
                         }
                         console.log("easyIterator", easyIterator)
@@ -120,14 +117,14 @@ document.addEventListener('DOMContentLoaded', function() {
                         medIterator++;
 
 
-                        currentIndex = Math.floor(Math.random() * 22);
+                        currentIndex = Math.floor(Math.random() * mediumObjects.length);
                         console.log("currentIndex1", currentIndex);
                         while (mediumObjects[currentIndex].selected == true)
                         {
-                            currentIndex = Math.floor(Math.random() * 22);
+                            currentIndex = Math.floor(Math.random() * mediumObjects.length);
                             console.log("currentIndex2", currentIndex);
                         }
-                        if(medIterator >= 22) {
+                        if(medIterator >= mediumObjects.length) {
                             medBool = false;
                         }
                         console.log("medIterator", medIterator)
@@ -136,16 +133,16 @@ document.addEventListener('DOMContentLoaded', function() {
                     }
                     else if(bucketSelect == 3 && hardBool) {
                         hardIterator++;
-                        currentIndex = Math.floor(Math.random() * 10);
+                        currentIndex = Math.floor(Math.random() * hardObjects.length);
                         console.log("currentIndex1", currentIndex);
                         while (hardObjects[currentIndex].selected == true)
                         {
-                            currentIndex = Math.floor(Math.random() * 10);
+                            currentIndex = Math.floor(Math.random() * hardObjects.length);
                             console.log("currentIndex2", currentIndex);
                         }
 
 
-                        if(hardIterator >= 10) {
+                        if(hardIterator >= hardObjects.length) {
                             hardBool = false;
                         }
                         console.log("hardIterator", hardIterator)
@@ -190,6 +187,7 @@ document.addEventListener('DOMContentLoaded', function() {
         pic.src = activities[index].img_src;
         map_link.src = activities[index].map_link;
         activityTitle.textContent = activities[index].name;
+        activities[index].selected = true;
     }
 });
 
