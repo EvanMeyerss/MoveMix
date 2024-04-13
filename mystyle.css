@@ -1,7 +1,7 @@
 @import url('https://fonts.googleapis.com/css2?family=Lilita+One&family=Philosopher:ital,wght@0,400;0,700;1,400;1,700&display=swap');
 
 body {
-    background-color: beige;
+    background-color: #ded5e3;
     font-family: 'Philosopher', sans-serif;
     text-align: center;
 }
@@ -31,14 +31,18 @@ h1{
 
 }
 .container {
-
     margin: 0 auto;
     height: 90%;
-    width: 60%;
+    width: 80%;
     border-radius: 1vw;
     padding: 8% 0;
-    background:#ded5e3;
+    background: #ded5e3;
     box-sizing: border-box;
+    box-shadow: 0 0 40px rgba(255, 255, 255, 0.5); /* Light shadow */
+    position: relative;
+}
+
+
 }
 
 .big-container {
