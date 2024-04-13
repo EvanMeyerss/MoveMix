@@ -22,10 +22,10 @@ p {
 }
 
 p2{
-    width: 60%;
+    width: 80%;
     position: relative;
     margin: 0 auto;
-    padding: 5%;
+    padding: 0;
     font-size: 1.5vw; /* Adjust text size based on viewport width */
 }
 
@@ -139,7 +139,7 @@ h1{
     max-width: 100%;
     width:auto;
     height: auto;
-    max-height:60vw; 
+    max-height:50vw; 
     border-radius: 1vw;
     padding: 5%;
     
@@ -155,13 +155,19 @@ button {
     margin-top: 20vh;
     padding-bottom: 2%;
     width: 30%;
-    bottom: 0; /* Position at the bottom of the parent container */
+    height: 60px;
+    line-height: 60px;
+    bottom: 10%; /* Position at the bottom of the parent container */
     left: 75%; /* Center horizontally */
     transform: translateX(-50%); /* Center horizontally using transform */
     position:absolute;
-    bottom: 0;
-    margin-bottom: 10px; /* Adjust as needed */
+    margin-bottom: 20vh; /* Adjust as needed */
     font-size: 1.5vw;
+    border-radius: 8px; 
+    margin: 2%; 
+    background-color: #A29BC4ff; 
+    color: #FFFFFDff; 
+    font-family: 'Agbalumo', sans-serif; 
 
 }
 
@@ -224,12 +230,3 @@ button {
 }
 
 
-.bottom-container {
-    background-color: #44364D;
-    width: 100%;
-    height: 100px;
-    position: relative;
-    bottom: 0;
-    left: 0;
-    z-index: 9999;
-}
