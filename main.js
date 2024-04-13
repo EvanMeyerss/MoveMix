@@ -55,9 +55,66 @@ document.addEventListener('DOMContentLoaded', function() {
         // Update the content of each element
         desc.textContent = activities[index].description;
         activityTitle.textContent = activities[index].name;
-        ytLink.textContent = "activities[index].youtube_link";
+        ytLink.textContent = activities[index].youtube_link;
         pic.src = activities[index].img_src;
-        map_link.innerHTML = activities[index].map_link;
+        map_link.src = activities[index].map_link;
         activityTitle.textContent = activities[index].name;
     }
 });
+
+//counters
+let num_sports;
+let hard_sports;
+let medium_sports
+let easy_sports;
+
+// Define the hash table class
+class HashTable {
+    constructor() {
+        this.buckets = [];
+        this.size = 55;
+        // Initialize buckets for easy, medium, and hard difficulties
+        this.buckets['easy'] = [];
+        this.buckets['medium'] = [];
+        this.buckets['hard'] = [];
+    }
+
+    // Function to generate hash code
+    hash(key) {
+        let hash = 0;
+        for (let i = 0; i < key.length; i++) {
+            hash += key.charCodeAt(i);
+        }
+        return hash % this.size;
+    }
+
+    // Function to insert an object into the hash table
+    insert(object) {
+        const difficulty = object.difficulty;
+        const index = this.hash(difficulty);
+        this.buckets[difficulty].push(object);
+    }
+
+    // Function to retrieve objects of a certain difficulty
+    retrieve(difficulty) {
+        return this.buckets[difficulty];
+    }
+}
+
+
+// Create a new hash table
+const hashTable = new HashTable();
+
+// Insert objects into the hash table
+objects.forEach(object => {
+    hashTable.insert(object);
+});
+
+// Retrieve objects of different difficulties
+const easyObjects = hashTable.retrieve('easy');
+const mediumObjects = hashTable.retrieve('medium');
+const hardObjects = hashTable.retrieve('hard');
+
+console.log("Easy Objects:", easyObjects);
+console.log("Medium Objects:", mediumObjects);
+console.log("Hard Objects:", hardObjects);
