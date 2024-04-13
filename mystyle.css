@@ -21,7 +21,7 @@ p {
     font-size: 2.0vw; /* Adjust text size based on viewport width */
 }
 
-p2{
+p2 {
     width: 80%;
     position: relative;
     margin: 0 auto;
@@ -35,8 +35,8 @@ title1 {
     flex-direction: column;
     justify-content: space-between;
     align-items: center;
-    padding-top: 3%;
-    padding-bottom:3%;
+    padding-top: 2%;
+    padding-bottom: 3%;
     color:#A29BC4ff;
     /* text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5); Shadow effect */
     /* text-decoration: underline; */
@@ -138,7 +138,7 @@ h1{
 
 .side-container img {
     max-width: 100%;
-    width:auto;
+    width: auto;
     height: auto;
     max-height:50vw; 
     border-radius: 1vw;
@@ -156,15 +156,15 @@ button {
     margin-top: 20vh;
     padding-bottom: 2%;
     width: 30%;
-    height: 60px;
-    line-height: 50px;
+    height: 3vw;
+    line-height: 2.5vw;
     bottom: 5%; /* Position at the bottom of the parent container */
     left: 75%; /* Center horizontally */
     transform: translateX(-50%); /* Center horizontally using transform */
     position:absolute;
     margin-bottom: 20vh; /* Adjust as needed */
     font-size: 1.5vw;
-    border-radius: 8px; 
+    border-radius: 8vw; 
     margin: 2%; 
     background-color: #A29BC4ff; 
     color: #FFFFFDff; 
