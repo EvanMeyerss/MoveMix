@@ -1,40 +1,17 @@
-body {
-    margin: 0;
-    padding: 0;
-    font-family: Arial, sans-serif;
-    text-align: center;
+
+.intro{
+
 }
 
-.container {
-    max-width: 800px;
-    margin: 0 auto;
-    padding: 20px;
+.activity{
+
 }
 
-.big-container {
-    margin-top: 40px;
+.button{
+
 }
 
-.picture-container {
-    margin-bottom: 20px;
-}
+.rating{
 
-.button {
-    margin-top: 20px;
 }
-
-.side-by-side-container {
-    display: flex;
-    justify-content: space-between;
-    margin-top: 40px;
-}
-
-.side-container {
-    width: calc(50% - 10px);
-}
-
-.bottom-container {
-    margin-top: 40px;
-}
-
 
