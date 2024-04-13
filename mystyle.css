@@ -26,7 +26,7 @@ img {
     padding-bottom: 20px;
 }
 
-title {
+title1 {
     display: flex;
     flex-direction: column;
     justify-content: space-between;
@@ -34,6 +34,19 @@ title {
     padding-top: 3%;
     padding-bottom:3%;
     color: white;
+    text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5); /* Shadow effect */
+    text-decoration: underline;
+    font-size: 2.5vw; /* Adjust text size based on viewport width */
+}
+
+title2 {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    align-items: center;
+    padding-top: 3%;
+    padding-bottom:3%;
+    color:#8C6C9D;
     text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5); /* Shadow effect */
     text-decoration: underline;
     font-size: 2.5vw; /* Adjust text size based on viewport width */
@@ -87,7 +100,6 @@ h1{
     margin: 0 auto;
     height: 100%;
     width: 100%;
-
     padding: 15px 0px;
     background: #FFFFFDff;
     box-sizing: border-box;
@@ -103,23 +115,13 @@ h1{
     border-color: black;
     border-width: 5px;
 }
-
-.picture-container {
-    margin-bottom: 40px; /* Adjusted margin */
-    width: auto;
-    height: 100%;
+.side-container img {
+    max-width: 100%;
+    height: auto; /* Ensures the image maintains its aspect ratio */
     border-radius: 1vw;
-    border-style: solid;
-    border-color: #8C6C9D;
-    border-width: 5px;
-    /* margin-bottom: 20px 10px;
-    width: auto;
-    height: 100%;
-    border-radius: 1vw;
-    border-style: solid;
-    border-color: #8C6C9D;
-    border-width: 5px; */
+    padding: 5%;
 }
+
 
 .button {
     margin-top: 20vh;
