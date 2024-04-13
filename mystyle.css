@@ -29,6 +29,7 @@ p2 {
     font-size: 1.5vw; /* Adjust text size based on viewport width */
 }
 
+
 title1 {
     display: flex;
     flex-direction: column;
@@ -247,7 +248,8 @@ button {
     width: 30%;
     position: absolute;
     left: 10%;
-    margin-top: 20px;
+    margin-top: 1vh;
+    height: auto;
 }
 
 .bottom-right-container {
@@ -256,7 +258,8 @@ button {
     width: 30%;
     position: absolute;
     left: 45%;
-    margin-top: 2vh;
+    margin-top: 1vh;
+    height: auto;
 }
 
 
@@ -264,8 +267,13 @@ button {
     position: absolute;
     bottom: 20px;
     right: 10px;
-    width: 150px;
-    height: auto;
+    width: auto;
+    height: 14vh;
     z-index: 999;
 
+}
+
+f2 {
+    font-family: monospace, sans-serif;
+    font-size: 16px;
 }
