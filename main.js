@@ -23,7 +23,7 @@ document.addEventListener('DOMContentLoaded', function() {
                     };
 
                     // Add the activity object to the activities array
-                    currentIndex = Math.floor(Math.random() * 58) + 1;
+                    currentIndex = Math.floor(Math.random() * 56) + 1;
                     activities.push(activity);
                 }
             }
