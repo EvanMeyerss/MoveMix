@@ -1,7 +1,7 @@
 @import url('https://fonts.googleapis.com/css2?family=Agbalumo&family=Lilita+One&family=Philosopher:ital,wght@0,400;0,700;1,400;1,700&display=swap');
 
 body {
-    background-color: #ded5e3;
+    background-color: #fcf8fd;
     font-family: 'Agbalumo', sans-serif;
     text-align: center;
 }
@@ -60,7 +60,7 @@ h1{
 
 .headerimg {
     width: 100%; /* Adjust width as needed */
-    height: 600px; /* Adjust height as needed */
+    height: auto; /* Adjust height as needed */
     background-image: url('minimalist-nature-1920-x-1080-l1308frgkxw1naye.jpg'); /* Replace 'path/to/your/image.jpg' with the path to your image */
     background-size: cover; /* Cover the entire container with the background image */
     background-position: center; /* Center the background image */
