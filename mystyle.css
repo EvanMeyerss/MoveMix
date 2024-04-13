@@ -1,9 +1,7 @@
 @import url('https://fonts.googleapis.com/css2?family=Lilita+One&family=Philosopher:ital,wght@0,400;0,700;1,400;1,700&display=swap');
 
 body {
-    margin: 0;
-    padding: 0;
-    background-color: beige;
+    background-color: #ded5e3;
     font-family: 'Philosopher', sans-serif;
     text-align: center;
 }
@@ -29,24 +27,34 @@ h1{
     font-family: 'Philosopher', sans-serif;
     font-size: calc(50px + 0.5vw); /* Text size increases as viewport width increases */
     text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5); /* Shadow effect */
-    color: rgb(100, 50, 150);
+
 
 }
 .container {
     margin: 0 auto;
-    height: 100%;
-    width: 100%;
-    max-width: 90%;
-    border-radius: 10%;
-    padding: 20px;
+    height: 90%;
+    width: 80%;
+    border-radius: 1vw;
+<<<<<<< HEAD
+    padding: 8% 0;
+    background: #ded5e3;
+=======
+    padding: 15px 10px;
     background:#ded5e3;
+>>>>>>> 9882e0e8341435c5001d3c504d877a1d66cad5c0
     box-sizing: border-box;
+    box-shadow: 0 0 40px rgba(255, 255, 255, 0.5); /* Light shadow */
+    position: relative;
+}
+
+
 }
 
 .big-container {
-    margin-top: 40px;
+    margin-top: 2px;
     width: auto;
     height: 100%;
+    border-radius: 1vw;
     border-style: solid;
     border-color: purple;
     border-width: 5px;
