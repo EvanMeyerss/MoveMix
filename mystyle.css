@@ -36,7 +36,7 @@ title1 {
     align-items: center;
     padding-top: 3%;
     padding-bottom:3%;
-    color:#A29BC4ff;
+    color:#6C6EA9ff;
     /* text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5); Shadow effect */
     /* text-decoration: underline; */
     font-size: 3.5vw; /* Adjust text size based on viewport width */
@@ -156,8 +156,8 @@ button {
     padding-bottom: 2%;
     width: 30%;
     height: 60px;
-    line-height: 50px;
-    bottom: 7%; /* Position at the bottom of the parent container */
+    line-height: 60px;
+    bottom: 10%; /* Position at the bottom of the parent container */
     left: 75%; /* Center horizontally */
     transform: translateX(-50%); /* Center horizontally using transform */
     position:absolute;
@@ -230,6 +230,7 @@ button {
 }
 
 
+<<<<<<< HEAD
 .bottom-container {
     background-color: #362b3d;
     width: 100%;
@@ -272,3 +273,5 @@ p {
     z-index: 999;
 
 }
+=======
+>>>>>>> ee250b0bb8fb7d84926c630618927f78e88fdd8d
