@@ -3,13 +3,8 @@
 const activities = [];
 let currentIndex = 0
 let iterator = 0
-let easyIterator = 0
-let medIterator = 0
-let hardIterator = 0
-let bucketSelect = 0
-let easyBool = true
-let medBool = true
-let hardBool = true
+
+
 
 
 document.addEventListener('DOMContentLoaded', function() {
@@ -38,98 +33,29 @@ document.addEventListener('DOMContentLoaded', function() {
             console.log(activities);
 
             // Call the propagate function with the activities array
-            for (let i = 0; i < activities.length; i++)
-            {
-                hashTable.insert(activities[i]);
-            }
-            // Retrieve objects of different difficulties
-            const easyObjects = hashTable.retrieve('easy');
-            const mediumObjects = hashTable.retrieve('medium');
-            const hardObjects = hashTable.retrieve('hard');
-            console.log("Easy Objects:", easyObjects);
-            console.log("Medium Objects:", mediumObjects);
-            console.log("Hard Objects:", hardObjects);
-            currentIndex = Math.floor(Math.random() * 24);
-            propagate(easyObjects, currentIndex);
+            propagate(activities, 7);
+
             // Set up the event listener for the "Next" button
             document.getElementById("next").addEventListener("click", () => {
-                let bucketfound = false;
-                while(bucketfound == false) {
-                    bucketSelect = Math.floor(Math.random() * 3) + 1;
-                    console.log("bucketSelect", bucketSelect)
-                    if(bucketSelect == 1 && easyBool) {
-                        easyIterator++;
-
-                        currentIndex = Math.floor(Math.random() * 24);
-                        console.log("currentIndex1", currentIndex);
-                        while (easyObjects[currentIndex].selected == true)
-                        {
-                            currentIndex = Math.floor(Math.random() * 24);
-                            console.log("currentIndex2", currentIndex)
-                        }
-                        if(easyIterator >= 23) {
-                            easyBool = false;
-                        }
-                        console.log("easyIterator", easyIterator)
-                        propagate(easyObjects, currentIndex);
-                        bucketfound = true
-                    }
-                    else if(bucketSelect == 2 && medBool) {
-                        medIterator++;
-
-                        currentIndex = Math.floor(Math.random() * 22);
-                        console.log("currentIndex1", currentIndex);
-                        while (mediumObjects[currentIndex].selected == true)
-                        {
-                            currentIndex = Math.floor(Math.random() * 22);
-                            console.log("currentIndex2", currentIndex);
-                        }
-                        if(medIterator >= 22) {
-                            medBool = false;
-                        }
-                        console.log("medIterator", medIterator)
-                        propagate(mediumObjects, currentIndex);
-                        bucketfound = true
-                    }
-                    else if(bucketSelect == 3 && hardBool) {
-                        hardIterator++;
-                        currentIndex = Math.floor(Math.random() * 10);
-                        console.log("currentIndex1", currentIndex);
-                        while (hardObjects[currentIndex].selected == true)
-                        {
-                            currentIndex = Math.floor(Math.random() * 10);
-                            console.log("currentIndex2", currentIndex);
-                        }
-
-                        if(hardIterator >= 10) {
-                            hardBool = false;
-                        }
-                        console.log("hardIterator", hardIterator)
-                        propagate(hardObjects, currentIndex);
-                        bucketfound = true
-                    }
-                    iterator++;
-                    if(!easyBool && !medBool && !hardBool) {
-                        easyIterator = 0
-                        medIterator = 0
-                        hardIterator = 0
-                        easyBool = true
-                        medBool = true
-                        hardBool = true
-                        for (let i = 0; i < activities.length; i++) {
-                            activities[i].selected = false
-                        }
-                        bucketfound = true
+                iterator++;
+                if(iterator >= 57) {
+                    iterator = 0
+                    for (let i = 0; i < activities.length; i++) {
+                        activities[i].selected = false
                     }
                 }
-
+                currentIndex = Math.floor(Math.random() * 55) + 1;
+                while(activities[currentIndex].selected === true)
+                    currentIndex = Math.floor(Math.random() * 58) + 1;
+                activities[currentIndex].selected = true
+                propagate(activities, currentIndex);
             });
         })
         .catch(error => {
             console.error('Error:', error);
         });
 
-    function propagate(arr, index) {
+    function propagate(activities, index) {
 
         const desc = document.getElementById("desc");
         const next = document.getElementById("next");
@@ -139,13 +65,12 @@ document.addEventListener('DOMContentLoaded', function() {
         const activityTitle = document.getElementById("title1");
 
         // Update the content of each element
-        desc.textContent = arr[index].description;
-        activityTitle.textContent = arr[index].name;
-        ytLink.src = arr[index].youtube_link;
-        pic.src = arr[index].img_src;
-        map_link.src = arr[index].map_link;
-        activityTitle.textContent = arr[index].name;
-        arr[index].selected = true;
+        desc.textContent = activities[index].description;
+        activityTitle.textContent = activities[index].name;
+        ytLink.src = activities[index].youtube_link;
+        pic.src = activities[index].img_src;
+        map_link.src = activities[index].map_link;
+        activityTitle.textContent = activities[index].name;
     }
 });
 
@@ -172,9 +97,3 @@ document.addEventListener('DOMContentLoaded', function() {
 window.addEventListener('load', function() {
     setSideContainerImageHeight(); // Call the function when the window is refreshed or reloaded
 });
-
-
-
-
-
-
