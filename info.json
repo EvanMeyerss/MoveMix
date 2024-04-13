@@ -255,7 +255,7 @@
     "name": "Skateboarding",
     "img_src": "photos/22.webp",
     "description": "Skateboarding is a recreational activity and sport where individuals ride on a board with wheels and perform various tricks and maneuvers, often in skate parks or urban environments. It involves balance, coordination, and creativity, and has evolved into a popular subculture with its own style and community.",
-    "map_link": "https://www.google.com/map_links/embed?pb=!1m18!1m12!1m3!1d3291125.502179421!2d-96.41043363749996!3d36.33679830000001!2m3!1f0!2f0!3f0!3m2",
+    "map_link": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d206123.54549700767!2d-94.38217170153692!3d36.17433117525575!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x87c96f2583ca84bf%3A0x7bc410f5f55e6347!2sWalker%20Skatepark!5e0!3m2!1sen!2sus!4v1713036639550!5m2!1sen!2sus",
     "youtube_link": "https://www.youtube.com/embed/caybBWR_B7U?si=uUV-03BQsw9qkXNq",
     "intensity": "hard",
     "selected": false
@@ -303,7 +303,7 @@
     "name": "Kayaking",
     "img_src": "photos/26.webp",
     "description": "Kayaking is a water sport where individuals paddle small boats called kayaks, typically propelled by a double-bladed paddle. It can be enjoyed in various settings, from calm lakes and rivers to challenging whitewater rapids and coastal waters, offering opportunities for adventure, exploration, and exercise in nature.",
-    "map_link": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d1642088.8503774784!2d-96.10004401339755!3d36.500918455301196!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x87c96bbd350c2673%3A0xf73630aa067f70b1!2sLake%20Fayetteville!5e0!3m2!1sen!2sus!4v1712997019706!5m2!1sen!2sus' width='600' height='450' style='border:0;' allowfullscreen='' loading='lazy' referrerpolicy='no-referrer-when-downgrade",
+    "map_link": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d57896.409953881506!2d-94.20237851019888!3d36.09982892361616!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x87c96b844e2d3e65%3A0x5f9b3d0c8a07f9b9!2sLake%20Fayetteville%20Park!5e0!3m2!1sen!2sus!4v1713036527714!5m2!1sen!2sus",
     "youtube_link": "https://www.youtube.com/embed/0Wwm-dF7vbs?si=CTopsbRoteVpnrXh",
     "intensity": "easy",
     "selected": false
@@ -315,7 +315,7 @@
     "name": "Fishing",
     "img_src": "photos/27.webp",
     "description": "Fishing is a recreational activity involving catching fish, typically using a rod, reel, line, and bait. It can be done in freshwater or saltwater environments, offering relaxation, challenge, and the opportunity to connect with nature while enjoying the outdoors.",
-    "map_link": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d1642088.8503774784!2d-96.10004401339755!3d36.500918455301196!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x87c96bbd350c2673%3A0xf73630aa067f70b1!2sLake%20Fayetteville!5e0!3m2!1sen!2sus!4v1712997019706!5m2!1sen!2sus' width='600' height='450' style='border:0;' allowfullscreen='' loading='lazy' referrerpolicy='no-referrer-when-downgrade",
+    "map_link": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d57896.409953881506!2d-94.20237851019888!3d36.09982892361616!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x87c96b844e2d3e65%3A0x5f9b3d0c8a07f9b9!2sLake%20Fayetteville%20Park!5e0!3m2!1sen!2sus!4v1713036527714!5m2!1sen!2sus",
     "youtube_link": "https://www.youtube.com/embed/CFTI8TdrNtY?si=pATtutsYp1aZpZiB",
     "intensity": "easy",
     "selected": false
@@ -555,7 +555,7 @@
     "name": "Inner Tubing",
     "img_src": "photos/47.webp",
     "description": "Inner tubing involves floating down rivers or across lakes on an inflatable tube, offering a relaxing way to enjoy the water and nature while drifting along at a leisurely pace. It's a popular activity for both solo relaxation and group outings, providing a refreshing escape from the heat during summer months.",
-    "map_link": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d206329.92488597363!2d-94.46027771079919!3d36.09580190295319!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x87c96bbd350c2673%3A0xf73630aa067f70b1!2sLake%20Fayetteville!5e0!3m2!1sen!2sus!4v1712996148777!5m2!1sen!2sus' width='600' height='450' style='border:0;' allowfullscreen='' loading='lazy' referrerpolicy='no-referrer-when-downgrade",
+    "map_link": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d57896.409953881506!2d-94.20237851019888!3d36.09982892361616!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x87c96b844e2d3e65%3A0x5f9b3d0c8a07f9b9!2sLake%20Fayetteville%20Park!5e0!3m2!1sen!2sus!4v1713036527714!5m2!1sen!2sus",
     "youtube_link": "https://www.youtube.com/embed/MWEpRcRlAx0?si=ajC1DEwt4LavQDB1",
     "intensity": "medium",
     "selected": false
