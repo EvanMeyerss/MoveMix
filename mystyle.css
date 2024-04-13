@@ -17,6 +17,7 @@ title {
     justify-content: space-between;
     align-items: center;
     padding: 8% 0; /* we want 8% on the margins */
+
 }
 
 main_body {
@@ -27,6 +28,7 @@ h1{
     font-family: 'Philosopher', sans-serif;
     font-size: calc(50px + 0.5vw); /* Text size increases as viewport width increases */
     text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5); /* Shadow effect */
+    color:#8C6C9D;
 
 
 }
@@ -35,20 +37,13 @@ h1{
     height: 90%;
     width: 80%;
     border-radius: 1vw;
-<<<<<<< HEAD
-    padding: 8% 0;
-    background: #ded5e3;
-=======
     padding: 15px 10px;
     background:#ded5e3;
->>>>>>> 9882e0e8341435c5001d3c504d877a1d66cad5c0
     box-sizing: border-box;
     box-shadow: 0 0 40px rgba(255, 255, 255, 0.5); /* Light shadow */
     position: relative;
 }
 
-
-}
 
 .big-container {
     margin-top: 2px;
@@ -56,16 +51,17 @@ h1{
     height: 100%;
     border-radius: 1vw;
     border-style: solid;
-    border-color: purple;
+    border-color: black;
     border-width: 5px;
 }
 
 .picture-container {
-    margin-bottom: 20px;
+    margin-bottom: 20px 10px;
     width: auto;
     height: 100%;
+    border-radius: 1vw;
     border-style: solid;
-    border-color: green;
+    border-color: #8C6C9D;
     border-width: 5px;
 }
 
