@@ -116,10 +116,10 @@ document.addEventListener('DOMContentLoaded', function() {
             console.log(hard);
             //event listener for when user clicks next
             document.getElementById("next").addEventListener("click", () => {
-                //bucketfound will let the while loop search
+                //bucketfound will let the while loop search until it finds a bucket that has elements
                 let bucketfound = false;
                 while(bucketfound == false) {
-                    bucketSelect = Math.floor(Math.random() * 3) + 1;s
+                    bucketSelect = Math.floor(Math.random() * 3) + 1;
                     console.log("bucketSelect", bucketSelect)
                     if(bucketSelect == 1 && easyBool) {
                         currentIndex = easy[easyIterator];
