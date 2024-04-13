@@ -23,7 +23,6 @@ document.addEventListener('DOMContentLoaded', function() {
                     };
 
                     // Add the activity object to the activities array
-                    currentIndex = Math.floor(Math.random() * 56) + 1;
                     activities.push(activity);
                 }
             }
@@ -31,7 +30,7 @@ document.addEventListener('DOMContentLoaded', function() {
             console.log(activities);
 
             // Call the propagate function with the activities array
-            propagate(activities, currentIndex);
+            propagate(activities, 0);
 
             // Set up the event listener for the "Next" button
             document.getElementById("next").addEventListener("click", () => {
@@ -42,9 +41,9 @@ document.addEventListener('DOMContentLoaded', function() {
                         activities[i].selected = false
                     }
                 }
-                currentIndex = Math.floor(Math.random() * 56) + 1;
+                currentIndex = Math.floor(Math.random() * 55) + 1;
                 while(activities[currentIndex].selected === true)
-                    currentIndex = Math.floor(Math.random() * 56) + 1;
+                    currentIndex = Math.floor(Math.random() * 58) + 1;
                 activities[currentIndex].selected = true
                 propagate(activities, currentIndex);
             });
@@ -70,4 +69,28 @@ document.addEventListener('DOMContentLoaded', function() {
         map_link.src = activities[index].map_link;
         activityTitle.textContent = activities[index].name;
     }
+});
+
+function setSideContainerImageHeight() {
+    const sideContainer = document.querySelectorAll('.side-container');
+    const sideContainerWidth = sideContainer[0].offsetWidth; // Assuming all side containers have the same width
+
+    const images = document.querySelectorAll('.side-container img');
+    images.forEach(image => {
+        const aspectRatio = image.naturalWidth / image.naturalHeight;
+        const height = sideContainerWidth / aspectRatio;
+        image.style.height = height + 'px';
+    });
+}
+
+window.addEventListener('resize', function() {
+    setSideContainerImageHeight(); // Call the function whenever the window is resized
+});
+
+document.addEventListener('DOMContentLoaded', function() {
+    setSideContainerImageHeight(); // Call the function after the page loads
+});
+
+window.addEventListener('load', function() {
+    setSideContainerImageHeight(); // Call the function when the window is refreshed or reloaded
 });
