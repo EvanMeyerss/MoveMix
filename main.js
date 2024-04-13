@@ -1,14 +1,13 @@
 // Created: 4/12/2024
 // Updated:
 const activities = [];
-let currentIndex = 0;
+
 let iterator = 0
 
 document.addEventListener('DOMContentLoaded', function() {
     fetch('info.json')
         .then(response => response.json())
         .then(data => {
-
             // Iterate through the object properties
             for (const key in data) {
                 if (data.hasOwnProperty(key)) {
@@ -36,12 +35,16 @@ document.addEventListener('DOMContentLoaded', function() {
             // Set up the event listener for the "Next" button
             document.getElementById("next").addEventListener("click", () => {
                 iterator++;
-                if(iterator >= 57) {}
-                iterator = 0
-                for(let i = 0; i < activities.length; i++) {
-                    activities[i].selected = false
+                if(iterator >= 57) {
+                    iterator = 0
+                    for (let i = 0; i < activities.length; i++) {
+                        activities[i].selected = false
+                    }
                 }
-                currentIndex = Math.floor(Math.random() * 58) + 1;
+                currentIndex = Math.floor(Math.random() * 57) + 1;
+                while(activities[currentIndex].selected === true)
+                    currentIndex = Math.floor(Math.random() * 58) + 1;
+                activities[currentIndex].selected = true
                 propagate(activities, currentIndex);
             });
         })
@@ -49,9 +52,8 @@ document.addEventListener('DOMContentLoaded', function() {
             console.error('Error:', error);
         });
 
-    let currentIndex = 0;
-
     function propagate(activities, index) {
+
         const desc = document.getElementById("desc");
         const next = document.getElementById("next");
         const ytLink = document.getElementById("link");
