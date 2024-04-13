@@ -1,7 +1,7 @@
 // Created: 4/12/2024
 // Updated:
 const activities = [];
-
+let currentIndex = 0
 let iterator = 0
 
 document.addEventListener('DOMContentLoaded', function() {
@@ -41,7 +41,7 @@ document.addEventListener('DOMContentLoaded', function() {
                         activities[i].selected = false
                     }
                 }
-                currentIndex = Math.floor(Math.random() * 57) + 1;
+                currentIndex = Math.floor(Math.random() * 55) + 1;
                 while(activities[currentIndex].selected === true)
                     currentIndex = Math.floor(Math.random() * 58) + 1;
                 activities[currentIndex].selected = true
