@@ -22,13 +22,14 @@ title {
     font-size: 2.5vw; /* Adjust text size based on viewport width */
 }
 
-mbody {
+.mbody {
+    text-align: center;
     padding-bottom: 20px;
     width: 60%;
 }
 
 iframe{
-    width: 50%;
+    width: 75%;
     height:auto;
 }
 
