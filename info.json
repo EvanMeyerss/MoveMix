@@ -2,10 +2,10 @@
 {
   "act1":{
     "name": "Pickleball",
-    "img_src": "<a href=\"https://media.istockphoto.com/photos/multi-sports-proud-players-collage-on-grand-arena-picture-id637332860?k=6&m=637332860&s=612x612&w=0&h=Ciw1A0MJRMz9lDyegBZDDdDkUyVi7_SYTl7G7QTgaRM=\" target=\"_blank\"><img src=\"https://media.istockphoto.com/photos/multi-sports-proud-players-collage-on-grand-arena-picture-id637332860?k=6&m=637332860&s=612x612&w=0&h=Ciw1A0MJRMz9lDyegBZDDdDkUyVi7_SYTl7G7QTgaRM=\" alt",
+    "img_src": "<a href='https://media.istockphoto.com/photos/multi-sports-proud-players-collage-on-grand-arena-picture-id637332860?k=6&m=637332860&s=612x612&w=0&h=Ciw1A0MJRMz9lDyegBZDDdDkUyVi7_SYTl7G7QTgaRM=' target='_blank'><img src='https://media.istockphoto.com/photos/multi-sports-proud-players-collage-on-grand-arena-picture-id637332860?k=6&m=637332860&s=612x612&w=0&h=Ciw1A0MJRMz9lDyegBZDDdDkUyVi7_SYTl7G7QTgaRM=' alt",
     "description": "Sport",
-    "map_link": "<iframe src=\"https://www.google.com/map_links/embed?pb=!1m18!1m12!1m3!1d103226.65138243705!2d-94.22848794179689!3d36.0487849!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x87c96f2f922ef6d3%3A0x7034856264083d3d!2sWalker%20Park!5e0!3m2!1sen",
-    "youtube_link": "<iframe width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/rJBhkkzNDkQ?si=iuHHO8YiDt9JDq6s\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen></iframe>",
+    "map_link": "<iframe src='https://www.google.com/map_links/embed?pb=!1m18!1m12!1m3!1d103226.65138243705!2d-94.22848794179689!3d36.0487849!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x87c96f2f922ef6d3%3A0x7034856264083d3d!2sWalker%20Park!5e0!3m2!1sen",
+    "youtube_link": "<iframe width='560' height='315' src='https://www.youtube.com/embed/rJBhkkzNDkQ?si=iuHHO8YiDt9JDq6s' title='YouTube video player' frameborder='0' allow='accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share' referrerpolicy='strict-origin-when-cross-origin' allowfullscreen></iframe>",
     "intensity": "easy",
     "selected": false
   },
@@ -13,10 +13,10 @@
 
   "act2":{
     "name": "Spikeball",
-    "img_src": "<a href=\"https://media.istockphoto.com/photos/multi-sports-proud-players-collage-on-grand-arena-picture-id637332860?k=6&m=637332860&s=612x612&w=0&h=Ciw1A0MJRMz9lDyegBZDDdDkUyVi7_SYTl7G7QTgaRM=\" target=\"_blank\"><img src=\"https://media.istockphoto.com/photos/multi-sports-proud-players-collage-on-grand-arena-picture-id637332860?k=6&m=637332860&s=612x612&w=0&h=Ciw1A0MJRMz9lDyegBZDDdDkUyVi7_SYTl7G7QTgaRM=\" alt",
+    "img_src": "<a href='https://media.istockphoto.com/photos/multi-sports-proud-players-collage-on-grand-arena-picture-id637332860?k=6&m=637332860&s=612x612&w=0&h=Ciw1A0MJRMz9lDyegBZDDdDkUyVi7_SYTl7G7QTgaRM=' target='_blank'><img src='https://media.istockphoto.com/photos/multi-sports-proud-players-collage-on-grand-arena-picture-id637332860?k=6&m=637332860&s=612x612&w=0&h=Ciw1A0MJRMz9lDyegBZDDdDkUyVi7_SYTl7G7QTgaRM=' alt",
     "description": "Sport",
-    "map_link": "<iframe src=\"https://www.google.com/map_links/embed?pb=!1m18!1m12!1m3!1d103240.8943625461!2d-94.11132804179688!3d36.0379219!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x87c943fe435b16af%3A0x5bf5121e2752f538!2sElkins",
-    "youtube_link": "<iframe width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/rJBhkkzNDkQ?si=iuHHO8YiDt9JDq6s\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen></iframe>",
+    "map_link": "<iframe src='https://www.google.com/map_links/embed?pb=!1m18!1m12!1m3!1d103240.8943625461!2d-94.11132804179688!3d36.0379219!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x87c943fe435b16af%3A0x5bf5121e2752f538!2sElkins",
+    "youtube_link": "<iframe width='560' height='315' src='https://www.youtube.com/embed/rJBhkkzNDkQ?si=iuHHO8YiDt9JDq6s' title='YouTube video player' frameborder='0' allow='accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share' referrerpolicy='strict-origin-when-cross-origin' allowfullscreen></iframe>",
     "intensity": "easy",
     "selected": false
   },
@@ -25,10 +25,10 @@
 
   "act3":{
     "name": "Basketball",
-    "img_src": "<a href=\"https://media.istockphoto.com/photos/multi-sports-proud-players-collage-on-grand-arena-picture-id637332860?k=6&m=637332860&s=612x612&w=0&h=Ciw1A0MJRMz9lDyegBZDDdDkUyVi7_SYTl7G7QTgaRM=\" target=\"_blank\"><img src=\"https://media.istockphoto.com/photos/multi-sports-proud-players-collage-on-grand-arena-picture-id637332860?k=6&m=637332860&s=612x612&w=0&h=Ciw1A0MJRMz9lDyegBZDDdDkUyVi7_SYTl7G7QTgaRM=\" alt",
+    "img_src": "<a href='https://media.istockphoto.com/photos/multi-sports-proud-players-collage-on-grand-arena-picture-id637332860?k=6&m=637332860&s=612x612&w=0&h=Ciw1A0MJRMz9lDyegBZDDdDkUyVi7_SYTl7G7QTgaRM=' target='_blank'><img src='https://media.istockphoto.com/photos/multi-sports-proud-players-collage-on-grand-arena-picture-id637332860?k=6&m=637332860&s=612x612&w=0&h=Ciw1A0MJRMz9lDyegBZDDdDkUyVi7_SYTl7G7QTgaRM=' alt",
     "description": "Sport",
-    "map_link": "<iframe src=\"https://www.google.com/map_links/embed?pb=!1m18!1m12!1m3!1d103226.65138243705!2d-94.22848794179689!3d36.0487849!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3",
-    "youtube_link": "<iframe width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/rJBhkkzNDkQ?si=iuHHO8YiDt9JDq6s\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen></iframe>",
+    "map_link": "<iframe src='https://www.google.com/map_links/embed?pb=!1m18!1m12!1m3!1d103226.65138243705!2d-94.22848794179689!3d36.0487849!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3",
+    "youtube_link": "<iframe width='560' height='315' src='https://www.youtube.com/embed/rJBhkkzNDkQ?si=iuHHO8YiDt9JDq6s' title='YouTube video player' frameborder='0' allow='accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share' referrerpolicy='strict-origin-when-cross-origin' allowfullscreen></iframe>",
     "intensity": "easy",
     "selected": false
   },
@@ -37,10 +37,10 @@
 
   "act4":{
     "name": "Football",
-    "img_src": "<a href=\"https://media.istockphoto.com/photos/multi-sports-proud-players-collage-on-grand-arena-picture-id637332860?k=6&m=637332860&s=612x612&w=0&h=Ciw1A0MJRMz9lDyegBZDDdDkUyVi7_SYTl7G7QTgaRM=\" target=\"_blank\"><img src=\"https://media.istockphoto.com/photos/multi-sports-proud-players-collage-on-grand-arena-picture-id637332860?k=6&m=637332860&s=612x612&w=0&h=Ciw1A0MJRMz9lDyegBZDDdDkUyVi7_SYTl7G7QTgaRM=\" alt",
+    "img_src": "<a href='https://media.istockphoto.com/photos/multi-sports-proud-players-collage-on-grand-arena-picture-id637332860?k=6&m=637332860&s=612x612&w=0&h=Ciw1A0MJRMz9lDyegBZDDdDkUyVi7_SYTl7G7QTgaRM=' target='_blank'><img src='https://media.istockphoto.com/photos/multi-sports-proud-players-collage-on-grand-arena-picture-id637332860?k=6&m=637332860&s=612x612&w=0&h=Ciw1A0MJRMz9lDyegBZDDdDkUyVi7_SYTl7G7QTgaRM=' alt",
     "description": "Sport",
-    "map_link": "<iframe src=\"https://www.google.com/map_links/embed?pb=!1m18!1m12!1m3!1d103226.65138243705!2d-94.22848794179689!3d36.0487849!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!",
-    "youtube_link": "<iframe width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/rJBhkkzNDkQ?si=iuHHO8YiDt9JDq6s\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen></iframe>",
+    "map_link": "<iframe src='https://www.google.com/map_links/embed?pb=!1m18!1m12!1m3!1d103226.65138243705!2d-94.22848794179689!3d36.0487849!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!",
+    "youtube_link": "<iframe width='560' height='315' src='https://www.youtube.com/embed/rJBhkkzNDkQ?si=iuHHO8YiDt9JDq6s' title='YouTube video player' frameborder='0' allow='accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share' referrerpolicy='strict-origin-when-cross-origin' allowfullscreen></iframe>",
     "intensity": "easy",
     "selected": false
   },
@@ -49,10 +49,10 @@
 
   "act5":{
     "name": "Soccer",
-    "img_src": "<a href=\"https://media.istockphoto.com/photos/multi-sports-proud-players-collage-on-grand-arena-picture-id637332860?k=6&m=637332860&s=612x612&w=0&h=Ciw1A0MJRMz9lDyegBZDDdDkUyVi7_SYTl7G7QTgaRM=\" target=\"_blank\"><img src=\"https://media.istockphoto.com/photos/multi-sports-proud-players-collage-on-grand-arena-picture-id637332860?k=6&m=637332860&s=612x612&w=0&h=Ciw1A0MJRMz9lDyegBZDDdDkUyVi7_SYTl7G7QTgaRM=\" alt",
+    "img_src": "<a href='https://media.istockphoto.com/photos/multi-sports-proud-players-collage-on-grand-arena-picture-id637332860?k=6&m=637332860&s=612x612&w=0&h=Ciw1A0MJRMz9lDyegBZDDdDkUyVi7_SYTl7G7QTgaRM=' target='_blank'><img src='https://media.istockphoto.com/photos/multi-sports-proud-players-collage-on-grand-arena-picture-id637332860?k=6&m=637332860&s=612x612&w=0&h=Ciw1A0MJRMz9lDyegBZDDdDkUyVi7_SYTl7G7QTgaRM=' alt",
     "description": "Sport",
-    "map_link": "<iframe src=\"https://www.google.com/map_links/embed?pb=!1m18!1m12!1m3!1d103226.65138243705!2d-94.22848794179689!3d36.0487849!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3",
-    "youtube_link": "<iframe width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/rJBhkkzNDkQ?si=iuHHO8YiDt9JDq6s\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen></iframe>",
+    "map_link": "<iframe src='https://www.google.com/map_links/embed?pb=!1m18!1m12!1m3!1d103226.65138243705!2d-94.22848794179689!3d36.0487849!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3",
+    "youtube_link": "<iframe width='560' height='315' src='https://www.youtube.com/embed/rJBhkkzNDkQ?si=iuHHO8YiDt9JDq6s' title='YouTube video player' frameborder='0' allow='accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share' referrerpolicy='strict-origin-when-cross-origin' allowfullscreen></iframe>",
     "intensity": "easy",
     "selected": false
   },
@@ -61,10 +61,10 @@
 
   "act6":{
     "name": "Volleyball",
-    "img_src": "<a href=\"https://media.istockphoto.com/photos/multi-sports-proud-players-collage-on-grand-arena-picture-id637332860?k=6&m=637332860&s=612x612&w=0&h=Ciw1A0MJRMz9lDyegBZDDdDkUyVi7_SYTl7G7QTgaRM=\" target=\"_blank\"><img src=\"https://media.istockphoto.com/photos/multi-sports-proud-players-collage-on-grand-arena-picture-id637332860?k=6&m=637332860&s=612x612&w=0&h=Ciw1A0MJRMz9lDyegBZDDdDkUyVi7_SYTl7G7QTgaRM=\" alt",
+    "img_src": "<a href='https://media.istockphoto.com/photos/multi-sports-proud-players-collage-on-grand-arena-picture-id637332860?k=6&m=637332860&s=612x612&w=0&h=Ciw1A0MJRMz9lDyegBZDDdDkUyVi7_SYTl7G7QTgaRM=' target='_blank'><img src='https://media.istockphoto.com/photos/multi-sports-proud-players-collage-on-grand-arena-picture-id637332860?k=6&m=637332860&s=612x612&w=0&h=Ciw1A0MJRMz9lDyegBZDDdDkUyVi7_SYTl7G7QTgaRM=' alt",
     "description": "Sport",
-    "map_link": "<iframe src=\"https://www.google.com/map_links/embed?pb=!1m18!1m12!1m3!1d103226.65138243705!2d-94.22848794179689!3d36.0487849!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3",
-    "youtube_link": "<iframe width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/rJBhkkzNDkQ?si=iuHHO8YiDt9JDq6s\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen></iframe>",
+    "map_link": "<iframe src='https://www.google.com/map_links/embed?pb=!1m18!1m12!1m3!1d103226.65138243705!2d-94.22848794179689!3d36.0487849!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3",
+    "youtube_link": "<iframe width='560' height='315' src='https://www.youtube.com/embed/rJBhkkzNDkQ?si=iuHHO8YiDt9JDq6s' title='YouTube video player' frameborder='0' allow='accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share' referrerpolicy='strict-origin-when-cross-origin' allowfullscreen></iframe>",
     "intensity": "easy",
     "selected": false
   },
@@ -73,10 +73,10 @@
 
   "act7":{
     "name": "Baseball",
-    "img_src": "<a href=\"https://media.istockphoto.com/photos/multi-sports-proud-players-collage-on-grand-arena-picture-id637332860?k=6&m=637332860&s=612x612&w=0&h=Ciw1A0MJRMz9lDyegBZDDdDkUyVi7_SYTl7G7QTgaRM=\" target=\"_blank\"><img src=\"https://media.istockphoto.com/photos/multi-sports-proud-players-collage-on-grand-arena-picture-id637332860?k=6&m=637332860&s=612x612&w=0&h=Ciw1A0MJRMz9lDyegBZDDdDkUyVi7_SYTl7G7QTgaRM=\" alt",
+    "img_src": "<a href='https://media.istockphoto.com/photos/multi-sports-proud-players-collage-on-grand-arena-picture-id637332860?k=6&m=637332860&s=612x612&w=0&h=Ciw1A0MJRMz9lDyegBZDDdDkUyVi7_SYTl7G7QTgaRM=' target='_blank'><img src='https://media.istockphoto.com/photos/multi-sports-proud-players-collage-on-grand-arena-picture-id637332860?k=6&m=637332860&s=612x612&w=0&h=Ciw1A0MJRMz9lDyegBZDDdDkUyVi7_SYTl7G7QTgaRM=' alt",
     "description": "Sport",
-    "map_link": "<iframe src=\"https://www.google.com/map_links/embed?pb=!1m18!1m12!1m3!1d25806.014056178454!2d-94.17911806044923!3d36.05076389999999!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x87c96f6655130663%3A0xfafd40e123453c38!2sWalker%20Park%20baseball%20field!5e0!3m2!1sen!2sus!4v1712976722420!5m2!1se",
-    "youtube_link": "<iframe width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/rJBhkkzNDkQ?si=iuHHO8YiDt9JDq6s\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen></iframe>",
+    "map_link": "<iframe src='https://www.google.com/map_links/embed?pb=!1m18!1m12!1m3!1d25806.014056178454!2d-94.17911806044923!3d36.05076389999999!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x87c96f6655130663%3A0xfafd40e123453c38!2sWalker%20Park%20baseball%20field!5e0!3m2!1sen!2sus!4v1712976722420!5m2!1se",
+    "youtube_link": "<iframe width='560' height='315' src='https://www.youtube.com/embed/rJBhkkzNDkQ?si=iuHHO8YiDt9JDq6s' title='YouTube video player' frameborder='0' allow='accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share' referrerpolicy='strict-origin-when-cross-origin' allowfullscreen></iframe>",
     "intensity": "easy",
     "selected": false
   },
@@ -85,10 +85,10 @@
 
   "act8":{
     "name": "Tennis",
-    "img_src": "<a href=\"https://media.istockphoto.com/photos/multi-sports-proud-players-collage-on-grand-arena-picture-id637332860?k=6&m=637332860&s=612x612&w=0&h=Ciw1A0MJRMz9lDyegBZDDdDkUyVi7_SYTl7G7QTgaRM=\" target=\"_blank\"><img src=\"https://media.istockphoto.com/photos/multi-sports-proud-players-collage-on-grand-arena-picture-id637332860?k=6&m=637332860&s=612x612&w=0&h=Ciw1A0MJRMz9lDyegBZDDdDkUyVi7_SYTl7G7QTgaRM=\" alt",
+    "img_src": "<a href='https://media.istockphoto.com/photos/multi-sports-proud-players-collage-on-grand-arena-picture-id637332860?k=6&m=637332860&s=612x612&w=0&h=Ciw1A0MJRMz9lDyegBZDDdDkUyVi7_SYTl7G7QTgaRM=' target='_blank'><img src='https://media.istockphoto.com/photos/multi-sports-proud-players-collage-on-grand-arena-picture-id637332860?k=6&m=637332860&s=612x612&w=0&h=Ciw1A0MJRMz9lDyegBZDDdDkUyVi7_SYTl7G7QTgaRM=' alt",
     "description": "Sport",
-    "map_link": "<iframe src=\"https://www.google.com/map_links/embed?pb=!1m18!1m12!1m3!1d103226.65138243705!2d-94.22848794179689!3d36.0487849!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x87c96f2f922ef6d3%3A0x7034856264083d3d!2sWalker%20Park!5e0!3m2!1sen",
-    "youtube_link": "<iframe width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/rJBhkkzNDkQ?si=iuHHO8YiDt9JDq6s\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen></iframe>",
+    "map_link": "<iframe src='https://www.google.com/map_links/embed?pb=!1m18!1m12!1m3!1d103226.65138243705!2d-94.22848794179689!3d36.0487849!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x87c96f2f922ef6d3%3A0x7034856264083d3d!2sWalker%20Park!5e0!3m2!1sen",
+    "youtube_link": "<iframe width='560' height='315' src='https://www.youtube.com/embed/rJBhkkzNDkQ?si=iuHHO8YiDt9JDq6s' title='YouTube video player' frameborder='0' allow='accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share' referrerpolicy='strict-origin-when-cross-origin' allowfullscreen></iframe>",
     "intensity": "easy",
     "selected": false
   },
@@ -97,10 +97,10 @@
 
   "act9":{
     "name": "Running",
-    "img_src": "<a href=\"https://media.istockphoto.com/photos/multi-sports-proud-players-collage-on-grand-arena-picture-id637332860?k=6&m=637332860&s=612x612&w=0&h=Ciw1A0MJRMz9lDyegBZDDdDkUyVi7_SYTl7G7QTgaRM=\" target=\"_blank\"><img src=\"https://media.istockphoto.com/photos/multi-sports-proud-players-collage-on-grand-arena-picture-id637332860?k=6&m=637332860&s=612x612&w=0&h=Ciw1A0MJRMz9lDyegBZDDdDkUyVi7_SYTl7G7QTgaRM=\" alt",
+    "img_src": "<a href='https://media.istockphoto.com/photos/multi-sports-proud-players-collage-on-grand-arena-picture-id637332860?k=6&m=637332860&s=612x612&w=0&h=Ciw1A0MJRMz9lDyegBZDDdDkUyVi7_SYTl7G7QTgaRM=' target='_blank'><img src='https://media.istockphoto.com/photos/multi-sports-proud-players-collage-on-grand-arena-picture-id637332860?k=6&m=637332860&s=612x612&w=0&h=Ciw1A0MJRMz9lDyegBZDDdDkUyVi7_SYTl7G7QTgaRM=' alt",
     "description": "Sport",
-    "map_link": "<iframe src=\"https://www.google.com/map_links/embed?pb=!1m18!1m12!1m3!1d25802.445951044847!2d-94.19015026044922!3d36.06164599999999!2m3!1f0!2f0!3f0!3m2!1i1024!2i7",
-    "youtube_link": "<iframe width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/rJBhkkzNDkQ?si=iuHHO8YiDt9JDq6s\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen></iframe>",
+    "map_link": "<iframe src='https://www.google.com/map_links/embed?pb=!1m18!1m12!1m3!1d25802.445951044847!2d-94.19015026044922!3d36.06164599999999!2m3!1f0!2f0!3f0!3m2!1i1024!2i7",
+    "youtube_link": "<iframe width='560' height='315' src='https://www.youtube.com/embed/rJBhkkzNDkQ?si=iuHHO8YiDt9JDq6s' title='YouTube video player' frameborder='0' allow='accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share' referrerpolicy='strict-origin-when-cross-origin' allowfullscreen></iframe>",
     "intensity": "easy",
     "selected": false
   },
@@ -109,10 +109,10 @@
 
   "act10":{
     "name": "Mountain Biking",
-    "img_src": "<a href=\"https://media.istockphoto.com/photos/multi-sports-proud-players-collage-on-grand-arena-picture-id637332860?k=6&m=637332860&s=612x612&w=0&h=Ciw1A0MJRMz9lDyegBZDDdDkUyVi7_SYTl7G7QTgaRM=\" target=\"_blank\"><img src=\"https://media.istockphoto.com/photos/multi-sports-proud-players-collage-on-grand-arena-picture-id637332860?k=6&m=637332860&s=612x612&w=0&h=Ciw1A0MJRMz9lDyegBZDDdDkUyVi7_SYTl7G7QTgaRM=\" alt",
+    "img_src": "<a href='https://media.istockphoto.com/photos/multi-sports-proud-players-collage-on-grand-arena-picture-id637332860?k=6&m=637332860&s=612x612&w=0&h=Ciw1A0MJRMz9lDyegBZDDdDkUyVi7_SYTl7G7QTgaRM=' target='_blank'><img src='https://media.istockphoto.com/photos/multi-sports-proud-players-collage-on-grand-arena-picture-id637332860?k=6&m=637332860&s=612x612&w=0&h=Ciw1A0MJRMz9lDyegBZDDdDkUyVi7_SYTl7G7QTgaRM=' alt",
     "description": "Sport",
-    "map_link": "<iframe src=\"https://www.google.com/map_links/embed?pb=!1m18!1m12!1m3!1d3236.731252859342!2d-94.25268559999999!3d35.781977399999995!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x87cbd76c737b5537%3A0xed231129ead6920b!2sDevil&#39;s%20Den%20",
-    "youtube_link": "<iframe width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/rJBhkkzNDkQ?si=iuHHO8YiDt9JDq6s\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen></iframe>",
+    "map_link": "<iframe src='https://www.google.com/map_links/embed?pb=!1m18!1m12!1m3!1d3236.731252859342!2d-94.25268559999999!3d35.781977399999995!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x87cbd76c737b5537%3A0xed231129ead6920b!2sDevil&#39;s%20Den%20",
+    "youtube_link": "<iframe width='560' height='315' src='https://www.youtube.com/embed/rJBhkkzNDkQ?si=iuHHO8YiDt9JDq6s' title='YouTube video player' frameborder='0' allow='accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share' referrerpolicy='strict-origin-when-cross-origin' allowfullscreen></iframe>",
     "intensity": "easy",
     "selected": false
   },
@@ -121,10 +121,10 @@
 
   "act11":{
     "name": "Hiking",
-    "img_src": "<a href=\"https://media.istockphoto.com/photos/multi-sports-proud-players-collage-on-grand-arena-picture-id637332860?k=6&m=637332860&s=612x612&w=0&h=Ciw1A0MJRMz9lDyegBZDDdDkUyVi7_SYTl7G7QTgaRM=\" target=\"_blank\"><img src=\"https://media.istockphoto.com/photos/multi-sports-proud-players-collage-on-grand-arena-picture-id637332860?k=6&m=637332860&s=612x612&w=0&h=Ciw1A0MJRMz9lDyegBZDDdDkUyVi7_SYTl7G7QTgaRM=\" alt",
+    "img_src": "<a href='https://media.istockphoto.com/photos/multi-sports-proud-players-collage-on-grand-arena-picture-id637332860?k=6&m=637332860&s=612x612&w=0&h=Ciw1A0MJRMz9lDyegBZDDdDkUyVi7_SYTl7G7QTgaRM=' target='_blank'><img src='https://media.istockphoto.com/photos/multi-sports-proud-players-collage-on-grand-arena-picture-id637332860?k=6&m=637332860&s=612x612&w=0&h=Ciw1A0MJRMz9lDyegBZDDdDkUyVi7_SYTl7G7QTgaRM=' alt",
     "description": "Sport",
-    "map_link": "<iframe src=\"https://www.google.com/map_links/embed?pb=!1m18!1m12!1m3!1d3236.731252859342!2d-94.25268559999999!3d35.781977399999995!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x87cbd76c737b5537%3A0xed231129ead6920b!2sDevil&#39;s%20Den%20State%20Park!5e0!3m2!1sen!2sus!4v1712977531822!5m2!1sen!2sus\" width=\"600\" height=\"450\" style=\"border:0;\" allowfullscreen=\"\" loading=\"lazy\" referrerpolicy=\"no-referrer-when-downgrade\"></iframe>",
-    "youtube_link": "<iframe width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/rJBhkkzNDkQ?si=iuHHO8YiDt9JDq6s\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen></iframe>",
+    "map_link": "<iframe src='https://www.google.com/map_links/embed?pb=!1m18!1m12!1m3!1d3236.731252859342!2d-94.25268559999999!3d35.781977399999995!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x87cbd76c737b5537%3A0xed231129ead6920b!2sDevil&#39;s%20Den%20State%20Park!5e0!3m2!1sen!2sus!4v1712977531822!5m2!1sen!2sus' width='600' height='450' style='border:0;' allowfullscreen='' loading='lazy' referrerpolicy='no-referrer-when-downgrade'></iframe>",
+    "youtube_link": "<iframe width='560' height='315' src='https://www.youtube.com/embed/rJBhkkzNDkQ?si=iuHHO8YiDt9JDq6s' title='YouTube video player' frameborder='0' allow='accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share' referrerpolicy='strict-origin-when-cross-origin' allowfullscreen></iframe>",
     "intensity": "easy",
     "selected": false
   },
@@ -133,10 +133,10 @@
 
   "act12":{
     "name": "Swimming",
-    "img_src": "<a href=\"https://media.istockphoto.com/photos/multi-sports-proud-players-collage-on-grand-arena-picture-id637332860?k=6&m=637332860&s=612x612&w=0&h=Ciw1A0MJRMz9lDyegBZDDdDkUyVi7_SYTl7G7QTgaRM=\" target=\"_blank\"><img src=\"https://media.istockphoto.com/photos/multi-sports-proud-players-collage-on-grand-arena-picture-id637332860?k=6&m=637332860&s=612x612&w=0&h=Ciw1A0MJRMz9lDyegBZDDdDkUyVi7_SYTl7G7QTgaRM=\" alt",
+    "img_src": "<a href='https://media.istockphoto.com/photos/multi-sports-proud-players-collage-on-grand-arena-picture-id637332860?k=6&m=637332860&s=612x612&w=0&h=Ciw1A0MJRMz9lDyegBZDDdDkUyVi7_SYTl7G7QTgaRM=' target='_blank'><img src='https://media.istockphoto.com/photos/multi-sports-proud-players-collage-on-grand-arena-picture-id637332860?k=6&m=637332860&s=612x612&w=0&h=Ciw1A0MJRMz9lDyegBZDDdDkUyVi7_SYTl7G7QTgaRM=' alt",
     "description": "Sport",
-    "map_link": "<iframe src=\"https://www.google.com/map_links/embed?pb=!1m18!1m12!1m3!1d6450.386610350682!2d-94.1827730651123!3d36.0643889!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x87",
-    "youtube_link": "<iframe width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/rJBhkkzNDkQ?si=iuHHO8YiDt9JDq6s\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen></iframe>",
+    "map_link": "<iframe src='https://www.google.com/map_links/embed?pb=!1m18!1m12!1m3!1d6450.386610350682!2d-94.1827730651123!3d36.0643889!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x87",
+    "youtube_link": "<iframe width='560' height='315' src='https://www.youtube.com/embed/rJBhkkzNDkQ?si=iuHHO8YiDt9JDq6s' title='YouTube video player' frameborder='0' allow='accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share' referrerpolicy='strict-origin-when-cross-origin' allowfullscreen></iframe>",
     "intensity": "easy",
     "selected": false
   },
@@ -145,10 +145,10 @@
 
   "act13":{
     "name": "Camping",
-    "img_src": "<a href=\"https://media.istockphoto.com/photos/multi-sports-proud-players-collage-on-grand-arena-picture-id637332860?k=6&m=637332860&s=612x612&w=0&h=Ciw1A0MJRMz9lDyegBZDDdDkUyVi7_SYTl7G7QTgaRM=\" target=\"_blank\"><img src=\"https://media.istockphoto.com/photos/multi-sports-proud-players-collage-on-grand-arena-picture-id637332860?k=6&m=637332860&s=612x612&w=0&h=Ciw1A0MJRMz9lDyegBZDDdDkUyVi7_SYTl7G7QTgaRM=\" alt",
+    "img_src": "<a href='https://media.istockphoto.com/photos/multi-sports-proud-players-collage-on-grand-arena-picture-id637332860?k=6&m=637332860&s=612x612&w=0&h=Ciw1A0MJRMz9lDyegBZDDdDkUyVi7_SYTl7G7QTgaRM=' target='_blank'><img src='https://media.istockphoto.com/photos/multi-sports-proud-players-collage-on-grand-arena-picture-id637332860?k=6&m=637332860&s=612x612&w=0&h=Ciw1A0MJRMz9lDyegBZDDdDkUyVi7_SYTl7G7QTgaRM=' alt",
     "description": "Sport",
-    "map_link": "<iframe src=\"https://www.google.com/map_links/embed?pb=!1m18!1m12!1m3!1d3236.731252859342!2d-94.25268559999999!3d35.781977399999995!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x87cbd76c737b5537%3A0xed231129ead6920b!2sDevil&#39;s%20Den%20",
-    "youtube_link": "<iframe width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/rJBhkkzNDkQ?si=iuHHO8YiDt9JDq6s\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen></iframe>",
+    "map_link": "<iframe src='https://www.google.com/map_links/embed?pb=!1m18!1m12!1m3!1d3236.731252859342!2d-94.25268559999999!3d35.781977399999995!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x87cbd76c737b5537%3A0xed231129ead6920b!2sDevil&#39;s%20Den%20",
+    "youtube_link": "<iframe width='560' height='315' src='https://www.youtube.com/embed/rJBhkkzNDkQ?si=iuHHO8YiDt9JDq6s' title='YouTube video player' frameborder='0' allow='accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share' referrerpolicy='strict-origin-when-cross-origin' allowfullscreen></iframe>",
     "intensity": "easy",
     "selected": false
   },
@@ -157,10 +157,10 @@
 
   "act14":{
     "name": "Outdoor Climbing",
-    "img_src": "<a href=\"https://media.istockphoto.com/photos/multi-sports-proud-players-collage-on-grand-arena-picture-id637332860?k=6&m=637332860&s=612x612&w=0&h=Ciw1A0MJRMz9lDyegBZDDdDkUyVi7_SYTl7G7QTgaRM=\" target=\"_blank\"><img src=\"https://media.istockphoto.com/photos/multi-sports-proud-players-collage-on-grand-arena-picture-id637332860?k=6&m=637332860&s=612x612&w=0&h=Ciw1A0MJRMz9lDyegBZDDdDkUyVi7_SYTl7G7QTgaRM=\" alt",
+    "img_src": "<a href='https://media.istockphoto.com/photos/multi-sports-proud-players-collage-on-grand-arena-picture-id637332860?k=6&m=637332860&s=612x612&w=0&h=Ciw1A0MJRMz9lDyegBZDDdDkUyVi7_SYTl7G7QTgaRM=' target='_blank'><img src='https://media.istockphoto.com/photos/multi-sports-proud-players-collage-on-grand-arena-picture-id637332860?k=6&m=637332860&s=612x612&w=0&h=Ciw1A0MJRMz9lDyegBZDDdDkUyVi7_SYTl7G7QTgaRM=' alt",
     "description": "Sport",
-    "map_link": "<iframe src=\"https://www.google.com/map_links/embed?pb=!1m18!1m12!1m3!1d3236.731252859342!2d-94.25268559999999!3d35.781977399999995!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x87cbd76c737b5537%3A0xed231129ead6920b!2sDevil&#39;s%20Den%20State%20Park!5e0!3m2!1sen!2sus!4v1712977531822!5m2!1sen!2sus\" width=\"600\" height=\"450\" style=\"border:0;\" allowfullscreen=\"\" loading=\"lazy\" referrerpolicy=\"no-referrer-when-downgrade\"></iframe>",
-    "youtube_link": "<iframe width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/rJBhkkzNDkQ?si=iuHHO8YiDt9JDq6s\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen></iframe>",
+    "map_link": "<iframe src='https://www.google.com/map_links/embed?pb=!1m18!1m12!1m3!1d3236.731252859342!2d-94.25268559999999!3d35.781977399999995!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x87cbd76c737b5537%3A0xed231129ead6920b!2sDevil&#39;s%20Den%20State%20Park!5e0!3m2!1sen!2sus!4v1712977531822!5m2!1sen!2sus' width='600' height='450' style='border:0;' allowfullscreen='' loading='lazy' referrerpolicy='no-referrer-when-downgrade'></iframe>",
+    "youtube_link": "<iframe width='560' height='315' src='https://www.youtube.com/embed/rJBhkkzNDkQ?si=iuHHO8YiDt9JDq6s' title='YouTube video player' frameborder='0' allow='accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share' referrerpolicy='strict-origin-when-cross-origin' allowfullscreen></iframe>",
     "intensity": "easy",
     "selected": false
   },
@@ -169,10 +169,10 @@
 
   "act15":{
     "name": "Indoor Climbing",
-    "img_src": "<a href=\"https://media.istockphoto.com/photos/multi-sports-proud-players-collage-on-grand-arena-picture-id637332860?k=6&m=637332860&s=612x612&w=0&h=Ciw1A0MJRMz9lDyegBZDDdDkUyVi7_SYTl7G7QTgaRM=\" target=\"_blank\"><img src=\"https://media.istockphoto.com/photos/multi-sports-proud-players-collage-on-grand-arena-picture-id637332860?k=6&m=637332860&s=612x612&w=0&h=Ciw1A0MJRMz9lDyegBZDDdDkUyVi7_SYTl7G7QTgaRM=\" alt",
+    "img_src": "<a href='https://media.istockphoto.com/photos/multi-sports-proud-players-collage-on-grand-arena-picture-id637332860?k=6&m=637332860&s=612x612&w=0&h=Ciw1A0MJRMz9lDyegBZDDdDkUyVi7_SYTl7G7QTgaRM=' target='_blank'><img src='https://media.istockphoto.com/photos/multi-sports-proud-players-collage-on-grand-arena-picture-id637332860?k=6&m=637332860&s=612x612&w=0&h=Ciw1A0MJRMz9lDyegBZDDdDkUyVi7_SYTl7G7QTgaRM=' alt",
     "description": "Sport",
-    "map_link": "<iframe src=\"https://www.google.com/map_links/embed?pb=!1m18!1m12!1m3!1d6450.386610350682!2d-94.1827730651123!3d36.0643889!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x87",
-    "youtube_link": "<iframe width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/rJBhkkzNDkQ?si=iuHHO8YiDt9JDq6s\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen></iframe>",
+    "map_link": "<iframe src='https://www.google.com/map_links/embed?pb=!1m18!1m12!1m3!1d6450.386610350682!2d-94.1827730651123!3d36.0643889!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x87",
+    "youtube_link": "<iframe width='560' height='315' src='https://www.youtube.com/embed/rJBhkkzNDkQ?si=iuHHO8YiDt9JDq6s' title='YouTube video player' frameborder='0' allow='accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share' referrerpolicy='strict-origin-when-cross-origin' allowfullscreen></iframe>",
     "intensity": "easy",
     "selected": false
   },
@@ -181,9 +181,9 @@
 
   "act16":{
     "name": "Racquetball",
-    "img_src": "<a href=\"https://media.istockphoto.com/photos/multi-sports-proud-players-collage-on-grand-arena-picture-id637332860?k=6&m=637332860&s=612x612&w=0&h=Ciw1A0MJRMz9lDyegBZDDdDkUyVi7_SYTl7G7QTgaRM=\" target=\"_blank\"><img src=\"https://media.istockphoto.com/photos/multi-sports-proud-players-collage-on-grand-arena-picture-id637332860?k=6&m=637332860&s=612x612&w=0&h=Ciw1A0MJRMz9lDyegBZDDdDkUyVi7_SYTl7G7QTgaRM=\" alt",
+    "img_src": "<a href='https://media.istockphoto.com/photos/multi-sports-proud-players-collage-on-grand-arena-picture-id637332860?k=6&m=637332860&s=612x612&w=0&h=Ciw1A0MJRMz9lDyegBZDDdDkUyVi7_SYTl7G7QTgaRM=' target='_blank'><img src='https://media.istockphoto.com/photos/multi-sports-proud-players-collage-on-grand-arena-picture-id637332860?k=6&m=637332860&s=612x612&w=0&h=Ciw1A0MJRMz9lDyegBZDDdDkUyVi7_SYTl7G7QTgaRM=' alt",
     "description": "Sport",
-    "map_link": "<iframe src=\"https://www.google.com/map_links/embed?pb=!1m18!1m12!1m3!1d6450.386610350682!2d-94.1827730651123!3d36.0643889!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x87c96ee3ebfe7835%3A0x910646d835b087c1!2sUREC%20HPER%20Building!5e0!3m2!1sen!2sus!4v1712977144093!5m2!1sen!2sus\" width=\"600\" height=\"450\" style=\"border:0;\" allowfullscreen=\"\" loading=\"lazy\" referrerpolicy=\"no-referrer-when-downgrade\"></iframe>",
+    "map_link": "<iframe src='https://www.google.com/map_links/embed?pb=!1m18!1m12!1m3!1d6450.386610350682!2d-94.1827730651123!3d36.0643889!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x87c96ee3ebfe7835%3A0x910646d835b087c1!2sUREC%20HPER%20Building!5e0!3m2!1sen!2sus!4v1712977144093!5m2!1sen!2sus' width='600' height='450' style='border:0;' allowfullscreen='' loading='lazy' referrerpolicy='no-referrer-when-downgrade'></iframe>",
     "youtube_link": "https://www.youtube.com/watch?v=mdZ9X2iaAJQ",
     "intensity": "easy",
     "selected": false
@@ -193,9 +193,9 @@
 
   "act17":{
     "name": "Table Tennis",
-    "img_src": "<a href=\"https://media.istockphoto.com/photos/multi-sports-proud-players-collage-on-grand-arena-picture-id637332860?k=6&m=637332860&s=612x612&w=0&h=Ciw1A0MJRMz9lDyegBZDDdDkUyVi7_SYTl7G7QTgaRM=\" target=\"_blank\"><img src=\"https://media.istockphoto.com/photos/multi-sports-proud-players-collage-on-grand-arena-picture-id637332860?k=6&m=637332860&s=612x612&w=0&h=Ciw1A0MJRMz9lDyegBZDDdDkUyVi7_SYTl7G7QTgaRM=\" alt",
+    "img_src": "<a href='https://media.istockphoto.com/photos/multi-sports-proud-players-collage-on-grand-arena-picture-id637332860?k=6&m=637332860&s=612x612&w=0&h=Ciw1A0MJRMz9lDyegBZDDdDkUyVi7_SYTl7G7QTgaRM=' target='_blank'><img src='https://media.istockphoto.com/photos/multi-sports-proud-players-collage-on-grand-arena-picture-id637332860?k=6&m=637332860&s=612x612&w=0&h=Ciw1A0MJRMz9lDyegBZDDdDkUyVi7_SYTl7G7QTgaRM=' alt",
     "description": "Sport",
-    "map_link": "<iframe src=\"https://www.google.com/map_links/embed?pb=!1m18!1m12!1m3!1d6450.386610350682!2d-94.1827730651123!3d36.0643889!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x87c96ee3ebfe7835%3A0x910646d835b087c1!2sUREC%20HPER%20Building!5e0!3m2!1sen!2sus!4v1712977144093!5m2!1sen!2sus\" width=\"600\" height=\"450\" style=\"border:0;\" allowfullscreen=\"\" loading=\"lazy\" referrerpolicy=\"no-referrer-when-downgrade\"></iframe>",
+    "map_link": "<iframe src='https://www.google.com/map_links/embed?pb=!1m18!1m12!1m3!1d6450.386610350682!2d-94.1827730651123!3d36.0643889!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x87c96ee3ebfe7835%3A0x910646d835b087c1!2sUREC%20HPER%20Building!5e0!3m2!1sen!2sus!4v1712977144093!5m2!1sen!2sus' width='600' height='450' style='border:0;' allowfullscreen='' loading='lazy' referrerpolicy='no-referrer-when-downgrade'></iframe>",
     "youtube_link": "https://www.youtube.com/watch?v=C_aMGQGbZVg",
     "intensity": "easy",
     "selected": false
@@ -205,10 +205,10 @@
 
   "act18":{
     "name": "Cricket",
-    "img_src": "<a href=\"https://media.istockphoto.com/photos/multi-sports-proud-players-collage-on-grand-arena-picture-id637332860?k=6&m=637332860&s=612x612&w=0&h=Ciw1A0MJRMz9lDyegBZDDdDkUyVi7_SYTl7G7QTgaRM=\" target=\"_blank\"><img src=\"https://media.istockphoto.com/photos/multi-sports-proud-players-collage-on-grand-arena-picture-id637332860?k=6&m=637332860&s=612x612&w=0&h=Ciw1A0MJRMz9lDyegBZDDdDkUyVi7_SYTl7G7QTgaRM=\" alt",
+    "img_src": "<a href='https://media.istockphoto.com/photos/multi-sports-proud-players-collage-on-grand-arena-picture-id637332860?k=6&m=637332860&s=612x612&w=0&h=Ciw1A0MJRMz9lDyegBZDDdDkUyVi7_SYTl7G7QTgaRM=' target='_blank'><img src='https://media.istockphoto.com/photos/multi-sports-proud-players-collage-on-grand-arena-picture-id637332860?k=6&m=637332860&s=612x612&w=0&h=Ciw1A0MJRMz9lDyegBZDDdDkUyVi7_SYTl7G7QTgaRM=' alt",
     "description": "Sport",
-    "map_link":"<iframe src=\"https://www.google.com/map_links/embed?pb=!1m18!1m12!1m3!1d25806.014056178454!2d-94.17911806044923!3d36.05076389999999!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x87c96f6655130663%3A0xfafd40e123453c38!2sWalker%20Park%20baseball%20field!5e0!3m2!1sen!2sus!4v1712976722420!5m2!1se",
-    "youtube_link": "<iframe width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/rJBhkkzNDkQ?si=iuHHO8YiDt9JDq6s\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen></iframe>",
+    "map_link":"<iframe src='https://www.google.com/map_links/embed?pb=!1m18!1m12!1m3!1d25806.014056178454!2d-94.17911806044923!3d36.05076389999999!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x87c96f6655130663%3A0xfafd40e123453c38!2sWalker%20Park%20baseball%20field!5e0!3m2!1sen!2sus!4v1712976722420!5m2!1se",
+    "youtube_link": "<iframe width='560' height='315' src='https://www.youtube.com/embed/rJBhkkzNDkQ?si=iuHHO8YiDt9JDq6s' title='YouTube video player' frameborder='0' allow='accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share' referrerpolicy='strict-origin-when-cross-origin' allowfullscreen></iframe>",
     "intensity": "easy",
     "selected": false
   },
@@ -217,9 +217,9 @@
 
   "act19":{
     "name": "Boxing",
-    "img_src": "<a href=\"https://media.istockphoto.com/photos/multi-sports-proud-players-collage-on-grand-arena-picture-id637332860?k=6&m=637332860&s=612x612&w=0&h=Ciw1A0MJRMz9lDyegBZDDdDkUyVi7_SYTl7G7QTgaRM=\" target=\"_blank\"><img src=\"https://media.istockphoto.com/photos/multi-sports-proud-players-collage-on-grand-arena-picture-id637332860?k=6&m=637332860&s=612x612&w=0&h=Ciw1A0MJRMz9lDyegBZDDdDkUyVi7_SYTl7G7QTgaRM=\" alt",
+    "img_src": "<a href='https://media.istockphoto.com/photos/multi-sports-proud-players-collage-on-grand-arena-picture-id637332860?k=6&m=637332860&s=612x612&w=0&h=Ciw1A0MJRMz9lDyegBZDDdDkUyVi7_SYTl7G7QTgaRM=' target='_blank'><img src='https://media.istockphoto.com/photos/multi-sports-proud-players-collage-on-grand-arena-picture-id637332860?k=6&m=637332860&s=612x612&w=0&h=Ciw1A0MJRMz9lDyegBZDDdDkUyVi7_SYTl7G7QTgaRM=' alt",
     "description": "Sport",
-    "map_link": "<iframe src=\"https://www.google.com/map_links/embed?pb=!1m18!1m12!1m3!1d412224.33461294294!2d-94.46966286718752!3d36.17865640000001!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x87c96cd8e3f14cbd%3A0xd3c17cac5718b2c9!2sInferno%20Martial%20Ar",
+    "map_link": "<iframe src='https://www.google.com/map_links/embed?pb=!1m18!1m12!1m3!1d412224.33461294294!2d-94.46966286718752!3d36.17865640000001!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x87c96cd8e3f14cbd%3A0xd3c17cac5718b2c9!2sInferno%20Martial%20Ar",
     "youtube_link": "https://www.youtube.com/watch?v=jhcIjFgz2bI",
     "intensity": "easy",
     "selected": false
@@ -229,9 +229,9 @@
 
   "act20":{
     "name": "Bowling",
-    "img_src": "<a href=\"https://media.istockphoto.com/photos/multi-sports-proud-players-collage-on-grand-arena-picture-id637332860?k=6&m=637332860&s=612x612&w=0&h=Ciw1A0MJRMz9lDyegBZDDdDkUyVi7_SYTl7G7QTgaRM=\" target=\"_blank\"><img src=\"https://media.istockphoto.com/photos/multi-sports-proud-players-collage-on-grand-arena-picture-id637332860?k=6&m=637332860&s=612x612&w=0&h=Ciw1A0MJRMz9lDyegBZDDdDkUyVi7_SYTl7G7QTgaRM=\" alt",
+    "img_src": "<a href='https://media.istockphoto.com/photos/multi-sports-proud-players-collage-on-grand-arena-picture-id637332860?k=6&m=637332860&s=612x612&w=0&h=Ciw1A0MJRMz9lDyegBZDDdDkUyVi7_SYTl7G7QTgaRM=' target='_blank'><img src='https://media.istockphoto.com/photos/multi-sports-proud-players-collage-on-grand-arena-picture-id637332860?k=6&m=637332860&s=612x612&w=0&h=Ciw1A0MJRMz9lDyegBZDDdDkUyVi7_SYTl7G7QTgaRM=' alt",
     "description": "Sport",
-    "map_link": "<iframe src=\"https://www.google.com/map_links/embed?pb=!1m18!1m12!1m3!1d412224.33461294294!2d-94.46966286718752!3d36.17865640000001!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.",
+    "map_link": "<iframe src='https://www.google.com/map_links/embed?pb=!1m18!1m12!1m3!1d412224.33461294294!2d-94.46966286718752!3d36.17865640000001!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.",
     "youtube_link": "https://www.youtube.com/watch?v=KLh-UYy90Qs",
     "intensity": "easy",
     "selected": false
@@ -241,9 +241,9 @@
 
   "act21":{
     "name": "Badmitton",
-    "img_src": "<a href=\"https://media.istockphoto.com/photos/multi-sports-proud-players-collage-on-grand-arena-picture-id637332860?k=6&m=637332860&s=612x612&w=0&h=Ciw1A0MJRMz9lDyegBZDDdDkUyVi7_SYTl7G7QTgaRM=\" target=\"_blank\"><img src=\"https://media.istockphoto.com/photos/multi-sports-proud-players-collage-on-grand-arena-picture-id637332860?k=6&m=637332860&s=612x612&w=0&h=Ciw1A0MJRMz9lDyegBZDDdDkUyVi7_SYTl7G7QTgaRM=\" alt",
+    "img_src": "<a href='https://media.istockphoto.com/photos/multi-sports-proud-players-collage-on-grand-arena-picture-id637332860?k=6&m=637332860&s=612x612&w=0&h=Ciw1A0MJRMz9lDyegBZDDdDkUyVi7_SYTl7G7QTgaRM=' target='_blank'><img src='https://media.istockphoto.com/photos/multi-sports-proud-players-collage-on-grand-arena-picture-id637332860?k=6&m=637332860&s=612x612&w=0&h=Ciw1A0MJRMz9lDyegBZDDdDkUyVi7_SYTl7G7QTgaRM=' alt",
     "description": "Sport",
-    "map_link": "<iframe src=\"https://www.google.com/map_links/embed?pb=!1m18!1m12!1m3!1d3291125.502179421!2d-96.41043363749996!3d36.33679830000001!2m3!1f0!2f0!3f0!3m",
+    "map_link": "<iframe src='https://www.google.com/map_links/embed?pb=!1m18!1m12!1m3!1d3291125.502179421!2d-96.41043363749996!3d36.33679830000001!2m3!1f0!2f0!3f0!3m",
     "youtube_link": "https://www.youtube.com/watch?v=1UIhKZCPMYM",
     "intensity": "easy",
     "selected": false 
@@ -253,9 +253,9 @@
 
   "act22":{
     "name": "Skateboarding",
-    "img_src": "<a href=\"https://media.istockphoto.com/photos/multi-sports-proud-players-collage-on-grand-arena-picture-id637332860?k=6&m=637332860&s=612x612&w=0&h=Ciw1A0MJRMz9lDyegBZDDdDkUyVi7_SYTl7G7QTgaRM=\" target=\"_blank\"><img src=\"https://media.istockphoto.com/photos/multi-sports-proud-players-collage-on-grand-arena-picture-id637332860?k=6&m=637332860&s=612x612&w=0&h=Ciw1A0MJRMz9lDyegBZDDdDkUyVi7_SYTl7G7QTgaRM=\" alt",
+    "img_src": "<a href='https://media.istockphoto.com/photos/multi-sports-proud-players-collage-on-grand-arena-picture-id637332860?k=6&m=637332860&s=612x612&w=0&h=Ciw1A0MJRMz9lDyegBZDDdDkUyVi7_SYTl7G7QTgaRM=' target='_blank'><img src='https://media.istockphoto.com/photos/multi-sports-proud-players-collage-on-grand-arena-picture-id637332860?k=6&m=637332860&s=612x612&w=0&h=Ciw1A0MJRMz9lDyegBZDDdDkUyVi7_SYTl7G7QTgaRM=' alt",
     "description": "Sport",
-    "map_link": "<iframe src=\"https://www.google.com/map_links/embed?pb=!1m18!1m12!1m3!1d3291125.502179421!2d-96.41043363749996!3d36.33679830000001!2m3!1f0!2f0!3f0!3m2",
+    "map_link": "<iframe src='https://www.google.com/map_links/embed?pb=!1m18!1m12!1m3!1d3291125.502179421!2d-96.41043363749996!3d36.33679830000001!2m3!1f0!2f0!3f0!3m2",
     "youtube_link": "https://www.youtube.com/watch?v=p3NXd3DhH08",
     "intensity": "easy",
     "selected": false
@@ -265,9 +265,9 @@
   
   "act23":{
     "name": "Golf",
-    "img_src": "<a href=\"https://media.istockphoto.com/photos/multi-sports-proud-players-collage-on-grand-arena-picture-id637332860?k=6&m=637332860&s=612x612&w=0&h=Ciw1A0MJRMz9lDyegBZDDdDkUyVi7_SYTl7G7QTgaRM=\" target=\"_blank\"><img src=\"https://media.istockphoto.com/photos/multi-sports-proud-players-collage-on-grand-arena-picture-id637332860?k=6&m=637332860&s=612x612&w=0&h=Ciw1A0MJRMz9lDyegBZDDdDkUyVi7_SYTl7G7QTgaRM=\" alt",
+    "img_src": "<a href='https://media.istockphoto.com/photos/multi-sports-proud-players-collage-on-grand-arena-picture-id637332860?k=6&m=637332860&s=612x612&w=0&h=Ciw1A0MJRMz9lDyegBZDDdDkUyVi7_SYTl7G7QTgaRM=' target='_blank'><img src='https://media.istockphoto.com/photos/multi-sports-proud-players-collage-on-grand-arena-picture-id637332860?k=6&m=637332860&s=612x612&w=0&h=Ciw1A0MJRMz9lDyegBZDDdDkUyVi7_SYTl7G7QTgaRM=' alt",
     "description": "Sport",
-    "map_link": "<iframe src=\"https://www.google.com/map_links/embed?pb=!1m18!1m12!1m3!1d825546.3669653223!2d-94.717959634375!3d36.074213799999995!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1",
+    "map_link": "<iframe src='https://www.google.com/map_links/embed?pb=!1m18!1m12!1m3!1d825546.3669653223!2d-94.717959634375!3d36.074213799999995!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1",
     "youtube_link": "https://www.youtube.com/watch?v=me5gjIUe1Ks",
     "intensity": "easy",
     "selected": false
@@ -277,9 +277,9 @@
   
   "act24":{
     "name": "Mini Golf",
-    "img_src": "<a href=\"https://media.istockphoto.com/photos/multi-sports-proud-players-collage-on-grand-arena-picture-id637332860?k=6&m=637332860&s=612x612&w=0&h=Ciw1A0MJRMz9lDyegBZDDdDkUyVi7_SYTl7G7QTgaRM=\" target=\"_blank\"><img src=\"https://media.istockphoto.com/photos/multi-sports-proud-players-collage-on-grand-arena-picture-id637332860?k=6&m=637332860&s=612x612&w=0&h=Ciw1A0MJRMz9lDyegBZDDdDkUyVi7_SYTl7G7QTgaRM=\" alt",
+    "img_src": "<a href='https://media.istockphoto.com/photos/multi-sports-proud-players-collage-on-grand-arena-picture-id637332860?k=6&m=637332860&s=612x612&w=0&h=Ciw1A0MJRMz9lDyegBZDDdDkUyVi7_SYTl7G7QTgaRM=' target='_blank'><img src='https://media.istockphoto.com/photos/multi-sports-proud-players-collage-on-grand-arena-picture-id637332860?k=6&m=637332860&s=612x612&w=0&h=Ciw1A0MJRMz9lDyegBZDDdDkUyVi7_SYTl7G7QTgaRM=' alt",
     "description": "Sport",
-    "map_link": "<iframe src=\"https://www.google.com/map_links/embed?pb=!1m18!1m12!1m3!1d3223.7265311621636!2d-94.14971659999999!3d36.1001538!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m",
+    "map_link": "<iframe src='https://www.google.com/map_links/embed?pb=!1m18!1m12!1m3!1d3223.7265311621636!2d-94.14971659999999!3d36.1001538!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m",
     "youtube_link": "https://www.youtube.com/watch?v=vSJGYI5C-fQ",
     "intensity": "easy",
     "selected": false
@@ -289,10 +289,10 @@
 
   "act25":{
     "name": "Rugby",
-    "img_src": "<a href=\"https://media.istockphoto.com/photos/multi-sports-proud-players-collage-on-grand-arena-picture-id637332860?k=6&m=637332860&s=612x612&w=0&h=Ciw1A0MJRMz9lDyegBZDDdDkUyVi7_SYTl7G7QTgaRM=\" target=\"_blank\"><img src=\"https://media.istockphoto.com/photos/multi-sports-proud-players-collage-on-grand-arena-picture-id637332860?k=6&m=637332860&s=612x612&w=0&h=Ciw1A0MJRMz9lDyegBZDDdDkUyVi7_SYTl7G7QTgaRM=\" alt",
+    "img_src": "<a href='https://media.istockphoto.com/photos/multi-sports-proud-players-collage-on-grand-arena-picture-id637332860?k=6&m=637332860&s=612x612&w=0&h=Ciw1A0MJRMz9lDyegBZDDdDkUyVi7_SYTl7G7QTgaRM=' target='_blank'><img src='https://media.istockphoto.com/photos/multi-sports-proud-players-collage-on-grand-arena-picture-id637332860?k=6&m=637332860&s=612x612&w=0&h=Ciw1A0MJRMz9lDyegBZDDdDkUyVi7_SYTl7G7QTgaRM=' alt",
     "description": "Sport",
-    "map_link": "<iframe src=\"https://www.google.com/map_links/embed?pb=!1m18!1m12!1m3!1d103226.65138243705!2d-94.22848794179689!3d36.0487849!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3",
-    "youtube_link": "<iframe width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/rJBhkkzNDkQ?si=iuHHO8YiDt9JDq6s\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen></iframe>",
+    "map_link": "<iframe src='https://www.google.com/map_links/embed?pb=!1m18!1m12!1m3!1d103226.65138243705!2d-94.22848794179689!3d36.0487849!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3",
+    "youtube_link": "<iframe width='560' height='315' src='https://www.youtube.com/embed/rJBhkkzNDkQ?si=iuHHO8YiDt9JDq6s' title='YouTube video player' frameborder='0' allow='accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share' referrerpolicy='strict-origin-when-cross-origin' allowfullscreen></iframe>",
     "intensity": "easy",
     "selected": false
   },
@@ -301,9 +301,9 @@
   
   "act26":{
     "name": "Kayacking",
-    "img_src": "<a href=\"https://media.istockphoto.com/photos/multi-sports-proud-players-collage-on-grand-arena-picture-id637332860?k=6&m=637332860&s=612x612&w=0&h=Ciw1A0MJRMz9lDyegBZDDdDkUyVi7_SYTl7G7QTgaRM=\" target=\"_blank\"><img src=\"https://media.istockphoto.com/photos/multi-sports-proud-players-collage-on-grand-arena-picture-id637332860?k=6&m=637332860&s=612x612&w=0&h=Ciw1A0MJRMz9lDyegBZDDdDkUyVi7_SYTl7G7QTgaRM=\" alt",
+    "img_src": "<a href='https://media.istockphoto.com/photos/multi-sports-proud-players-collage-on-grand-arena-picture-id637332860?k=6&m=637332860&s=612x612&w=0&h=Ciw1A0MJRMz9lDyegBZDDdDkUyVi7_SYTl7G7QTgaRM=' target='_blank'><img src='https://media.istockphoto.com/photos/multi-sports-proud-players-collage-on-grand-arena-picture-id637332860?k=6&m=637332860&s=612x612&w=0&h=Ciw1A0MJRMz9lDyegBZDDdDkUyVi7_SYTl7G7QTgaRM=' alt",
     "description": "Sport",
-    "map_link": "<iframe src=\"https://www.google.com/map_links/embed?pb=!1m18!1m12!1m3!1d205635.64128672413!2d-93.94102665000004!3d36.359400750000006!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m",
+    "map_link": "<iframe src='https://www.google.com/map_links/embed?pb=!1m18!1m12!1m3!1d205635.64128672413!2d-93.94102665000004!3d36.359400750000006!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m",
     "youtube_link": "https://www.youtube.com/watch?v=TAEkR13ChPs",
     "intensity": "easy",
     "selected": false
@@ -313,9 +313,9 @@
   
   "act27":{
     "name": "Fishing",
-    "img_src": "<a href=\"https://media.istockphoto.com/photos/multi-sports-proud-players-collage-on-grand-arena-picture-id637332860?k=6&m=637332860&s=612x612&w=0&h=Ciw1A0MJRMz9lDyegBZDDdDkUyVi7_SYTl7G7QTgaRM=\" target=\"_blank\"><img src=\"https://media.istockphoto.com/photos/multi-sports-proud-players-collage-on-grand-arena-picture-id637332860?k=6&m=637332860&s=612x612&w=0&h=Ciw1A0MJRMz9lDyegBZDDdDkUyVi7_SYTl7G7QTgaRM=\" alt",
+    "img_src": "<a href='https://media.istockphoto.com/photos/multi-sports-proud-players-collage-on-grand-arena-picture-id637332860?k=6&m=637332860&s=612x612&w=0&h=Ciw1A0MJRMz9lDyegBZDDdDkUyVi7_SYTl7G7QTgaRM=' target='_blank'><img src='https://media.istockphoto.com/photos/multi-sports-proud-players-collage-on-grand-arena-picture-id637332860?k=6&m=637332860&s=612x612&w=0&h=Ciw1A0MJRMz9lDyegBZDDdDkUyVi7_SYTl7G7QTgaRM=' alt",
     "description": "Sport",
-    "map_link": "<iframe src=\"https://www.google.com/map_links/embed?pb=!1m18!1m12!1m3!1d825546.3669653223!2d-94.717959634375!3d36.074213799999995!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x87c96fc876a74977%3A0x80d424905fa2c949!2sJohnny%20striper!5e0!3",
+    "map_link": "<iframe src='https://www.google.com/map_links/embed?pb=!1m18!1m12!1m3!1d825546.3669653223!2d-94.717959634375!3d36.074213799999995!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x87c96fc876a74977%3A0x80d424905fa2c949!2sJohnny%20striper!5e0!3",
     "youtube_link": "https://www.youtube.com/watch?v=CFTI8TdrNtY",
     "intensity": "easy",
     "selected": false
@@ -325,9 +325,9 @@
   
   "act28":{
     "name": "Archery",
-    "img_src": "<a href=\"https://media.istockphoto.com/photos/multi-sports-proud-players-collage-on-grand-arena-picture-id637332860?k=6&m=637332860&s=612x612&w=0&h=Ciw1A0MJRMz9lDyegBZDDdDkUyVi7_SYTl7G7QTgaRM=\" target=\"_blank\"><img src=\"https://media.istockphoto.com/photos/multi-sports-proud-players-collage-on-grand-arena-picture-id637332860?k=6&m=637332860&s=612x612&w=0&h=Ciw1A0MJRMz9lDyegBZDDdDkUyVi7_SYTl7G7QTgaRM=\" alt",
+    "img_src": "<a href='https://media.istockphoto.com/photos/multi-sports-proud-players-collage-on-grand-arena-picture-id637332860?k=6&m=637332860&s=612x612&w=0&h=Ciw1A0MJRMz9lDyegBZDDdDkUyVi7_SYTl7G7QTgaRM=' target='_blank'><img src='https://media.istockphoto.com/photos/multi-sports-proud-players-collage-on-grand-arena-picture-id637332860?k=6&m=637332860&s=612x612&w=0&h=Ciw1A0MJRMz9lDyegBZDDdDkUyVi7_SYTl7G7QTgaRM=' alt",
     "description": "Sport",
-    "map_link": "<iframe src=\"https://www.google.com/map_links/embed?pb=!1m18!1m12!1m3!1d825546.3669653223!2d-94.717959634375!3d36.074213799999995!2m3!1f0!2f0!3f0!3m2!1i1024!2",
+    "map_link": "<iframe src='https://www.google.com/map_links/embed?pb=!1m18!1m12!1m3!1d825546.3669653223!2d-94.717959634375!3d36.074213799999995!2m3!1f0!2f0!3f0!3m2!1i1024!2",
     "youtube_link": "https://www.youtube.com/watch?v=JofuiMclYAU",
     "intensity": "easy",
     "selected": false
@@ -337,9 +337,9 @@
   
   "act29":{
     "name": "Hatchet Throwing",
-    "img_src": "<a href=\"https://media.istockphoto.com/photos/multi-sports-proud-players-collage-on-grand-arena-picture-id637332860?k=6&m=637332860&s=612x612&w=0&h=Ciw1A0MJRMz9lDyegBZDDdDkUyVi7_SYTl7G7QTgaRM=\" target=\"_blank\"><img src=\"https://media.istockphoto.com/photos/multi-sports-proud-players-collage-on-grand-arena-picture-id637332860?k=6&m=637332860&s=612x612&w=0&h=Ciw1A0MJRMz9lDyegBZDDdDkUyVi7_SYTl7G7QTgaRM=\" alt",
+    "img_src": "<a href='https://media.istockphoto.com/photos/multi-sports-proud-players-collage-on-grand-arena-picture-id637332860?k=6&m=637332860&s=612x612&w=0&h=Ciw1A0MJRMz9lDyegBZDDdDkUyVi7_SYTl7G7QTgaRM=' target='_blank'><img src='https://media.istockphoto.com/photos/multi-sports-proud-players-collage-on-grand-arena-picture-id637332860?k=6&m=637332860&s=612x612&w=0&h=Ciw1A0MJRMz9lDyegBZDDdDkUyVi7_SYTl7G7QTgaRM=' alt",
     "description": "Sport",
-    "map_link": "<iframe src=\"https://www.google.com/map_links/embed?pb=!1m18!1m12!1m3!1d412511.2383670063!2d-94.39076196718749!3d36.124092899999994!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s",
+    "map_link": "<iframe src='https://www.google.com/map_links/embed?pb=!1m18!1m12!1m3!1d412511.2383670063!2d-94.39076196718749!3d36.124092899999994!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s",
     "youtube_link": "https://www.youtube.com/watch?v=O4ZDvRa9Dk4",
     "intensity": "easy",
     "selected": false
@@ -349,9 +349,9 @@
   
   "act30":{
     "name": "Trap Shooting",
-    "img_src": "<a href=\"https://media.istockphoto.com/photos/multi-sports-proud-players-collage-on-grand-arena-picture-id637332860?k=6&m=637332860&s=612x612&w=0&h=Ciw1A0MJRMz9lDyegBZDDdDkUyVi7_SYTl7G7QTgaRM=\" target=\"_blank\"><img src=\"https://media.istockphoto.com/photos/multi-sports-proud-players-collage-on-grand-arena-picture-id637332860?k=6&m=637332860&s=612x612&w=0&h=Ciw1A0MJRMz9lDyegBZDDdDkUyVi7_SYTl7G7QTgaRM=\" alt",
+    "img_src": "<a href='https://media.istockphoto.com/photos/multi-sports-proud-players-collage-on-grand-arena-picture-id637332860?k=6&m=637332860&s=612x612&w=0&h=Ciw1A0MJRMz9lDyegBZDDdDkUyVi7_SYTl7G7QTgaRM=' target='_blank'><img src='https://media.istockphoto.com/photos/multi-sports-proud-players-collage-on-grand-arena-picture-id637332860?k=6&m=637332860&s=612x612&w=0&h=Ciw1A0MJRMz9lDyegBZDDdDkUyVi7_SYTl7G7QTgaRM=' alt",
     "description": "Sport",
-    "map_link": "<iframe src=\"https://www.google.com/map_links/embed?pb=!1m18!1m12!1m3!1d819951.2377729927!2d-94.955687834375!3d36.60388600000001!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x87c8ff4224c82273%3A0x6a43cf1d1b43c682!2sThe%20Outlaw%20Ridge!5e0!3m2!1sen!2sus!4v1712980952312!5m2!1sen!2sus\" width=\"600\" height=\"450\" style=\"border:0;\" allowfullscreen=\"\" loading=\"lazy\" referrerpolicy=\"no-referrer-when-downgrade\"></iframe>",
+    "map_link": "<iframe src='https://www.google.com/map_links/embed?pb=!1m18!1m12!1m3!1d819951.2377729927!2d-94.955687834375!3d36.60388600000001!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x87c8ff4224c82273%3A0x6a43cf1d1b43c682!2sThe%20Outlaw%20Ridge!5e0!3m2!1sen!2sus!4v1712980952312!5m2!1sen!2sus' width='600' height='450' style='border:0;' allowfullscreen='' loading='lazy' referrerpolicy='no-referrer-when-downgrade'></iframe>",
     "youtube_link": "https://www.youtube.com/watch?v=yOcxjSEDPmk",
     "intensity": "easy",
     "selected": false
@@ -361,10 +361,10 @@
 
   "act31":{
     "name": "Kickball",
-    "img_src": "<a href=\"https://media.istockphoto.com/photos/multi-sports-proud-players-collage-on-grand-arena-picture-id637332860?k=6&m=637332860&s=612x612&w=0&h=Ciw1A0MJRMz9lDyegBZDDdDkUyVi7_SYTl7G7QTgaRM=\" target=\"_blank\"><img src=\"https://media.istockphoto.com/photos/multi-sports-proud-players-collage-on-grand-arena-picture-id637332860?k=6&m=637332860&s=612x612&w=0&h=Ciw1A0MJRMz9lDyegBZDDdDkUyVi7_SYTl7G7QTgaRM=\" alt",
+    "img_src": "<a href='https://media.istockphoto.com/photos/multi-sports-proud-players-collage-on-grand-arena-picture-id637332860?k=6&m=637332860&s=612x612&w=0&h=Ciw1A0MJRMz9lDyegBZDDdDkUyVi7_SYTl7G7QTgaRM=' target='_blank'><img src='https://media.istockphoto.com/photos/multi-sports-proud-players-collage-on-grand-arena-picture-id637332860?k=6&m=637332860&s=612x612&w=0&h=Ciw1A0MJRMz9lDyegBZDDdDkUyVi7_SYTl7G7QTgaRM=' alt",
     "description": "Sport",
-    "map_link": "<iframe src=\"https://www.google.com/map_links/embed?pb=!1m18!1m12!1m3!1d25806.014056178454!2d-94.17911806044923!3d36.05076389999999!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x87c96f6655130663%3A0xfafd40e123453c38!2sWalker%20Park%20baseball%20field!5e0!3m2!1sen!2sus!4v1712976722420!5m2!1se",
-    "youtube_link": "<iframe width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/rJBhkkzNDkQ?si=iuHHO8YiDt9JDq6s\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen></iframe>",
+    "map_link": "<iframe src='https://www.google.com/map_links/embed?pb=!1m18!1m12!1m3!1d25806.014056178454!2d-94.17911806044923!3d36.05076389999999!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x87c96f6655130663%3A0xfafd40e123453c38!2sWalker%20Park%20baseball%20field!5e0!3m2!1sen!2sus!4v1712976722420!5m2!1se",
+    "youtube_link": "<iframe width='560' height='315' src='https://www.youtube.com/embed/rJBhkkzNDkQ?si=iuHHO8YiDt9JDq6s' title='YouTube video player' frameborder='0' allow='accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share' referrerpolicy='strict-origin-when-cross-origin' allowfullscreen></iframe>",
     "intensity": "easy",
     "selected": false
   },
@@ -373,10 +373,10 @@
 
   "act32":{
     "name": "Softball",
-    "img_src": "<a href=\"https://media.istockphoto.com/photos/multi-sports-proud-players-collage-on-grand-arena-picture-id637332860?k=6&m=637332860&s=612x612&w=0&h=Ciw1A0MJRMz9lDyegBZDDdDkUyVi7_SYTl7G7QTgaRM=\" target=\"_blank\"><img src=\"https://media.istockphoto.com/photos/multi-sports-proud-players-collage-on-grand-arena-picture-id637332860?k=6&m=637332860&s=612x612&w=0&h=Ciw1A0MJRMz9lDyegBZDDdDkUyVi7_SYTl7G7QTgaRM=\" alt",
+    "img_src": "<a href='https://media.istockphoto.com/photos/multi-sports-proud-players-collage-on-grand-arena-picture-id637332860?k=6&m=637332860&s=612x612&w=0&h=Ciw1A0MJRMz9lDyegBZDDdDkUyVi7_SYTl7G7QTgaRM=' target='_blank'><img src='https://media.istockphoto.com/photos/multi-sports-proud-players-collage-on-grand-arena-picture-id637332860?k=6&m=637332860&s=612x612&w=0&h=Ciw1A0MJRMz9lDyegBZDDdDkUyVi7_SYTl7G7QTgaRM=' alt",
     "description": "Sport",
-    "map_link": "<iframe src=\"https://www.google.com/map_links/embed?pb=!1m18!1m12!1m3!1d25806.014056178454!2d-94.17911806044923!3d36.05076389999999!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x87c96f6655130663%3A0xfafd40e123453c38!2sWalker%20Park%20baseball%20field!5e0!3m2!1sen!2sus!4v1712976722420!5m2!1se",
-    "youtube_link": "<iframe width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/rJBhkkzNDkQ?si=iuHHO8YiDt9JDq6s\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen></iframe>",
+    "map_link": "<iframe src='https://www.google.com/map_links/embed?pb=!1m18!1m12!1m3!1d25806.014056178454!2d-94.17911806044923!3d36.05076389999999!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x87c96f6655130663%3A0xfafd40e123453c38!2sWalker%20Park%20baseball%20field!5e0!3m2!1sen!2sus!4v1712976722420!5m2!1se",
+    "youtube_link": "<iframe width='560' height='315' src='https://www.youtube.com/embed/rJBhkkzNDkQ?si=iuHHO8YiDt9JDq6s' title='YouTube video player' frameborder='0' allow='accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share' referrerpolicy='strict-origin-when-cross-origin' allowfullscreen></iframe>",
     "intensity": "easy",
     "selected": false
   },
@@ -385,10 +385,10 @@
 
   "act33":{
     "name": "Yoga",
-    "img_src": "<a href=\"https://media.istockphoto.com/photos/multi-sports-proud-players-collage-on-grand-arena-picture-id637332860?k=6&m=637332860&s=612x612&w=0&h=Ciw1A0MJRMz9lDyegBZDDdDkUyVi7_SYTl7G7QTgaRM=\" target=\"_blank\"><img src=\"https://media.istockphoto.com/photos/multi-sports-proud-players-collage-on-grand-arena-picture-id637332860?k=6&m=637332860&s=612x612&w=0&h=Ciw1A0MJRMz9lDyegBZDDdDkUyVi7_SYTl7G7QTgaRM=\" alt",
+    "img_src": "<a href='https://media.istockphoto.com/photos/multi-sports-proud-players-collage-on-grand-arena-picture-id637332860?k=6&m=637332860&s=612x612&w=0&h=Ciw1A0MJRMz9lDyegBZDDdDkUyVi7_SYTl7G7QTgaRM=' target='_blank'><img src='https://media.istockphoto.com/photos/multi-sports-proud-players-collage-on-grand-arena-picture-id637332860?k=6&m=637332860&s=612x612&w=0&h=Ciw1A0MJRMz9lDyegBZDDdDkUyVi7_SYTl7G7QTgaRM=' alt",
     "description": "Sport",
-    "map_link": "<iframe src=\"https://www.google.com/map_links/embed?pb=!1m18!1m12!1m3!1d6450.386610350682!2d-94.1827730651123!3d36.0643889!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x87",
-    "youtube_link": "<iframe width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/rJBhkkzNDkQ?si=iuHHO8YiDt9JDq6s\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen></iframe>",
+    "map_link": "<iframe src='https://www.google.com/map_links/embed?pb=!1m18!1m12!1m3!1d6450.386610350682!2d-94.1827730651123!3d36.0643889!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x87",
+    "youtube_link": "<iframe width='560' height='315' src='https://www.youtube.com/embed/rJBhkkzNDkQ?si=iuHHO8YiDt9JDq6s' title='YouTube video player' frameborder='0' allow='accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share' referrerpolicy='strict-origin-when-cross-origin' allowfullscreen></iframe>",
     "intensity": "easy",
     "selected": false
   },
@@ -397,10 +397,10 @@
 
   "act34":{
     "name": "Sand Volleyball",
-    "img_src": "<a href=\"https://media.istockphoto.com/photos/multi-sports-proud-players-collage-on-grand-arena-picture-id637332860?k=6&m=637332860&s=612x612&w=0&h=Ciw1A0MJRMz9lDyegBZDDdDkUyVi7_SYTl7G7QTgaRM=\" target=\"_blank\"><img src=\"https://media.istockphoto.com/photos/multi-sports-proud-players-collage-on-grand-arena-picture-id637332860?k=6&m=637332860&s=612x612&w=0&h=Ciw1A0MJRMz9lDyegBZDDdDkUyVi7_SYTl7G7QTgaRM=\" alt",
+    "img_src": "<a href='https://media.istockphoto.com/photos/multi-sports-proud-players-collage-on-grand-arena-picture-id637332860?k=6&m=637332860&s=612x612&w=0&h=Ciw1A0MJRMz9lDyegBZDDdDkUyVi7_SYTl7G7QTgaRM=' target='_blank'><img src='https://media.istockphoto.com/photos/multi-sports-proud-players-collage-on-grand-arena-picture-id637332860?k=6&m=637332860&s=612x612&w=0&h=Ciw1A0MJRMz9lDyegBZDDdDkUyVi7_SYTl7G7QTgaRM=' alt",
     "description": "Sport",
-    "map_link": "<iframe src=\"https://www.google.com/map_links/embed?pb=!1m18!1m12!1m3!1d103226.65138243705!2d-94.22848794179689!3d36.0487849!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3",
-    "youtube_link": "<iframe width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/rJBhkkzNDkQ?si=iuHHO8YiDt9JDq6s\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen></iframe>",
+    "map_link": "<iframe src='https://www.google.com/map_links/embed?pb=!1m18!1m12!1m3!1d103226.65138243705!2d-94.22848794179689!3d36.0487849!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3",
+    "youtube_link": "<iframe width='560' height='315' src='https://www.youtube.com/embed/rJBhkkzNDkQ?si=iuHHO8YiDt9JDq6s' title='YouTube video player' frameborder='0' allow='accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share' referrerpolicy='strict-origin-when-cross-origin' allowfullscreen></iframe>",
     "intensity": "easy",
     "selected": false
   },
@@ -409,9 +409,9 @@
 
   "act35":{
     "name": "Rollerskating",
-    "img_src": "<a href=\"https://media.istockphoto.com/photos/multi-sports-proud-players-collage-on-grand-arena-picture-id637332860?k=6&m=637332860&s=612x612&w=0&h=Ciw1A0MJRMz9lDyegBZDDdDkUyVi7_SYTl7G7QTgaRM=\" target=\"_blank\"><img src=\"https://media.istockphoto.com/photos/multi-sports-proud-players-collage-on-grand-arena-picture-id637332860?k=6&m=637332860&s=612x612&w=0&h=Ciw1A0MJRMz9lDyegBZDDdDkUyVi7_SYTl7G7QTgaRM=\" alt",
+    "img_src": "<a href='https://media.istockphoto.com/photos/multi-sports-proud-players-collage-on-grand-arena-picture-id637332860?k=6&m=637332860&s=612x612&w=0&h=Ciw1A0MJRMz9lDyegBZDDdDkUyVi7_SYTl7G7QTgaRM=' target='_blank'><img src='https://media.istockphoto.com/photos/multi-sports-proud-players-collage-on-grand-arena-picture-id637332860?k=6&m=637332860&s=612x612&w=0&h=Ciw1A0MJRMz9lDyegBZDDdDkUyVi7_SYTl7G7QTgaRM=' alt",
     "description": "Sport",
-    "map_link": "<iframe src=\"https://www.google.com/map_links/embed?pb=!1m18!1m12!1m3!1d103058.33017448455!2d-94.24170384179685!3d36.176948499999995!2m3!1f0!2f0!3f0!3m2!1i1024!2i7",
+    "map_link": "<iframe src='https://www.google.com/map_links/embed?pb=!1m18!1m12!1m3!1d103058.33017448455!2d-94.24170384179685!3d36.176948499999995!2m3!1f0!2f0!3f0!3m2!1i1024!2i7",
     "youtube_link": "https://www.youtube.com/watch?v=tEuMF_tb1nI",
     "intensity": "easy",
     "selected": false
@@ -421,9 +421,9 @@
 
   "act36":{
     "name": "Rollerblading",
-    "img_src": "<a href=\"https://media.istockphoto.com/photos/multi-sports-proud-players-collage-on-grand-arena-picture-id637332860?k=6&m=637332860&s=612x612&w=0&h=Ciw1A0MJRMz9lDyegBZDDdDkUyVi7_SYTl7G7QTgaRM=\" target=\"_blank\"><img src=\"https://media.istockphoto.com/photos/multi-sports-proud-players-collage-on-grand-arena-picture-id637332860?k=6&m=637332860&s=612x612&w=0&h=Ciw1A0MJRMz9lDyegBZDDdDkUyVi7_SYTl7G7QTgaRM=\" alt",
+    "img_src": "<a href='https://media.istockphoto.com/photos/multi-sports-proud-players-collage-on-grand-arena-picture-id637332860?k=6&m=637332860&s=612x612&w=0&h=Ciw1A0MJRMz9lDyegBZDDdDkUyVi7_SYTl7G7QTgaRM=' target='_blank'><img src='https://media.istockphoto.com/photos/multi-sports-proud-players-collage-on-grand-arena-picture-id637332860?k=6&m=637332860&s=612x612&w=0&h=Ciw1A0MJRMz9lDyegBZDDdDkUyVi7_SYTl7G7QTgaRM=' alt",
     "description": "Sport",
-    "map_link": "<iframe src=\"https://www.google.com/map_links/embed?pb=!1m18!1m12!1m3!1d103058.33017448455!2d-94.24170384179685!3d36.176948499999995!2m3!1f0!2f0!3f0!3m2!1i1024!2i7",
+    "map_link": "<iframe src='https://www.google.com/map_links/embed?pb=!1m18!1m12!1m3!1d103058.33017448455!2d-94.24170384179685!3d36.176948499999995!2m3!1f0!2f0!3f0!3m2!1i1024!2i7",
     "youtube_link": "https://www.youtube.com/watch?v=xDNSswJhsl8",
     "intensity": "easy",
     "selected": false
@@ -433,9 +433,9 @@
 
   "act37":{
     "name": "Skydiving",
-    "img_src": "<a href=\"https://media.istockphoto.com/photos/multi-sports-proud-players-collage-on-grand-arena-picture-id637332860?k=6&m=637332860&s=612x612&w=0&h=Ciw1A0MJRMz9lDyegBZDDdDkUyVi7_SYTl7G7QTgaRM=\" target=\"_blank\"><img src=\"https://media.istockphoto.com/photos/multi-sports-proud-players-collage-on-grand-arena-picture-id637332860?k=6&m=637332860&s=612x612&w=0&h=Ciw1A0MJRMz9lDyegBZDDdDkUyVi7_SYTl7G7QTgaRM=\" alt",
+    "img_src": "<a href='https://media.istockphoto.com/photos/multi-sports-proud-players-collage-on-grand-arena-picture-id637332860?k=6&m=637332860&s=612x612&w=0&h=Ciw1A0MJRMz9lDyegBZDDdDkUyVi7_SYTl7G7QTgaRM=' target='_blank'><img src='https://media.istockphoto.com/photos/multi-sports-proud-players-collage-on-grand-arena-picture-id637332860?k=6&m=637332860&s=612x612&w=0&h=Ciw1A0MJRMz9lDyegBZDDdDkUyVi7_SYTl7G7QTgaRM=' alt",
     "description": "Sport",
-    "map_link": "<iframe src=\"https://www.google.com/map_links/embed?pb=!1m18!1m12!1m3!1d832174.9654460665!2d-95.365673234375!3d35.4378706!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x87ca6b6a2490b22b%3A0xc05052a128079402!2sAdventure%20Skydive%20Center%2C%20LLC.%20Siloam%20Springs%2C%20AR!",
+    "map_link": "<iframe src='https://www.google.com/map_links/embed?pb=!1m18!1m12!1m3!1d832174.9654460665!2d-95.365673234375!3d35.4378706!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x87ca6b6a2490b22b%3A0xc05052a128079402!2sAdventure%20Skydive%20Center%2C%20LLC.%20Siloam%20Springs%2C%20AR!",
     "youtube_link": "https://www.youtube.com/watch?v=QyViaTCx_C8",
     "intensity": "easy",
     "selected": false
@@ -445,9 +445,9 @@
   
   "act38":{
     "name": "Frisbee Golf",
-    "img_src": "<a href=\"https://media.istockphoto.com/photos/multi-sports-proud-players-collage-on-grand-arena-picture-id637332860?k=6&m=637332860&s=612x612&w=0&h=Ciw1A0MJRMz9lDyegBZDDdDkUyVi7_SYTl7G7QTgaRM=\" target=\"_blank\"><img src=\"https://media.istockphoto.com/photos/multi-sports-proud-players-collage-on-grand-arena-picture-id637332860?k=6&m=637332860&s=612x612&w=0&h=Ciw1A0MJRMz9lDyegBZDDdDkUyVi7_SYTl7G7QTgaRM=\" alt",
+    "img_src": "<a href='https://media.istockphoto.com/photos/multi-sports-proud-players-collage-on-grand-arena-picture-id637332860?k=6&m=637332860&s=612x612&w=0&h=Ciw1A0MJRMz9lDyegBZDDdDkUyVi7_SYTl7G7QTgaRM=' target='_blank'><img src='https://media.istockphoto.com/photos/multi-sports-proud-players-collage-on-grand-arena-picture-id637332860?k=6&m=637332860&s=612x612&w=0&h=Ciw1A0MJRMz9lDyegBZDDdDkUyVi7_SYTl7G7QTgaRM=' alt",
     "description": "Sport",
-    "map_link": "<iframe src=\"https://www.google.com/map_links/embed?pb=!1m18!1m12!1m3!1d825457.0111284684!2d-96.329681334375!3d36.082725499999995!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!",
+    "map_link": "<iframe src='https://www.google.com/map_links/embed?pb=!1m18!1m12!1m3!1d825457.0111284684!2d-96.329681334375!3d36.082725499999995!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!",
     "youtube_link": "https://www.youtube.com/watch?v=T7Buk1Hn8jM",
     "intensity": "easy",
     "selected": false 
@@ -457,10 +457,10 @@
   
   "act39":{
     "name": "Ultimate Frisbee",
-    "img_src": "<a href=\"https://media.istockphoto.com/photos/multi-sports-proud-players-collage-on-grand-arena-picture-id637332860?k=6&m=637332860&s=612x612&w=0&h=Ciw1A0MJRMz9lDyegBZDDdDkUyVi7_SYTl7G7QTgaRM=\" target=\"_blank\"><img src=\"https://media.istockphoto.com/photos/multi-sports-proud-players-collage-on-grand-arena-picture-id637332860?k=6&m=637332860&s=612x612&w=0&h=Ciw1A0MJRMz9lDyegBZDDdDkUyVi7_SYTl7G7QTgaRM=\" alt",
+    "img_src": "<a href='https://media.istockphoto.com/photos/multi-sports-proud-players-collage-on-grand-arena-picture-id637332860?k=6&m=637332860&s=612x612&w=0&h=Ciw1A0MJRMz9lDyegBZDDdDkUyVi7_SYTl7G7QTgaRM=' target='_blank'><img src='https://media.istockphoto.com/photos/multi-sports-proud-players-collage-on-grand-arena-picture-id637332860?k=6&m=637332860&s=612x612&w=0&h=Ciw1A0MJRMz9lDyegBZDDdDkUyVi7_SYTl7G7QTgaRM=' alt",
     "description": "Sport",
-    "map_link": "<iframe src=\"https://www.google.com/map_links/embed?pb=!1m18!1m12!1m3!1d103226.65138243705!2d-94.22848794179689!3d36.0487849!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3",
-    "youtube_link": "<iframe width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/rJBhkkzNDkQ?si=iuHHO8YiDt9JDq6s\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen></iframe>",
+    "map_link": "<iframe src='https://www.google.com/map_links/embed?pb=!1m18!1m12!1m3!1d103226.65138243705!2d-94.22848794179689!3d36.0487849!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3",
+    "youtube_link": "<iframe width='560' height='315' src='https://www.youtube.com/embed/rJBhkkzNDkQ?si=iuHHO8YiDt9JDq6s' title='YouTube video player' frameborder='0' allow='accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share' referrerpolicy='strict-origin-when-cross-origin' allowfullscreen></iframe>",
     "intensity": "easy",
     "selected": false
   },
@@ -469,9 +469,9 @@
 
   "act40":{
     "name": "Ninja Course",
-    "img_src": "<a href=\"https://media.istockphoto.com/photos/multi-sports-proud-players-collage-on-grand-arena-picture-id637332860?k=6&m=637332860&s=612x612&w=0&h=Ciw1A0MJRMz9lDyegBZDDdDkUyVi7_SYTl7G7QTgaRM=\" target=\"_blank\"><img src=\"https://media.istockphoto.com/photos/multi-sports-proud-players-collage-on-grand-arena-picture-id637332860?k=6&m=637332860&s=612x612&w=0&h=Ciw1A0MJRMz9lDyegBZDDdDkUyVi7_SYTl7G7QTgaRM=\" alt",
+    "img_src": "<a href='https://media.istockphoto.com/photos/multi-sports-proud-players-collage-on-grand-arena-picture-id637332860?k=6&m=637332860&s=612x612&w=0&h=Ciw1A0MJRMz9lDyegBZDDdDkUyVi7_SYTl7G7QTgaRM=' target='_blank'><img src='https://media.istockphoto.com/photos/multi-sports-proud-players-collage-on-grand-arena-picture-id637332860?k=6&m=637332860&s=612x612&w=0&h=Ciw1A0MJRMz9lDyegBZDDdDkUyVi7_SYTl7G7QTgaRM=' alt",
     "description": "Sport",
-    "map_link": "<iframe src=\"https://www.google.com/map_links/embed?pb=!1m18!1m12!1m3!1d6589358.054495513!2d-98.64215387499999!3d36.2526099!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x87c9138dbb0ddfa5%3A0xa348727b8a2458ce!2sFlip%20Side%20Ninja%20Park!5e0!3m2!1sen!2sus!4v1712979483919!5m2!1sen!2sus\" width=\"600\" height=\"450\" style=\"border:0;\" allowfullscreen=\"\" loading=\"lazy\" referrerpolicy=\"no-referrer-when-downgrade\"></iframe>",
+    "map_link": "<iframe src='https://www.google.com/map_links/embed?pb=!1m18!1m12!1m3!1d6589358.054495513!2d-98.64215387499999!3d36.2526099!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x87c9138dbb0ddfa5%3A0xa348727b8a2458ce!2sFlip%20Side%20Ninja%20Park!5e0!3m2!1sen!2sus!4v1712979483919!5m2!1sen!2sus' width='600' height='450' style='border:0;' allowfullscreen='' loading='lazy' referrerpolicy='no-referrer-when-downgrade'></iframe>",
     "youtube_link": "https://www.youtube.com/watch?v=AVabMNw7uLw",
     "intensity": "easy",
     "selected": false
@@ -481,9 +481,9 @@
   
   "act41":{
     "name": "Ice Skating",
-    "img_src": "<a href=\"https://media.istockphoto.com/photos/multi-sports-proud-players-collage-on-grand-arena-picture-id637332860?k=6&m=637332860&s=612x612&w=0&h=Ciw1A0MJRMz9lDyegBZDDdDkUyVi7_SYTl7G7QTgaRM=\" target=\"_blank\"><img src=\"https://media.istockphoto.com/photos/multi-sports-proud-players-collage-on-grand-arena-picture-id637332860?k=6&m=637332860&s=612x612&w=0&h=Ciw1A0MJRMz9lDyegBZDDdDkUyVi7_SYTl7G7QTgaRM=\" alt",
+    "img_src": "<a href='https://media.istockphoto.com/photos/multi-sports-proud-players-collage-on-grand-arena-picture-id637332860?k=6&m=637332860&s=612x612&w=0&h=Ciw1A0MJRMz9lDyegBZDDdDkUyVi7_SYTl7G7QTgaRM=' target='_blank'><img src='https://media.istockphoto.com/photos/multi-sports-proud-players-collage-on-grand-arena-picture-id637332860?k=6&m=637332860&s=612x612&w=0&h=Ciw1A0MJRMz9lDyegBZDDdDkUyVi7_SYTl7G7QTgaRM=' alt",
     "description": "Sport",
-    "map_link": "<iframe src=\"https://www.google.com/map_links/embed?pb=!1m18!1m12!1m3!1d103046.15269305329!2d-94.18898154179682!3d36.18620550000001!2m3!1f0!2f0!3f0!3m2!1i1024!",
+    "map_link": "<iframe src='https://www.google.com/map_links/embed?pb=!1m18!1m12!1m3!1d103046.15269305329!2d-94.18898154179682!3d36.18620550000001!2m3!1f0!2f0!3f0!3m2!1i1024!",
     "youtube_link": "https://www.youtube.com/watch?v=-vKYvvJ_-Hg",
     "intensity": "easy",
     "selected": false
@@ -493,9 +493,9 @@
   
   "act42":{
     "name": "Laser Tag",
-    "img_src": "<a href=\"https://media.istockphoto.com/photos/multi-sports-proud-players-collage-on-grand-arena-picture-id637332860?k=6&m=637332860&s=612x612&w=0&h=Ciw1A0MJRMz9lDyegBZDDdDkUyVi7_SYTl7G7QTgaRM=\" target=\"_blank\"><img src=\"https://media.istockphoto.com/photos/multi-sports-proud-players-collage-on-grand-arena-picture-id637332860?k=6&m=637332860&s=612x612&w=0&h=Ciw1A0MJRMz9lDyegBZDDdDkUyVi7_SYTl7G7QTgaRM=\" alt",
+    "img_src": "<a href='https://media.istockphoto.com/photos/multi-sports-proud-players-collage-on-grand-arena-picture-id637332860?k=6&m=637332860&s=612x612&w=0&h=Ciw1A0MJRMz9lDyegBZDDdDkUyVi7_SYTl7G7QTgaRM=' target='_blank'><img src='https://media.istockphoto.com/photos/multi-sports-proud-players-collage-on-grand-arena-picture-id637332860?k=6&m=637332860&s=612x612&w=0&h=Ciw1A0MJRMz9lDyegBZDDdDkUyVi7_SYTl7G7QTgaRM=' alt",
     "description": "Sport",
-    "map_link": "<iframe src=\"https://www.google.com/map_links/embed?pb=!1m18!1m12!1m3!1d412511.2383670063!2d-94.39076196718749!3d36.124092899999994!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s",
+    "map_link": "<iframe src='https://www.google.com/map_links/embed?pb=!1m18!1m12!1m3!1d412511.2383670063!2d-94.39076196718749!3d36.124092899999994!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s",
     "youtube_link": "https://www.youtube.com/watch?v=5hPo8dFovFc",
     "intensity": "easy",
     "selected": false
@@ -505,9 +505,9 @@
   
   "act43":{
     "name": "Airsoft",
-    "img_src": "<a href=\"https://media.istockphoto.com/photos/multi-sports-proud-players-collage-on-grand-arena-picture-id637332860?k=6&m=637332860&s=612x612&w=0&h=Ciw1A0MJRMz9lDyegBZDDdDkUyVi7_SYTl7G7QTgaRM=\" target=\"_blank\"><img src=\"https://media.istockphoto.com/photos/multi-sports-proud-players-collage-on-grand-arena-picture-id637332860?k=6&m=637332860&s=612x612&w=0&h=Ciw1A0MJRMz9lDyegBZDDdDkUyVi7_SYTl7G7QTgaRM=\" alt",
+    "img_src": "<a href='https://media.istockphoto.com/photos/multi-sports-proud-players-collage-on-grand-arena-picture-id637332860?k=6&m=637332860&s=612x612&w=0&h=Ciw1A0MJRMz9lDyegBZDDdDkUyVi7_SYTl7G7QTgaRM=' target='_blank'><img src='https://media.istockphoto.com/photos/multi-sports-proud-players-collage-on-grand-arena-picture-id637332860?k=6&m=637332860&s=612x612&w=0&h=Ciw1A0MJRMz9lDyegBZDDdDkUyVi7_SYTl7G7QTgaRM=' alt",
     "description": "Sport",
-    "map_link": "<iframe src=\"https://www.google.com/map_links/embed?pb=!1m18!1m12!1m3!1d412511.2383670063!2d-94.39076196718749!3d36.124092899999994!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s",
+    "map_link": "<iframe src='https://www.google.com/map_links/embed?pb=!1m18!1m12!1m3!1d412511.2383670063!2d-94.39076196718749!3d36.124092899999994!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s",
     "youtube_link": "https://www.youtube.com/watch?v=CnVNyFA-3q0",
     "intensity": "easy",
     "selected": false
@@ -517,9 +517,9 @@
   
   "act44":{
     "name": "Go Karting",
-    "img_src": "<a href=\"https://media.istockphoto.com/photos/multi-sports-proud-players-collage-on-grand-arena-picture-id637332860?k=6&m=637332860&s=612x612&w=0&h=Ciw1A0MJRMz9lDyegBZDDdDkUyVi7_SYTl7G7QTgaRM=\" target=\"_blank\"><img src=\"https://media.istockphoto.com/photos/multi-sports-proud-players-collage-on-grand-arena-picture-id637332860?k=6&m=637332860&s=612x612&w=0&h=Ciw1A0MJRMz9lDyegBZDDdDkUyVi7_SYTl7G7QTgaRM=\" alt",
+    "img_src": "<a href='https://media.istockphoto.com/photos/multi-sports-proud-players-collage-on-grand-arena-picture-id637332860?k=6&m=637332860&s=612x612&w=0&h=Ciw1A0MJRMz9lDyegBZDDdDkUyVi7_SYTl7G7QTgaRM=' target='_blank'><img src='https://media.istockphoto.com/photos/multi-sports-proud-players-collage-on-grand-arena-picture-id637332860?k=6&m=637332860&s=612x612&w=0&h=Ciw1A0MJRMz9lDyegBZDDdDkUyVi7_SYTl7G7QTgaRM=' alt",
     "description": "Sport",
-    "map_link": "<iframe src=\"https://www.google.com/map_links/embed?pb=!1m18!1m12!1m3!1d822785.8499473999!2d-94.70829463437497!3d36.3363747!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x87c9171bba43dbf3%3A0xc216f5d93f103b4c!2sK1%20Speed%20-%20Indoor%20Go%20Karts%2C%20Corporate%20Event%20Venue%2C%20Team%20Building%20Activities!5e0!3m2!1sen!2sus!4v1712980385102!5m2!1sen!2sus\" width=\"600\" height=\"450\" style=\"border:0;\" allowfullscreen=\"\" loading=\"lazy\" referrerpolicy=\"no-referrer-when-downgrade\"></iframe>",
+    "map_link": "<iframe src='https://www.google.com/map_links/embed?pb=!1m18!1m12!1m3!1d822785.8499473999!2d-94.70829463437497!3d36.3363747!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x87c9171bba43dbf3%3A0xc216f5d93f103b4c!2sK1%20Speed%20-%20Indoor%20Go%20Karts%2C%20Corporate%20Event%20Venue%2C%20Team%20Building%20Activities!5e0!3m2!1sen!2sus!4v1712980385102!5m2!1sen!2sus' width='600' height='450' style='border:0;' allowfullscreen='' loading='lazy' referrerpolicy='no-referrer-when-downgrade'></iframe>",
     "youtube_link": "https://www.youtube.com/watch?v=3rDQu-I-jtQ",
     "intensity": "easy",
     "selected": false
@@ -529,10 +529,10 @@
 
   "act45":{
     "name": "Weightlifting",
-    "img_src": "<a href=\"https://media.istockphoto.com/photos/multi-sports-proud-players-collage-on-grand-arena-picture-id637332860?k=6&m=637332860&s=612x612&w=0&h=Ciw1A0MJRMz9lDyegBZDDdDkUyVi7_SYTl7G7QTgaRM=\" target=\"_blank\"><img src=\"https://media.istockphoto.com/photos/multi-sports-proud-players-collage-on-grand-arena-picture-id637332860?k=6&m=637332860&s=612x612&w=0&h=Ciw1A0MJRMz9lDyegBZDDdDkUyVi7_SYTl7G7QTgaRM=\" alt",
+    "img_src": "<a href='https://media.istockphoto.com/photos/multi-sports-proud-players-collage-on-grand-arena-picture-id637332860?k=6&m=637332860&s=612x612&w=0&h=Ciw1A0MJRMz9lDyegBZDDdDkUyVi7_SYTl7G7QTgaRM=' target='_blank'><img src='https://media.istockphoto.com/photos/multi-sports-proud-players-collage-on-grand-arena-picture-id637332860?k=6&m=637332860&s=612x612&w=0&h=Ciw1A0MJRMz9lDyegBZDDdDkUyVi7_SYTl7G7QTgaRM=' alt",
     "description": "Sport",
-    "map_link": "<iframe src=\"https://www.google.com/map_links/embed?pb=!1m18!1m12!1m3!1d6450.386610350682!2d-94.1827730651123!3d36.0643889!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x87",
-    "youtube_link": "<iframe width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/rJBhkkzNDkQ?si=iuHHO8YiDt9JDq6s\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen></iframe>",
+    "map_link": "<iframe src='https://www.google.com/map_links/embed?pb=!1m18!1m12!1m3!1d6450.386610350682!2d-94.1827730651123!3d36.0643889!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x87",
+    "youtube_link": "<iframe width='560' height='315' src='https://www.youtube.com/embed/rJBhkkzNDkQ?si=iuHHO8YiDt9JDq6s' title='YouTube video player' frameborder='0' allow='accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share' referrerpolicy='strict-origin-when-cross-origin' allowfullscreen></iframe>",
     "intensity": "easy",
     "selected": false 
   },
@@ -541,10 +541,10 @@
 
   "act46":{
     "name": "Horseback Riding",
-    "img_src": "<a href=\"https://media.istockphoto.com/photos/multi-sports-proud-players-collage-on-grand-arena-picture-id637332860?k=6&m=637332860&s=612x612&w=0&h=Ciw1A0MJRMz9lDyegBZDDdDkUyVi7_SYTl7G7QTgaRM=\" target=\"_blank\"><img src=\"https://media.istockphoto.com/photos/multi-sports-proud-players-collage-on-grand-arena-picture-id637332860?k=6&m=637332860&s=612x612&w=0&h=Ciw1A0MJRMz9lDyegBZDDdDkUyVi7_SYTl7G7QTgaRM=\" alt",
+    "img_src": "<a href='https://media.istockphoto.com/photos/multi-sports-proud-players-collage-on-grand-arena-picture-id637332860?k=6&m=637332860&s=612x612&w=0&h=Ciw1A0MJRMz9lDyegBZDDdDkUyVi7_SYTl7G7QTgaRM=' target='_blank'><img src='https://media.istockphoto.com/photos/multi-sports-proud-players-collage-on-grand-arena-picture-id637332860?k=6&m=637332860&s=612x612&w=0&h=Ciw1A0MJRMz9lDyegBZDDdDkUyVi7_SYTl7G7QTgaRM=' alt",
     "description": "Sport",
-    "map_link": "<iframe src=\"https://www.google.com/map_links/embed?pb=!1m18!1m12!1m3!1d3236.731252859342!2d-94.25268559999999!3d35.781977399999995!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x87cbd76c737b5537%3A0xed231129ead6920b!2sDevil&#39;s%20Den%20State%20Park!5e0!3m2!1sen!2sus!4v1712977531822!5m2!1sen!2sus\" width=\"600\" height=\"450\" style=\"border:0;\" allowfullscreen=\"\" loading=\"lazy\" referrerpolicy=\"no-referrer-when-downgrade\"></iframe>",
-    "youtube_link": "<iframe width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/rJBhkkzNDkQ?si=iuHHO8YiDt9JDq6s\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen></iframe>",
+    "map_link": "<iframe src='https://www.google.com/map_links/embed?pb=!1m18!1m12!1m3!1d3236.731252859342!2d-94.25268559999999!3d35.781977399999995!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x87cbd76c737b5537%3A0xed231129ead6920b!2sDevil&#39;s%20Den%20State%20Park!5e0!3m2!1sen!2sus!4v1712977531822!5m2!1sen!2sus' width='600' height='450' style='border:0;' allowfullscreen='' loading='lazy' referrerpolicy='no-referrer-when-downgrade'></iframe>",
+    "youtube_link": "<iframe width='560' height='315' src='https://www.youtube.com/embed/rJBhkkzNDkQ?si=iuHHO8YiDt9JDq6s' title='YouTube video player' frameborder='0' allow='accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share' referrerpolicy='strict-origin-when-cross-origin' allowfullscreen></iframe>",
     "intensity": "easy",
     "selected": false
   },
@@ -553,9 +553,9 @@
   
   "act47":{
     "name": "Inner Tubing",
-    "img_src": "<a href=\"https://media.istockphoto.com/photos/multi-sports-proud-players-collage-on-grand-arena-picture-id637332860?k=6&m=637332860&s=612x612&w=0&h=Ciw1A0MJRMz9lDyegBZDDdDkUyVi7_SYTl7G7QTgaRM=\" target=\"_blank\"><img src=\"https://media.istockphoto.com/photos/multi-sports-proud-players-collage-on-grand-arena-picture-id637332860?k=6&m=637332860&s=612x612&w=0&h=Ciw1A0MJRMz9lDyegBZDDdDkUyVi7_SYTl7G7QTgaRM=\" alt",
+    "img_src": "<a href='https://media.istockphoto.com/photos/multi-sports-proud-players-collage-on-grand-arena-picture-id637332860?k=6&m=637332860&s=612x612&w=0&h=Ciw1A0MJRMz9lDyegBZDDdDkUyVi7_SYTl7G7QTgaRM=' target='_blank'><img src='https://media.istockphoto.com/photos/multi-sports-proud-players-collage-on-grand-arena-picture-id637332860?k=6&m=637332860&s=612x612&w=0&h=Ciw1A0MJRMz9lDyegBZDDdDkUyVi7_SYTl7G7QTgaRM=' alt",
     "description": "Sport",
-    "map_link": "<iframe src=\"https://www.google.com/map_links/embed?pb=!1m18!1m12!1m3!1d205635.64128672413!2d-93.94102665000004!3d36.359400750000006!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m",
+    "map_link": "<iframe src='https://www.google.com/map_links/embed?pb=!1m18!1m12!1m3!1d205635.64128672413!2d-93.94102665000004!3d36.359400750000006!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m",
     "youtube_link": "https://www.youtube.com/watch?v=lTtLvpWPzAs",
     "intensity": "easy",
     "selected": false 
@@ -565,9 +565,9 @@
   
   "act48":{
     "name": "Water Skiing",
-    "img_src": "<a href=\"https://media.istockphoto.com/photos/multi-sports-proud-players-collage-on-grand-arena-picture-id637332860?k=6&m=637332860&s=612x612&w=0&h=Ciw1A0MJRMz9lDyegBZDDdDkUyVi7_SYTl7G7QTgaRM=\" target=\"_blank\"><img src=\"https://media.istockphoto.com/photos/multi-sports-proud-players-collage-on-grand-arena-picture-id637332860?k=6&m=637332860&s=612x612&w=0&h=Ciw1A0MJRMz9lDyegBZDDdDkUyVi7_SYTl7G7QTgaRM=\" alt",
+    "img_src": "<a href='https://media.istockphoto.com/photos/multi-sports-proud-players-collage-on-grand-arena-picture-id637332860?k=6&m=637332860&s=612x612&w=0&h=Ciw1A0MJRMz9lDyegBZDDdDkUyVi7_SYTl7G7QTgaRM=' target='_blank'><img src='https://media.istockphoto.com/photos/multi-sports-proud-players-collage-on-grand-arena-picture-id637332860?k=6&m=637332860&s=612x612&w=0&h=Ciw1A0MJRMz9lDyegBZDDdDkUyVi7_SYTl7G7QTgaRM=' alt",
     "description": "Sport",
-    "map_link": "<iframe src=\"https://www.google.com/map_links/embed?pb=!1m18!1m12!1m3!1d205635.64128672413!2d-93.94102665000004!3d36.359400750000006!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m",
+    "map_link": "<iframe src='https://www.google.com/map_links/embed?pb=!1m18!1m12!1m3!1d205635.64128672413!2d-93.94102665000004!3d36.359400750000006!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m",
     "youtube_link": "https://www.youtube.com/watch?v=_Jg25zgh_TE",
     "intensity": "easy",
     "selected": false
@@ -577,9 +577,9 @@
   
   "act49":{
     "name": "Deer Hunting",
-    "img_src": "<a href=\"https://media.istockphoto.com/photos/multi-sports-proud-players-collage-on-grand-arena-picture-id637332860?k=6&m=637332860&s=612x612&w=0&h=Ciw1A0MJRMz9lDyegBZDDdDkUyVi7_SYTl7G7QTgaRM=\" target=\"_blank\"><img src=\"https://media.istockphoto.com/photos/multi-sports-proud-players-collage-on-grand-arena-picture-id637332860?k=6&m=637332860&s=612x612&w=0&h=Ciw1A0MJRMz9lDyegBZDDdDkUyVi7_SYTl7G7QTgaRM=\" alt",
+    "img_src": "<a href='https://media.istockphoto.com/photos/multi-sports-proud-players-collage-on-grand-arena-picture-id637332860?k=6&m=637332860&s=612x612&w=0&h=Ciw1A0MJRMz9lDyegBZDDdDkUyVi7_SYTl7G7QTgaRM=' target='_blank'><img src='https://media.istockphoto.com/photos/multi-sports-proud-players-collage-on-grand-arena-picture-id637332860?k=6&m=637332860&s=612x612&w=0&h=Ciw1A0MJRMz9lDyegBZDDdDkUyVi7_SYTl7G7QTgaRM=' alt",
     "description": "Sport",
-    "map_link": "<iframe src=\"https://www.google.com/map_links/embed?pb=!1m18!1m12!1m3!1d416054.60154246626!2d-94.63146706718749!3d35.44423239999999!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x87cbb5aca9eeaaab%3A0xa96bd23aa3772d9d!2sQuail%20Mountain%20Enterprises!5e0",
+    "map_link": "<iframe src='https://www.google.com/map_links/embed?pb=!1m18!1m12!1m3!1d416054.60154246626!2d-94.63146706718749!3d35.44423239999999!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x87cbb5aca9eeaaab%3A0xa96bd23aa3772d9d!2sQuail%20Mountain%20Enterprises!5e0",
     "youtube_link": "https://www.youtube.com/watch?v=i1DKzC_1IXI",
     "intensity": "easy",
     "selected": false
@@ -589,9 +589,9 @@
   
   "act50":{
     "name": "Chess",
-    "img_src": "<a href=\"https://media.istockphoto.com/photos/multi-sports-proud-players-collage-on-grand-arena-picture-id637332860?k=6&m=637332860&s=612x612&w=0&h=Ciw1A0MJRMz9lDyegBZDDdDkUyVi7_SYTl7G7QTgaRM=\" target=\"_blank\"><img src=\"https://media.istockphoto.com/photos/multi-sports-proud-players-collage-on-grand-arena-picture-id637332860?k=6&m=637332860&s=612x612&w=0&h=Ciw1A0MJRMz9lDyegBZDDdDkUyVi7_SYTl7G7QTgaRM=\" alt", 
+    "img_src": "<a href='https://media.istockphoto.com/photos/multi-sports-proud-players-collage-on-grand-arena-picture-id637332860?k=6&m=637332860&s=612x612&w=0&h=Ciw1A0MJRMz9lDyegBZDDdDkUyVi7_SYTl7G7QTgaRM=' target='_blank'><img src='https://media.istockphoto.com/photos/multi-sports-proud-players-collage-on-grand-arena-picture-id637332860?k=6&m=637332860&s=612x612&w=0&h=Ciw1A0MJRMz9lDyegBZDDdDkUyVi7_SYTl7G7QTgaRM=' alt", 
     "description": "Sport",
-    "map_link": "<iframe src=\"https://www.google.com/map_links/embed?pb=!1m18!1m12!1m3!1d52012.08102550191!2d-94.38811132089842!3d35.43609709999999!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x87cbb55d4b4392bf%3A0xbee44c4b2f54a6c!2sMain%20Pl",
+    "map_link": "<iframe src='https://www.google.com/map_links/embed?pb=!1m18!1m12!1m3!1d52012.08102550191!2d-94.38811132089842!3d35.43609709999999!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x87cbb55d4b4392bf%3A0xbee44c4b2f54a6c!2sMain%20Pl",
     "youtube_link": "https://www.youtube.com/watch?v=OCSbzArwB10",
     "intensity": "easy",
     "selected": false
@@ -601,9 +601,9 @@
   
   "act51":{
     "name": "Driving Range",
-    "img_src": "<a href=\"https://media.istockphoto.com/photos/multi-sports-proud-players-collage-on-grand-arena-picture-id637332860?k=6&m=637332860&s=612x612&w=0&h=Ciw1A0MJRMz9lDyegBZDDdDkUyVi7_SYTl7G7QTgaRM=\" target=\"_blank\"><img src=\"https://media.istockphoto.com/photos/multi-sports-proud-players-collage-on-grand-arena-picture-id637332860?k=6&m=637332860&s=612x612&w=0&h=Ciw1A0MJRMz9lDyegBZDDdDkUyVi7_SYTl7G7QTgaRM=\" alt",
+    "img_src": "<a href='https://media.istockphoto.com/photos/multi-sports-proud-players-collage-on-grand-arena-picture-id637332860?k=6&m=637332860&s=612x612&w=0&h=Ciw1A0MJRMz9lDyegBZDDdDkUyVi7_SYTl7G7QTgaRM=' target='_blank'><img src='https://media.istockphoto.com/photos/multi-sports-proud-players-collage-on-grand-arena-picture-id637332860?k=6&m=637332860&s=612x612&w=0&h=Ciw1A0MJRMz9lDyegBZDDdDkUyVi7_SYTl7G7QTgaRM=' alt",
     "description": "Sport",
-    "map_link": "<iframe src=\"https://www.google.com/map_links/embed?pb=!1m18!1m12!1m3!1d26341376.343771003!2d-112.11242009999997!3d36.3001791!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4",
+    "map_link": "<iframe src='https://www.google.com/map_links/embed?pb=!1m18!1m12!1m3!1d26341376.343771003!2d-112.11242009999997!3d36.3001791!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4",
     "youtube_link": "https://www.youtube.com/watch?v=3_cpEnXWXbQ",
     "intensity": "easy",
     "selected": false 
@@ -613,10 +613,10 @@
 
   "act52":{
     "name": "Lacrosse",
-    "img_src": "<a href=\"https://media.istockphoto.com/photos/multi-sports-proud-players-collage-on-grand-arena-picture-id637332860?k=6&m=637332860&s=612x612&w=0&h=Ciw1A0MJRMz9lDyegBZDDdDkUyVi7_SYTl7G7QTgaRM=\" target=\"_blank\"><img src=\"https://media.istockphoto.com/photos/multi-sports-proud-players-collage-on-grand-arena-picture-id637332860?k=6&m=637332860&s=612x612&w=0&h=Ciw1A0MJRMz9lDyegBZDDdDkUyVi7_SYTl7G7QTgaRM=\" alt",
+    "img_src": "<a href='https://media.istockphoto.com/photos/multi-sports-proud-players-collage-on-grand-arena-picture-id637332860?k=6&m=637332860&s=612x612&w=0&h=Ciw1A0MJRMz9lDyegBZDDdDkUyVi7_SYTl7G7QTgaRM=' target='_blank'><img src='https://media.istockphoto.com/photos/multi-sports-proud-players-collage-on-grand-arena-picture-id637332860?k=6&m=637332860&s=612x612&w=0&h=Ciw1A0MJRMz9lDyegBZDDdDkUyVi7_SYTl7G7QTgaRM=' alt",
     "description": "Sport",
-    "map_link": "<iframe src=\"https://www.google.com/map_links/embed?pb=!1m18!1m12!1m3!1d103226.65138243705!2d-94.22848794179689!3d36.0487849!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3",
-    "youtube_link": "<iframe width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/rJBhkkzNDkQ?si=iuHHO8YiDt9JDq6s\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen></iframe>",
+    "map_link": "<iframe src='https://www.google.com/map_links/embed?pb=!1m18!1m12!1m3!1d103226.65138243705!2d-94.22848794179689!3d36.0487849!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3",
+    "youtube_link": "<iframe width='560' height='315' src='https://www.youtube.com/embed/rJBhkkzNDkQ?si=iuHHO8YiDt9JDq6s' title='YouTube video player' frameborder='0' allow='accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share' referrerpolicy='strict-origin-when-cross-origin' allowfullscreen></iframe>",
     "intensity": "easy",
     "selected": false
   },
@@ -625,10 +625,10 @@
 
   "act53":{
     "name": "Handball",
-    "img_src": "<a href=\"https://media.istockphoto.com/photos/multi-sports-proud-players-collage-on-grand-arena-picture-id637332860?k=6&m=637332860&s=612x612&w=0&h=Ciw1A0MJRMz9lDyegBZDDdDkUyVi7_SYTl7G7QTgaRM=\" target=\"_blank\"><img src=\"https://media.istockphoto.com/photos/multi-sports-proud-players-collage-on-grand-arena-picture-id637332860?k=6&m=637332860&s=612x612&w=0&h=Ciw1A0MJRMz9lDyegBZDDdDkUyVi7_SYTl7G7QTgaRM=\" alt",
+    "img_src": "<a href='https://media.istockphoto.com/photos/multi-sports-proud-players-collage-on-grand-arena-picture-id637332860?k=6&m=637332860&s=612x612&w=0&h=Ciw1A0MJRMz9lDyegBZDDdDkUyVi7_SYTl7G7QTgaRM=' target='_blank'><img src='https://media.istockphoto.com/photos/multi-sports-proud-players-collage-on-grand-arena-picture-id637332860?k=6&m=637332860&s=612x612&w=0&h=Ciw1A0MJRMz9lDyegBZDDdDkUyVi7_SYTl7G7QTgaRM=' alt",
     "description": "Sport",
-    "map_link": "<iframe src=\"https://www.google.com/map_links/embed?pb=!1m18!1m12!1m3!1d103226.65138243705!2d-94.22848794179689!3d36.0487849!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3",
-    "youtube_link": "<iframe width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/rJBhkkzNDkQ?si=iuHHO8YiDt9JDq6s\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen></iframe>",
+    "map_link": "<iframe src='https://www.google.com/map_links/embed?pb=!1m18!1m12!1m3!1d103226.65138243705!2d-94.22848794179689!3d36.0487849!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3",
+    "youtube_link": "<iframe width='560' height='315' src='https://www.youtube.com/embed/rJBhkkzNDkQ?si=iuHHO8YiDt9JDq6s' title='YouTube video player' frameborder='0' allow='accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share' referrerpolicy='strict-origin-when-cross-origin' allowfullscreen></iframe>",
     "intensity": "easy",
     "selected": false 
   },
@@ -637,10 +637,10 @@
 
   "act54":{
     "name": "Kite Flying",
-    "img_src": "<a href=\"https://media.istockphoto.com/photos/multi-sports-proud-players-collage-on-grand-arena-picture-id637332860?k=6&m=637332860&s=612x612&w=0&h=Ciw1A0MJRMz9lDyegBZDDdDkUyVi7_SYTl7G7QTgaRM=\" target=\"_blank\"><img src=\"https://media.istockphoto.com/photos/multi-sports-proud-players-collage-on-grand-arena-picture-id637332860?k=6&m=637332860&s=612x612&w=0&h=Ciw1A0MJRMz9lDyegBZDDdDkUyVi7_SYTl7G7QTgaRM=\" alt",
+    "img_src": "<a href='https://media.istockphoto.com/photos/multi-sports-proud-players-collage-on-grand-arena-picture-id637332860?k=6&m=637332860&s=612x612&w=0&h=Ciw1A0MJRMz9lDyegBZDDdDkUyVi7_SYTl7G7QTgaRM=' target='_blank'><img src='https://media.istockphoto.com/photos/multi-sports-proud-players-collage-on-grand-arena-picture-id637332860?k=6&m=637332860&s=612x612&w=0&h=Ciw1A0MJRMz9lDyegBZDDdDkUyVi7_SYTl7G7QTgaRM=' alt",
     "description": "Sport",
-    "map_link": "<iframe src=\"https://www.google.com/map_links/embed?pb=!1m18!1m12!1m3!1d103226.65138243705!2d-94.22848794179689!3d36.0487849!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3",
-    "youtube_link": "<iframe width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/rJBhkkzNDkQ?si=iuHHO8YiDt9JDq6s\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen></iframe>",
+    "map_link": "<iframe src='https://www.google.com/map_links/embed?pb=!1m18!1m12!1m3!1d103226.65138243705!2d-94.22848794179689!3d36.0487849!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3",
+    "youtube_link": "<iframe width='560' height='315' src='https://www.youtube.com/embed/rJBhkkzNDkQ?si=iuHHO8YiDt9JDq6s' title='YouTube video player' frameborder='0' allow='accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share' referrerpolicy='strict-origin-when-cross-origin' allowfullscreen></iframe>",
     "intensity": "easy",
     "selected": false
   },
@@ -649,10 +649,10 @@
 
   "act55":{
     "name": "Horshoe",
-    "img_src": "<a href=\"https://media.istockphoto.com/photos/multi-sports-proud-players-collage-on-grand-arena-picture-id637332860?k=6&m=637332860&s=612x612&w=0&h=Ciw1A0MJRMz9lDyegBZDDdDkUyVi7_SYTl7G7QTgaRM=\" target=\"_blank\"><img src=\"https://media.istockphoto.com/photos/multi-sports-proud-players-collage-on-grand-arena-picture-id637332860?k=6&m=637332860&s=612x612&w=0&h=Ciw1A0MJRMz9lDyegBZDDdDkUyVi7_SYTl7G7QTgaRM=\" alt",
+    "img_src": "<a href='https://media.istockphoto.com/photos/multi-sports-proud-players-collage-on-grand-arena-picture-id637332860?k=6&m=637332860&s=612x612&w=0&h=Ciw1A0MJRMz9lDyegBZDDdDkUyVi7_SYTl7G7QTgaRM=' target='_blank'><img src='https://media.istockphoto.com/photos/multi-sports-proud-players-collage-on-grand-arena-picture-id637332860?k=6&m=637332860&s=612x612&w=0&h=Ciw1A0MJRMz9lDyegBZDDdDkUyVi7_SYTl7G7QTgaRM=' alt",
     "description": "Sport",
-    "map_link": "<iframe src=\"https://www.google.com/map_links/embed?pb=!1m18!1m12!1m3!1d103226.65138243705!2d-94.22848794179689!3d36.0487849!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3",
-    "youtube_link": "<iframe width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/rJBhkkzNDkQ?si=iuHHO8YiDt9JDq6s\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen></iframe>",
+    "map_link": "<iframe src='https://www.google.com/map_links/embed?pb=!1m18!1m12!1m3!1d103226.65138243705!2d-94.22848794179689!3d36.0487849!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3",
+    "youtube_link": "<iframe width='560' height='315' src='https://www.youtube.com/embed/rJBhkkzNDkQ?si=iuHHO8YiDt9JDq6s' title='YouTube video player' frameborder='0' allow='accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share' referrerpolicy='strict-origin-when-cross-origin' allowfullscreen></iframe>",
     "intensity": "easy",
     "selected": false
   },
@@ -661,9 +661,9 @@
   
   "act56":{
     "name": "Fencing",
-    "img_src": "<a href=\"https://media.istockphoto.com/photos/multi-sports-proud-players-collage-on-grand-arena-picture-id637332860?k=6&m=637332860&s=612x612&w=0&h=Ciw1A0MJRMz9lDyegBZDDdDkUyVi7_SYTl7G7QTgaRM=\" target=\"_blank\"><img src=\"https://media.istockphoto.com/photos/multi-sports-proud-players-collage-on-grand-arena-picture-id637332860?k=6&m=637332860&s=612x612&w=0&h=Ciw1A0MJRMz9lDyegBZDDdDkUyVi7_SYTl7G7QTgaRM=\" alt",
+    "img_src": "<a href='https://media.istockphoto.com/photos/multi-sports-proud-players-collage-on-grand-arena-picture-id637332860?k=6&m=637332860&s=612x612&w=0&h=Ciw1A0MJRMz9lDyegBZDDdDkUyVi7_SYTl7G7QTgaRM=' target='_blank'><img src='https://media.istockphoto.com/photos/multi-sports-proud-players-collage-on-grand-arena-picture-id637332860?k=6&m=637332860&s=612x612&w=0&h=Ciw1A0MJRMz9lDyegBZDDdDkUyVi7_SYTl7G7QTgaRM=' alt",
     "description": "Sport",
-    "map_link": "<iframe src=\"https://www.google.com/map_links/embed?pb=!1m18!1m12!1m3!1d103053.44858639533!2d-94.25642904179689!3d36.18065959999999!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x87c9",
+    "map_link": "<iframe src='https://www.google.com/map_links/embed?pb=!1m18!1m12!1m3!1d103053.44858639533!2d-94.25642904179689!3d36.18065959999999!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x87c9",
     "youtube_link": "https://www.youtube.com/watch?v=kTw05gC2T9Y",
     "intensity": "easy",
     "selected": false 
@@ -673,10 +673,10 @@
   
   "act57":{
     "name": "Field Hockey",
-    "img_src": "<a href=\"https://media.istockphoto.com/photos/multi-sports-proud-players-collage-on-grand-arena-picture-id637332860?k=6&m=637332860&s=612x612&w=0&h=Ciw1A0MJRMz9lDyegBZDDdDkUyVi7_SYTl7G7QTgaRM=\" target=\"_blank\"><img src=\"https://media.istockphoto.com/photos/multi-sports-proud-players-collage-on-grand-arena-picture-id637332860?k=6&m=637332860&s=612x612&w=0&h=Ciw1A0MJRMz9lDyegBZDDdDkUyVi7_SYTl7G7QTgaRM=\" alt",
+    "img_src": "<a href='https://media.istockphoto.com/photos/multi-sports-proud-players-collage-on-grand-arena-picture-id637332860?k=6&m=637332860&s=612x612&w=0&h=Ciw1A0MJRMz9lDyegBZDDdDkUyVi7_SYTl7G7QTgaRM=' target='_blank'><img src='https://media.istockphoto.com/photos/multi-sports-proud-players-collage-on-grand-arena-picture-id637332860?k=6&m=637332860&s=612x612&w=0&h=Ciw1A0MJRMz9lDyegBZDDdDkUyVi7_SYTl7G7QTgaRM=' alt",
     "description": "Sport",
-    "map_link": "<iframe src=\"https://www.google.com/map_links/embed?pb=!1m18!1m12!1m3!1d103226.65138243705!2d-94.22848794179689!3d36.0487849!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3",
-    "youtube_link": "<iframe width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/rJBhkkzNDkQ?si=iuHHO8YiDt9JDq6s\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen></iframe>",
+    "map_link": "<iframe src='https://www.google.com/map_links/embed?pb=!1m18!1m12!1m3!1d103226.65138243705!2d-94.22848794179689!3d36.0487849!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3",
+    "youtube_link": "<iframe width='560' height='315' src='https://www.youtube.com/embed/rJBhkkzNDkQ?si=iuHHO8YiDt9JDq6s' title='YouTube video player' frameborder='0' allow='accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share' referrerpolicy='strict-origin-when-cross-origin' allowfullscreen></iframe>",
     "intensity": "easy",
     "selected": false
   }
