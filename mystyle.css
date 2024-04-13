@@ -22,8 +22,15 @@ title {
     font-size: 2.5vw; /* Adjust text size based on viewport width */
 }
 
-main_body {
-    margin-bottom: 10px;
+.mbody {
+    text-align: center;
+    padding-bottom: 20px;
+    width: 60%;
+}
+
+iframe{
+    width: 75%;
+    height:auto;
 }
 
 h1{
@@ -108,7 +115,6 @@ h1{
     align-items: center;
     border-radius: 1vw;
 }
-
 
 .side-container2 {
     width: calc(45% - 10px); /* Adjusted width calculation */
