@@ -248,7 +248,7 @@ button {
     width: 30%;
     position: absolute;
     left: 10%;
-    margin-top: 20px;
+    margin-top: 2vh;
 }
 
 .bottom-right-container {
@@ -265,8 +265,13 @@ button {
     position: absolute;
     bottom: 20px;
     right: 10px;
-    width: 150px;
+    width: 200px;
     height: auto;
     z-index: 999;
 
+}
+
+f2 {
+    font-family: monospace, sans-serif;
+    font-size: 12px;
 }
