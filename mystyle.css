@@ -260,5 +260,15 @@ button {
 }
 
 p {
-    font-size: 12px;
+    font-size: 15px;
+}
+
+.arkansas-logo {
+    position: absolute;
+    bottom: 10px;
+    right: 10px;
+    width: 100px;
+    height: auto;
+    z-index: 999;
+
 }
