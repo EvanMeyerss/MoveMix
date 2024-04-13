@@ -33,17 +33,20 @@ h1{
 
 }
 .container {
-    max-width: 800px;
     margin: 0 auto;
+    height: 100%;
+    width: 100%;
+    max-width: 90%;
+    border-radius: 10%;
     padding: 20px;
-    width: auto;
-    height: auto;
+    background:#ded5e3;
+    box-sizing: border-box;
 }
 
 .big-container {
     margin-top: 40px;
     width: auto;
-    height: auto;
+    height: 100%;
     border-style: solid;
     border-color: purple;
     border-width: 5px;
@@ -52,7 +55,7 @@ h1{
 .picture-container {
     margin-bottom: 20px;
     width: auto;
-    height: auto;
+    height: 100%;
     border-style: solid;
     border-color: green;
     border-width: 5px;
