@@ -136,8 +136,9 @@ h1{
 }
 
 .side-container img {
-    /* max-width: 100%; */
+    max-width: 100%;
     width:auto;
+    height: auto;
     max-height:50vw; 
     border-radius: 1vw;
     padding: 5%;
