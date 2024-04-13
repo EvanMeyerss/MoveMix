@@ -34,13 +34,12 @@
   },
 
 
-
-  "act4":{
+  "act4": {
     "name": "Football",
     "img_src": "photos/4.webp",
     "description": "Football, commonly known as American football, is a team sport played with an oval-shaped ball primarily using the hands and arms to pass and carry the ball. Players aim to advance the ball into the opposing team's end zone to score points while defending their own end zone.",
     "map_link": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d12901.618972715069!2d-94.20022331284177!3d36.059230800000016!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x87c96f3a79534f51%3A0x710a04137abc5688!2sRecreation%20Fields!5e0!3m2!1sen!2sus!4v1712994264738!5m2!1sen!2sus' width='600' height='450' style='border:0;' allowfullscreen='' loading='lazy' referrerpolicy='no-referrer-when-downgrade",
-    "youtube_link": "https://www.youtube.com/embed/3t6hM5tRlfA?si=OXBhGVbyXEk76DFI",
+    "youtube_link": "https://www.youtube.com/embed/uM9iLQJzMO0?si=EUgYGTixEekWDETP",
     "intensity": "hard",
     "selected": false
   },
@@ -63,7 +62,7 @@
     "name": "Volleyball",
     "img_src": "photos/6.webp",
     "description": "Volleyball is a team sport where two teams of six players each try to score points by grounding the ball on the opposing team's court. It's characterized by fast-paced rallies, strategic positioning, and precise ball control, making it an exciting and dynamic game enjoyed worldwide.",
-    "map_link": "https://www.youtube.com/embed/OWCkPbzq81g?si=W7rl12-ycTbj2vwE",
+    "map_link": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3225.1931285391465!2d-94.18097062473166!3d36.064393208831795!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x87c96ee3ebfe7835%3A0x910646d835b087c1!2sUREC%20HPER%20Building!5e0!3m2!1sen!2sus!4v1712994174766!5m2!1sen!2sus' width='600' height='450' style='border:0;' allowfullscreen='' loading='lazy' referrerpolicy='no-referrer-when-downgrade",
     "youtube_link": "https://www.youtube.com/embed/OWCkPbzq81g?si=jubC4DWu_hqYwhsP",
     "intensity": "easy",
     "selected": false
@@ -268,7 +267,7 @@
     "img_src": "photos/23.webp",
     "description": "Golf is a precision club-and-ball sport where players use various clubs to hit balls into a series of holes on a course in as few strokes as possible. It's enjoyed by players of all ages and skill levels, offering both competitive and leisurely play in beautiful outdoor settings.",
     "map_link": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d103184.26942389777!2d-94.30409018003354!3d36.08109253672502!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x87c96f505249226b%3A0xfd7b852f1e6282b0!2sFayetteville%20Country%20Club!5e0!3m2!1sen!2sus!4v1712995818189!5m2!1sen!2sus' width='600' height='450' style='border:0;' allowfullscreen='' loading='lazy' referrerpolicy='no-referrer-when-downgrade",
-    "youtube_link": "https://www.youtube.com/embed/IcaFTHeVQ7w?si=fP8AqsYSaZh2wO7K",
+    "youtube_link": "https://www.youtube.com/embed/me5gjIUe1Ks?si=jlLMjm2a4p6PmvI1",
     "intensity": "easy",
     "selected": false
   },
