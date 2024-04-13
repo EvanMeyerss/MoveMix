@@ -1,8 +1,47 @@
 // Created: 4/12/2024
 // Updated:
 const activities = [];
+// Create a new hash table
+
 let currentIndex = 0
 let iterator = 0
+
+class HashTable {
+    constructor() {
+        this.buckets = {};
+        this.size = 57;
+        // Initialize buckets for easy, medium, and hard difficulties
+        this.buckets['easy'] = [];
+        this.buckets['medium'] = [];
+        this.buckets['hard'] = [];
+    }
+
+    // Function to generate hash code
+    hash(key) {
+        let hash = 0;
+        for (let i = 0; i < key.length; i++) {
+            hash += key.charCodeAt(i);
+        }
+        return hash % this.size;
+    }
+
+    // Function to insert an object into the hash table
+    insert(object) {
+        const intensity = object.intensity;
+        if (!this.buckets[intensity]) {
+            this.buckets[intensity] = []; // Initialize the bucket if it doesn't exist
+        }
+        const index = this.hash(intensity);
+        this.buckets[intensity].push(object);
+    }
+
+    // Function to retrieve objects of a certain difficulty
+    retrieve(intensity) {
+        return this.buckets[intensity];
+    }
+}
+
+const hashTable = new HashTable();
 
 document.addEventListener('DOMContentLoaded', function() {
     fetch('info.json')
@@ -31,7 +70,17 @@ document.addEventListener('DOMContentLoaded', function() {
 
             // Call the propagate function with the activities array
             propagate(activities, 0);
-
+            for (let i = 0; i < activities.length; i++)
+            {
+                hashTable.insert(activities[i]);
+            }
+            // Retrieve objects of different difficulties
+            const easyObjects = hashTable.retrieve('easy');
+            const mediumObjects = hashTable.retrieve('medium');
+            const hardObjects = hashTable.retrieve('hard');
+            console.log("Easy Objects:", easyObjects);
+            console.log("Medium Objects:", mediumObjects);
+            console.log("Hard Objects:", hardObjects);
             // Set up the event listener for the "Next" button
             document.getElementById("next").addEventListener("click", () => {
                 iterator++;
@@ -94,59 +143,13 @@ document.addEventListener('DOMContentLoaded', function() {
 window.addEventListener('load', function() {
     setSideContainerImageHeight(); // Call the function when the window is refreshed or reloaded
 });
-// //counters
-// let num_sports;
-// let hard_sports;
-// let medium_sports
-// let easy_sports;
-//
-// // Define the hash table class
-// class HashTable {
-//     constructor() {
-//         this.buckets = [];
-//         this.size = 55;
-//         // Initialize buckets for easy, medium, and hard difficulties
-//         this.buckets['easy'] = [];
-//         this.buckets['medium'] = [];
-//         this.buckets['hard'] = [];
-//     }
-//
-//     // Function to generate hash code
-//     hash(key) {
-//         let hash = 0;
-//         for (let i = 0; i < key.length; i++) {
-//             hash += key.charCodeAt(i);
-//         }
-//         return hash % this.size;
-//     }
-//
-//     // Function to insert an object into the hash table
-//     insert(object) {
-//         const difficulty = object.difficulty;
-//         const index = this.hash(difficulty);
-//         this.buckets[difficulty].push(object);
-//     }
-//
-//     // Function to retrieve objects of a certain difficulty
-//     retrieve(difficulty) {
-//         return this.buckets[difficulty];
-//     }
-// }
-//
-//
-// // Create a new hash table
-// const hashTable = new HashTable();
-//
-// // Insert objects into the hash table
-// objects.forEach(object => {
-//     hashTable.insert(object);
-// });
-//
-// // Retrieve objects of different difficulties
-// const easyObjects = hashTable.retrieve('easy');
-// const mediumObjects = hashTable.retrieve('medium');
-// const hardObjects = hashTable.retrieve('hard');
-//
-// console.log("Easy Objects:", easyObjects);
-// console.log("Medium Objects:", mediumObjects);
-// console.log("Hard Objects:", hardObjects);
+counters
+let num_sports;
+let hard_sports;
+let medium_sports
+let easy_sports;
+
+
+
+
+
