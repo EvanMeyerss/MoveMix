@@ -6,12 +6,22 @@ body {
     text-align: center;
 }
 
-p{
-    width: 80%;
+p {
+    width: 60%;
     position: relative;
     margin: 0 auto;
-    padding-bottom: 3vh;
+    padding-bottom:6%;
+    font-size: 2.0vw; /* Adjust text size based on viewport width */
 }
+
+p2{
+    width: 60%;
+    position: relative;
+    margin: 0 auto;
+    padding-bottom:6%;
+    font-size: 1.5vw; /* Adjust text size based on viewport width */
+}
+
 img {
     padding-bottom: 20px;
 }
@@ -21,7 +31,8 @@ title {
     flex-direction: column;
     justify-content: space-between;
     align-items: center;
-    padding: 8% 0; /* we want 8% on the margins */
+    padding-top: 3%;
+    padding-bottom:3%;
     color: white;
     text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5); /* Shadow effect */
     text-decoration: underline;
