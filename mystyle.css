@@ -1,7 +1,7 @@
 @import url('https://fonts.googleapis.com/css2?family=Agbalumo&family=Lilita+One&family=Philosopher:ital,wght@0,400;0,700;1,400;1,700&display=swap');
 
 body {
-    background: #fcd3cd;
+    background: #FFFFFDff;
     font-family: 'Agbalumo', sans-serif;
     text-align: center;
     margin: 0;
@@ -14,7 +14,7 @@ body {
 p {
     /* width: 60%; */
     /* margin-top: 20v; */
-    color: #f0f0f0;
+    color: #FFFFFDff;
     position: relative;
     margin: 0 auto;
     /* padding-bottom:6%; */
@@ -22,10 +22,10 @@ p {
 }
 
 p2{
-    width: 60%;
+    width: 80%;
     position: relative;
     margin: 0 auto;
-    padding: 5%;
+    padding: 0;
     font-size: 1.5vw; /* Adjust text size based on viewport width */
 }
 
@@ -36,7 +36,7 @@ title1 {
     align-items: center;
     padding-top: 3%;
     padding-bottom:3%;
-    color:#8C6C9D;
+    color:#A29BC4ff;
     /* text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5); Shadow effect */
     /* text-decoration: underline; */
     font-size: 3.5vw; /* Adjust text size based on viewport width */
@@ -49,7 +49,7 @@ title2 {
     align-items: center;
     padding-top: 3%;
     padding-bottom:3%;
-    color:#ffffff;
+    color:#FFFFFDff;
     /* text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5); Shadow effect */
     /* text-decoration: underline; */
     font-size: 3.5vw; /* Adjust text size based on viewport width */
@@ -95,7 +95,7 @@ h1{
     transform: translate(-50%, -50%);
     font-size: 10vw; /* Text size increases as viewport width increases */
     text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5); /* Shadow effect */
-    color:#6C6EA9ff;
+    color:#A29BC4ff;
     
 }
 
@@ -114,7 +114,7 @@ h1{
     
     width: 100%;
     height: 60px; /* Adjust the height as needed */
-    background-color: #f0f0f0; /* Background color */
+    background-color: #FFFFFDff; /* Background color */
     border-bottom: 1px solid #ccc; /* Border color and thickness */
     font-size: 14px; /* Font size */
     line-height: 20px; /* Same as height for vertical alignment */
@@ -130,7 +130,7 @@ h1{
     margin: 0 auto;
     height: 100%;
     width: 100%;
-    background-color:white;
+    background-color:#FFFFFDff;
     box-sizing: border-box;
     position: relative;
 }
@@ -139,7 +139,7 @@ h1{
     max-width: 100%;
     width:auto;
     height: auto;
-    max-height:60vw; 
+    max-height:50vw; 
     border-radius: 1vw;
     padding: 5%;
     
@@ -155,13 +155,19 @@ button {
     margin-top: 20vh;
     padding-bottom: 2%;
     width: 30%;
-    bottom: 0; /* Position at the bottom of the parent container */
+    height: 60px;
+    line-height: 50px;
+    bottom: 7%; /* Position at the bottom of the parent container */
     left: 75%; /* Center horizontally */
     transform: translateX(-50%); /* Center horizontally using transform */
     position:absolute;
-    bottom: 0;
-    margin-bottom: 10px; /* Adjust as needed */
+    margin-bottom: 20vh; /* Adjust as needed */
     font-size: 1.5vw;
+    border-radius: 8px; 
+    margin: 2%; 
+    background-color: #A29BC4ff; 
+    color: #FFFFFDff; 
+    font-family: 'Agbalumo', sans-serif; 
 
 }
 
@@ -187,7 +193,7 @@ button {
     /* margin: 40px; Increased space from the big container */
     /*height: auto; Allow auto height*/
     min-height: 70%;
-    background-color:#ffffff;
+    background-color:#FFFFFDff;
     position:relative;
     
     /* display: flex;
@@ -205,7 +211,7 @@ button {
     display: flex;
     height: auto;
     justify-content: space-between;
-    background: #958dc0; /*linear-gradient(to bottom, #ffffff, #a6a6e5); */
+    background: #6C6EA9ff; /*linear-gradient(to bottom, #ffffff, #a6a6e5); */
     padding-bottom:10vh;
 }
 
