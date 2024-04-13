@@ -1,16 +1,21 @@
 @import url('https://fonts.googleapis.com/css2?family=Agbalumo&family=Lilita+One&family=Philosopher:ital,wght@0,400;0,700;1,400;1,700&display=swap');
 
 body {
-    background-color: #fcf8fd;
+    background: #fcd3cd;
     font-family: 'Agbalumo', sans-serif;
     text-align: center;
+    margin: 0;
+    padding: 0;
+
 }
 
 p {
-    width: 60%;
+    /* width: 60%; */
+    /* margin-top: 20v; */
+    color: #f0f0f0;
     position: relative;
     margin: 0 auto;
-    padding-bottom:6%;
+    /* padding-bottom:6%; */
     font-size: 2.0vw; /* Adjust text size based on viewport width */
 }
 
@@ -22,10 +27,6 @@ p2{
     font-size: 1.5vw; /* Adjust text size based on viewport width */
 }
 
-img {
-    padding-bottom: 20px;
-}
-
 title1 {
     display: flex;
     flex-direction: column;
@@ -33,9 +34,9 @@ title1 {
     align-items: center;
     padding-top: 3%;
     padding-bottom:3%;
-    color: white;
-    text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5); /* Shadow effect */
-    text-decoration: underline;
+    color:#8C6C9D;
+    /* text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5); Shadow effect */
+    /* text-decoration: underline; */
     font-size: 2.5vw; /* Adjust text size based on viewport width */
 }
 
@@ -47,38 +48,58 @@ title2 {
     padding-top: 3%;
     padding-bottom:3%;
     color:#8C6C9D;
-    text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5); /* Shadow effect */
-    text-decoration: underline;
+    /* text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5); Shadow effect */
+    /* text-decoration: underline; */
     font-size: 2.5vw; /* Adjust text size based on viewport width */
 }
 
+.header-container {
+    position: relative;
+    height: 100vh; 
+}
+
 .mbody {
+    padding-top: 15vh;
     text-align: center;
-    padding-bottom: 20px;
     width: 60%;
+    position: absolute;
+    top: 70%;
+    left: 50%;
+    font-size: 2.2vw,1.0vh; /* Adjust text size based on viewport width */
+    transform: translate(-50%, -50%);
 }
 
 iframe{
-    width: 75%;
+    width: 90%;
     height:100%; 
       
 }
 
-h1{
-    font-family: 'Agbalumo', sans-serif;
-    font-size: calc(50px + 0.5vw); /* Text size increases as viewport width increases */
-    text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5); /* Shadow effect */
-    color:#6C6EA9ff;
+iframe:hover {
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.5); /* Adds a subtle shadow effect when hovered over */
 }
 
+h1{
+    font-family: 'Agbalumo', sans-serif;
+    position: absolute;
+    top: 5%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    font-size: 10vw; /* Text size increases as viewport width increases */
+    text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5); /* Shadow effect */
+    color:#6C6EA9ff;
+    
+}
 
 .headerimg {
+    position: absolute;
     width: 100%; /* Adjust width as needed */
-    height: 100%; /* Adjust height as needed */
+    height: 100vh; /* Adjust height as needed */
     background-image: url('minimalist-nature-1920-x-1080-l1308frgkxw1naye.jpg'); /* Replace 'path/to/your/image.jpg' with the path to your image */
     background-size: cover; /* Cover the entire container with the background image */
     background-position: center; /* Center the background image */
-    position: relative; /* Position relative for absolute positioning of children */
+    margin: 0;
+    padding: 0;
 }
 
 .divider { 
@@ -126,11 +147,13 @@ h1{
 .description-container {
     display: flex;
     flex-direction: column;
+    padding-bottom: 2vh;
 }
 
 .button {
     margin-top: 20vh;
     padding-bottom: 5%;
+    width: 30%;
 
 }
 
@@ -140,7 +163,7 @@ h1{
     margin: 40px; /* Increased space from the big container */
     height: auto; /* Allow auto height */
     border-radius: 1vw;
-    background-color: #af9cb9;
+    background-color: #ffffff;
     /* display: flex;
     justify-content: space-between;
     margin-top: 20px;
@@ -156,7 +179,7 @@ h1{
     display: flex;
     height: auto;
     justify-content: space-between;
-    margin-top: 20px;
+    margin-bottom: 20vh;
 
 }
 
