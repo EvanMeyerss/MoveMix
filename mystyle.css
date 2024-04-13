@@ -1,38 +1,85 @@
+@import url('https://fonts.googleapis.com/css2?family=Agbalumo&family=Lilita+One&family=Philosopher:ital,wght@0,400;0,700;1,400;1,700&display=swap');
+
 body {
-    margin: 0;
-    padding: 0;
-    font-family: Arial, sans-serif;
+    background-color: #ded5e3;
+    font-family: 'Agbalumo', sans-serif;
     text-align: center;
 }
 
-.container {
-    max-width: 800px;
-    margin: 0 auto;
-    padding: 20px;
-    width: auto;
-    height: auto;
+link {
+
 }
 
+title {
+    padding: 30px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    align-items: center;
+<<<<<<< HEAD
+=======
+    padding: 8% 0; /* we want 8% on the margins */
+
+>>>>>>> fad586dfe0590a303cba39285b5be48d443322d4
+}
+
+main_body {
+
+}
+
+h1{
+    font-family: 'Agbalumo', sans-serif;
+    font-size: calc(50px + 0.5vw); /* Text size increases as viewport width increases */
+    text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5); /* Shadow effect */
+    color:#8C6C9D;
+
+
+}
+.container {
+    margin: 0 auto;
+    height: 90%;
+    width: 80%;
+    border-radius: 1vw;
+    padding: 15px 10px;
+    background:#ded5e3;
+    box-sizing: border-box;
+    box-shadow: 0 0 40px rgba(255, 255, 255, 0.5); /* Light shadow */
+    position: relative;
+}
+
+<<<<<<< HEAD
+=======
+
+>>>>>>> fad586dfe0590a303cba39285b5be48d443322d4
 .big-container {
-    margin-top: 40px;
+    margin-top: 2px;
     width: auto;
-    height: auto;
+    height: 100%;
+    border-radius: 1vw;
     border-style: solid;
-    border-color: purple;
+    border-color: black;
     border-width: 5px;
 }
 
 .picture-container {
+<<<<<<< HEAD
     margin-bottom: 20px;
-    width: auto;
+    width: 60%;
     height: auto;
+=======
+    margin-bottom: 20px 10px;
+    width: auto;
+    height: 100%;
+    border-radius: 1vw;
+>>>>>>> fad586dfe0590a303cba39285b5be48d443322d4
     border-style: solid;
-    border-color: green;
+    border-color: #8C6C9D;
     border-width: 5px;
 }
 
 .button {
     margin-top: 20px;
+    padding-bottom: 5%;
 }
 
 .side-by-side-container {
@@ -42,7 +89,10 @@ body {
 }
 
 .side-container {
-    width: calc(50% - 10px);
+    width: calc(45% - 10px); /* Adjusted width calculation */
+    
+    background-color: aliceblue;
+    border-radius: 1vw;
 }
 
 .bottom-container {
