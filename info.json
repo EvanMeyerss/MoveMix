@@ -70,6 +70,7 @@
 
 
 
+
   "act7":{
     "name": "Baseball",
     "img_src": "photos/7.webp",
@@ -123,7 +124,7 @@
     "img_src": "photos/11.webp",
     "description": "Hiking is a recreational activity that involves walking on trails or paths in natural environments, typically in forests, mountains, or other scenic areas, offering opportunities for exercise, exploration, and enjoying nature.",
     "map_link": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d25799.39695894692!2d-94.19239695550178!3d36.07094264708406!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x87c9692668a26649%3A0x844f1cfc8c3a9f2a!2sMt.%20Sequoyah%20Woods!5e0!3m2!1sen!2sus!4v1712995215280!5m2!1sen!2sus' width='600' height='450' style='border:0;' allowfullscreen='' loading='lazy' referrerpolicy='no-referrer-when-downgrade",
-    "youtube_link": "https://www.youtube.com/embed/rJBhkkzNDkQ?si=iuHHO8YiDt9JDq6s' title='YouTube video player' frameborder='0' allow='accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share' referrerpolicy='strict-origin-when-cross-origin' allowfullscreen>",
+    "youtube_link": "https://www.youtube.com/embed/edElLWvSVLk?si=Fd7PuekZ6uHgMWCs",
     "intensity": "easy",
     "selected": false
   },
@@ -245,7 +246,7 @@
     "map_link": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3225.1931285391465!2d-94.18097062473166!3d36.064393208831795!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x87c96ee3ebfe7835%3A0x910646d835b087c1!2sUREC%20HPER%20Building!5e0!3m2!1sen!2sus!4v1712994174766!5m2!1sen!2sus' width='600' height='450' style='border:0;' allowfullscreen='' loading='lazy' referrerpolicy='no-referrer-when-downgrade",
     "youtube_link": "https://www.youtube.com/embed/WPM40QTO9DE?si=oVD6cbaBwx16ahz5",
     "intensity": "easy",
-    "selected": false 
+    "selected": false
   },
 
 
@@ -261,7 +262,7 @@
   },
 
 
-  
+
   "act23":{
     "name": "Golf",
     "img_src": "photos/23.webp",
@@ -273,7 +274,7 @@
   },
 
 
-  
+
   "act24":{
     "name": "Mini Golf",
     "img_src": "photos/24.webp",
@@ -297,7 +298,7 @@
   },
 
 
-  
+
   "act26":{
     "name": "Kayaking",
     "img_src": "photos/26.webp",
@@ -309,31 +310,31 @@
   },
 
 
-  
+
   "act27":{
     "name": "Fishing",
     "img_src": "photos/27.webp",
     "description": "Fishing is a recreational activity involving catching fish, typically using a rod, reel, line, and bait. It can be done in freshwater or saltwater environments, offering relaxation, challenge, and the opportunity to connect with nature while enjoying the outdoors.",
     "map_link": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d1642088.8503774784!2d-96.10004401339755!3d36.500918455301196!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x87c96bbd350c2673%3A0xf73630aa067f70b1!2sLake%20Fayetteville!5e0!3m2!1sen!2sus!4v1712997019706!5m2!1sen!2sus' width='600' height='450' style='border:0;' allowfullscreen='' loading='lazy' referrerpolicy='no-referrer-when-downgrade",
-    "youtube_link": "https://www.youtube.com/embed/atd28n7CB-c?si=WzJZ0uTfQ2z_YuAo",
+    "youtube_link": "https://www.youtube.com/embed/CFTI8TdrNtY?si=pATtutsYp1aZpZiB",
     "intensity": "easy",
     "selected": false
   },
 
 
-  
+
   "act28":{
     "name": "Archery",
     "img_src": "photos/28.webp",
     "description": "Archery is a sport or recreational activity that involves using a bow to shoot arrows at a target. It requires precision, focus, and skill, making it both challenging and rewarding for participants of all ages.",
     "map_link": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d103058.87459254274!2d-94.37575920273432!3d36.17653460000001!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x87c96d68ddfc5f1f%3A0xaeab5f96afb9f97a!2sOzark%20Sportsman!5e0!3m2!1sen!2sus!4v1712995521711!5m2!1sen!2sus' width='600' height='450' style='border:0;' allowfullscreen='' loading='lazy' referrerpolicy='no-referrer-when-downgrade",
-    "youtube_link": "Uhttps://www.youtube.com/embed/T5zHaVExt6M?si=i6y7-MPk99U5Z633",
+    "youtube_link": "https://www.youtube.com/embed/T5zHaVExt6M?si=i6y7-MPk99U5Z633",
     "intensity": "medium",
     "selected": false
   },
 
 
-  
+
   "act29":{
     "name": "Axe Throwing",
     "img_src": "photos/29.webp",
@@ -345,7 +346,7 @@
   },
 
 
-  
+
   "act30":{
     "name": "Trap Shooting",
     "img_src": "photos/30.webp",
@@ -441,7 +442,7 @@
   },
 
 
-  
+
   "act38":{
     "name": "Disc Golf",
     "img_src": "photos/38.webp",
@@ -449,11 +450,11 @@
     "map_link": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d103184.55954901109!2d-94.30408994810506!3d36.080871460236956!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x87c96fe2906618b5%3A0x966acc20bd7967b2!2sWaxhaws%20Disc%20Golf%20Course!5e0!3m2!1sen!2sus!4v1712995755761!5m2!1sen!2sus' width='600' height='450' style='border:0;' allowfullscreen='' loading='lazy' referrerpolicy='no-referrer-when-downgrade",
     "youtube_link": "https://www.youtube.com/embed/T7Buk1Hn8jM?si=oL9YUFrFSMbB7TsM",
     "intensity": "easy",
-    "selected": false 
+    "selected": false
   },
 
 
-  
+
   "act39":{
     "name": "Ultimate Frisbee",
     "img_src": "photos/39.webp",
@@ -477,7 +478,7 @@
   },
 
 
-  
+
   "act41":{
     "name": "Ice Skating",
     "img_src": "photos/41.webp",
@@ -489,7 +490,7 @@
   },
 
 
-  
+
   "act42":{
     "name": "Laser Tag",
     "img_src": "photos/42.webp",
@@ -501,7 +502,7 @@
   },
 
 
-  
+
   "act43":{
     "name": "Airsoft",
     "img_src": "photos/43.webp",
@@ -513,7 +514,7 @@
   },
 
 
-  
+
   "act44":{
     "name": "Go Karting",
     "img_src": "photos/44.webp",
@@ -533,7 +534,7 @@
     "map_link": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3225.1931285391465!2d-94.18097062473166!3d36.064393208831795!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x87c96ee3ebfe7835%3A0x910646d835b087c1!2sUREC%20HPER%20Building!5e0!3m2!1sen!2sus!4v1712994174766!5m2!1sen!2sus' width='600' height='450' style='border:0;' allowfullscreen='' loading='lazy' referrerpolicy='no-referrer-when-downgrade",
     "youtube_link": "https://www.youtube.com/embed/47Dt93KB3T4?si=lEsm2Wbd5a2vxPwc",
     "intensity": "hard",
-    "selected": false 
+    "selected": false
   },
 
 
@@ -549,7 +550,7 @@
   },
 
 
-  
+
   "act47":{
     "name": "Inner Tubing",
     "img_src": "photos/47.webp",
@@ -557,11 +558,11 @@
     "map_link": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d206329.92488597363!2d-94.46027771079919!3d36.09580190295319!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x87c96bbd350c2673%3A0xf73630aa067f70b1!2sLake%20Fayetteville!5e0!3m2!1sen!2sus!4v1712996148777!5m2!1sen!2sus' width='600' height='450' style='border:0;' allowfullscreen='' loading='lazy' referrerpolicy='no-referrer-when-downgrade",
     "youtube_link": "https://www.youtube.com/embed/MWEpRcRlAx0?si=ajC1DEwt4LavQDB1",
     "intensity": "medium",
-    "selected": false 
+    "selected": false
   },
 
 
-  
+
   "act48":{
     "name": "Water Skiing",
     "img_src": "photos/48.webp",
@@ -573,7 +574,7 @@
   },
 
 
-  
+
   "act49":{
     "name": "Deer Hunting",
     "img_src": "photos/49.webp",
@@ -585,7 +586,7 @@
   },
 
 
-  
+
   "act50":{
     "name": "Chess",
     "img_src": "photos/50.webp",
@@ -597,7 +598,7 @@
   },
 
 
-  
+
   "act51":{
     "name": "Driving Range",
     "img_src": "photos/51.webp",
@@ -605,7 +606,7 @@
     "map_link": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d103184.26942389777!2d-94.30409018003354!3d36.08109253672502!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x87c96f505249226b%3A0xfd7b852f1e6282b0!2sFayetteville%20Country%20Club!5e0!3m2!1sen!2sus!4v1712995818189!5m2!1sen!2sus' width='600' height='450' style='border:0;' allowfullscreen='' loading='lazy' referrerpolicy='no-referrer-when-downgrade",
     "youtube_link": "https://www.youtube.com/embed/57L9OKeqgmM?si=4wvZoDtyMtCPA2hH",
     "intensity": "easy",
-    "selected": false 
+    "selected": false
   },
 
 
@@ -629,7 +630,7 @@
     "map_link": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d12901.618972715069!2d-94.20022331284177!3d36.059230800000016!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x87c96f3a79534f51%3A0x710a04137abc5688!2sRecreation%20Fields!5e0!3m2!1sen!2sus!4v1712994264738!5m2!1sen!2sus' width='600' height='450' style='border:0;' allowfullscreen='' loading='lazy' referrerpolicy='no-referrer-when-downgrade",
     "youtube_link": "https://www.youtube.com/embed/5stC7wztk6E?si=iQOG0xn6eFwX4Zzq",
     "intensity": "medium",
-    "selected": false 
+    "selected": false
   },
 
 
@@ -657,7 +658,7 @@
   },
 
 
-  
+
   "act56":{
     "name": "Fencing",
     "img_src": "photos/56.webp",
@@ -665,11 +666,11 @@
     "map_link": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d102950.52513842391!2d-94.26031162588625!3d36.258828118179444!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x87c96cd0be736ebd%3A0xb72200439fa031ef!2sArkansas%20Fencing%20Academy!5e0!3m2!1sen!2sus!4v1712996278762!5m2!1sen!2sus' width='600' height='450' style='border:0;' allowfullscreen='' loading='lazy' referrerpolicy='no-referrer-when-downgrade",
     "youtube_link": "https://www.youtube.com/embed/a8IdfA5fXJs?si=o_9jIQXvDGlX1LCc",
     "intensity": "medium",
-    "selected": false 
+    "selected": false
   },
 
 
-  
+
   "act57":{
     "name": "Field Hockey",
     "img_src": "photos/57.webp",
