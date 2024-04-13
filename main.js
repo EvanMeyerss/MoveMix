@@ -1,22 +1,30 @@
 // Created: 4/12/2024
 // Updated:
+//array of objects from json file of all the different sports
 const activities = [];
+//variable for testing to let us know what the current index was(aka what sport was being selected in each bucket)
 let currentIndex = 0
-let iterator = 0
+//variable for testing to let us know what bucket was selected after each time clicking next
+let bucketSelect = 0
+//iterator for later use of resetting the sports once all have been looped through
 let easyIterator = 0
 let medIterator = 0
 let hardIterator = 0
-let bucketSelect = 0
+//boolean for making sure the buckets from the hash table aren't selected after they have been all used (once all have been fully used they will be reset back to true)
 let easyBool = true
 let medBool = true
 let hardBool = true
+//num_sports is equal to the length of the activities array
 let Num_sports = activities.length
 
+//hash table class
 class HashTable {
     constructor() {
+        //making buckets of objects
         this.buckets = {};
+        //setting size of hash table to the Num_sports
         this.size = Num_sports;
-        // Initialize buckets for easy, medium, and hard difficulties
+        // Initialize bucket arrays for easy, medium, and hard difficulties
         this.buckets['easy'] = [];
         this.buckets['medium'] = [];
         this.buckets['hard'] = [];
@@ -50,9 +58,11 @@ class HashTable {
     }
 }
 
-
+//intalizing hash table
 const hashTable = new HashTable();
+//event listener for document being loaded
 document.addEventListener('DOMContentLoaded', function() {
+    //retrieves info.json file to store serialized data in hash table
     fetch('info.json')
         .then(response => response.json())
         .then(data => {
@@ -61,6 +71,7 @@ document.addEventListener('DOMContentLoaded', function() {
                 if (data.hasOwnProperty(key)) {
                     // Create a new object for each activity
                     const activity = {
+                        // takes in each attribute for each object and assigns to object attributes
                         name: data[key].name,
                         img_src: data[key].img_src,
                         description: data[key].description,
@@ -75,7 +86,7 @@ document.addEventListener('DOMContentLoaded', function() {
                 }
             }
 
-            // Call the propagate function with the activities array
+            // Loop through activities array and insert each activity into a bucket of the hash table
             for (let i = 0; i < activities.length; i++)
             {
                 hashTable.insert(activities[i]);
@@ -84,28 +95,38 @@ document.addEventListener('DOMContentLoaded', function() {
             const easyObjects = hashTable.retrieve('easy');
             const mediumObjects = hashTable.retrieve('medium');
             const hardObjects = hashTable.retrieve('hard');
+            // Used for testing to see if hash table was working properly
             console.log("Easy Objects:", easyObjects);
             console.log("Medium Objects:", mediumObjects);
             console.log("Hard Objects:", hardObjects);
+            // Used to get a random element from the easyobjects bucket for the sport that pops up when you load the page
             currentIndex = Math.floor(Math.random() * easyObjects.length);
             propagate(easyObjects, currentIndex);
-            // Set up the event listener for the "Next" button
+            // Create array of random numbers from 0-length of the bucket that will be used for indexing through the bucket quickly
+            let easy = Array.from({ length: easyObjects.length }, (_, index) => index);
+            let med = Array.from({ length: mediumObjects.length }, (_, index) => index);
+            let hard = Array.from({ length: hardObjects.length }, (_, index) => index);
+            //shuffle each buckets indexing arrays
+            shuffleArray(easy);
+            shuffleArray(med);
+            shuffleArray(hard);
+            //see which sports will be printed in what order
+            console.log(easy);
+            console.log(med);
+            console.log(hard);
+            //event listener for when user clicks next
             document.getElementById("next").addEventListener("click", () => {
+                //bucketfound will let the while loop search
                 let bucketfound = false;
                 while(bucketfound == false) {
-                    bucketSelect = Math.floor(Math.random() * 3) + 1;
+                    bucketSelect = Math.floor(Math.random() * 3) + 1;s
                     console.log("bucketSelect", bucketSelect)
                     if(bucketSelect == 1 && easyBool) {
+                        currentIndex = easy[easyIterator];
                         easyIterator++;
 
-
-                        currentIndex = Math.floor(Math.random() * easyObjects.length);
                         console.log("currentIndex1", currentIndex);
-                        while (easyObjects[currentIndex].selected == true)
-                        {
-                            currentIndex = Math.floor(Math.random() * easyObjects.length);
-                            console.log("currentIndex2", currentIndex)
-                        }
+
                         if(easyIterator >= (easyObjects.length-1)) {
                             easyBool = false;
                         }
@@ -114,16 +135,11 @@ document.addEventListener('DOMContentLoaded', function() {
                         bucketfound = true
                     }
                     else if(bucketSelect == 2 && medBool) {
+
+                        currentIndex = med[medIterator];
                         medIterator++;
-
-
-                        currentIndex = Math.floor(Math.random() * mediumObjects.length);
                         console.log("currentIndex1", currentIndex);
-                        while (mediumObjects[currentIndex].selected == true)
-                        {
-                            currentIndex = Math.floor(Math.random() * mediumObjects.length);
-                            console.log("currentIndex2", currentIndex);
-                        }
+
                         if(medIterator >= mediumObjects.length) {
                             medBool = false;
                         }
@@ -132,15 +148,9 @@ document.addEventListener('DOMContentLoaded', function() {
                         bucketfound = true
                     }
                     else if(bucketSelect == 3 && hardBool) {
+                        currentIndex = hard[hardIterator];
                         hardIterator++;
-                        currentIndex = Math.floor(Math.random() * hardObjects.length);
                         console.log("currentIndex1", currentIndex);
-                        while (hardObjects[currentIndex].selected == true)
-                        {
-                            currentIndex = Math.floor(Math.random() * hardObjects.length);
-                            console.log("currentIndex2", currentIndex);
-                        }
-
 
                         if(hardIterator >= hardObjects.length) {
                             hardBool = false;
@@ -149,14 +159,20 @@ document.addEventListener('DOMContentLoaded', function() {
                         propagate(hardObjects, currentIndex);
                         bucketfound = true
                     }
-                    iterator++;
+
                     if(!easyBool && !medBool && !hardBool) {
-                        easyIterator = 0
-                        medIterator = 0
-                        hardIterator = 0
-                        easyBool = true
-                        medBool = true
-                        hardBool = true
+                        easyIterator = 0;
+                        medIterator = 0;
+                        hardIterator = 0;
+                        easyBool = true;
+                        medBool = true;
+                        hardBool = true;
+                        shuffleArray(easy);
+                        shuffleArray(med);
+                        shuffleArray(hard);
+                        console.log(easy);
+                        console.log(med);
+                        console.log(hard);
                         for (let i = 0; i < activities.length; i++) {
                             activities[i].selected = false
                         }
@@ -173,8 +189,8 @@ document.addEventListener('DOMContentLoaded', function() {
 
     function propagate(activities, index) {
 
+        // retrieves address for each html attribute that we want to edit from json data
         const desc = document.getElementById("desc");
-        const next = document.getElementById("next");
         const ytLink = document.getElementById("link");
         const pic = document.getElementById("pic");
         const map_link = document.getElementById("map");
@@ -189,8 +205,17 @@ document.addEventListener('DOMContentLoaded', function() {
         activityTitle.textContent = activities[index].name;
         activities[index].selected = true;
     }
+
+    //function to shuffle array using fisher-yates algorithim
+    function shuffleArray(array) {
+        for (let i = array.length - 1; i > 0; i--) {
+            const j = Math.floor(Math.random() * (i + 1));
+            [array[i], array[j]] = [array[j], array[i]];
+        }
+    }
 });
 
+// sets the maximum height for all images displayed on the screen
 function setSideContainerImageHeight() {
     const sideContainer = document.querySelectorAll('.side-container');
     const sideContainerWidth = sideContainer[0].offsetWidth; // Assuming all side containers have the same width
