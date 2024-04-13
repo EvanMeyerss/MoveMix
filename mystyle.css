@@ -151,10 +151,13 @@ h1{
     padding-bottom: 2vh;
 }
 
-.button {
+button {
     margin-top: 20vh;
     padding-bottom: 2%;
     width: 30%;
+    bottom: 0; /* Position at the bottom of the parent container */
+    left: 75%; /* Center horizontally */
+    transform: translateX(-50%); /* Center horizontally using transform */
     position:absolute;
     bottom: 0;
     margin-bottom: 10px; /* Adjust as needed */
@@ -177,6 +180,8 @@ h1{
 }
 
 .side-by-side-container {
+    padding-top:3vh;
+    padding-bottom:3vh;
     display: flex;
     justify-content: space-between;
     /* margin: 40px; Increased space from the big container */
