@@ -6,6 +6,12 @@ body {
     text-align: center;
 }
 
+p{
+    width: 80%;
+    position: relative;
+    margin: 0 auto;
+    padding-bottom: 3vh;
+}
 img {
     padding-bottom: 20px;
 }
@@ -79,7 +85,7 @@ h1{
 }
 
 .button {
-    margin-top: 20px;
+    margin-top: 20vh;
     padding-bottom: 5%;
 }
 
