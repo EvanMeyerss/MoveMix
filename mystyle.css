@@ -248,7 +248,8 @@ button {
     width: 30%;
     position: absolute;
     left: 10%;
-    margin-top: 2vh;
+    margin-top: 1vh;
+    height: auto;
 }
 
 .bottom-right-container {
@@ -257,7 +258,8 @@ button {
     width: 30%;
     position: absolute;
     left: 45%;
-    margin-top: 2vh;
+    margin-top: 1vh;
+    height: auto;
 }
 
 
