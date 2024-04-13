@@ -1,0 +1,9 @@
+{
+  "act1":{
+    "name": "Tennis",
+    "img_src": "",
+    "description": "Tennis is a racket sport played on a rectangular court, with players using rackets to hit a ball over a net into the opponent's court. Points are scored when the opponent fails to return the ball within the boundaries of the court.",
+    "map": "<iframe src=\"https://www.google.com/maps/embed?pb=!1m14!1m12!1m3!1d1356.1773418165494!2d-94.17859295942247!3d36.055650532058884!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!5e0!3m2!1sen!2sus!4v1712971030337!5m2!1sen!2sus\" width=\"600\" height=\"450\" style=\"border:0;\" allowfullscreen=\"\" loading=\"lazy\" referrerpolicy=\"no-referrer-when-downgrade\"></iframe>"
+  }
+}
+
