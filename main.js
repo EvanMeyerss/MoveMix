@@ -71,6 +71,29 @@ document.addEventListener('DOMContentLoaded', function() {
     }
 });
 
+function setSideContainerImageHeight() {
+    const sideContainer = document.querySelectorAll('.side-container');
+    const sideContainerWidth = sideContainer[0].offsetWidth; // Assuming all side containers have the same width
+
+    const images = document.querySelectorAll('.side-container img');
+    images.forEach(image => {
+        const aspectRatio = image.naturalWidth / image.naturalHeight;
+        const height = sideContainerWidth / aspectRatio;
+        image.style.height = height + 'px';
+    });
+}
+
+window.addEventListener('resize', function() {
+    setSideContainerImageHeight(); // Call the function whenever the window is resized
+});
+
+document.addEventListener('DOMContentLoaded', function() {
+    setSideContainerImageHeight(); // Call the function after the page loads
+});
+
+window.addEventListener('load', function() {
+    setSideContainerImageHeight(); // Call the function when the window is refreshed or reloaded
+});
 // //counters
 // let num_sports;
 // let hard_sports;

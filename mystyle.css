@@ -23,7 +23,7 @@ p2{
     width: 60%;
     position: relative;
     margin: 0 auto;
-    padding-bottom:6%;
+    padding: 5%;
     font-size: 1.5vw; /* Adjust text size based on viewport width */
 }
 
@@ -37,7 +37,7 @@ title1 {
     color:#8C6C9D;
     /* text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5); Shadow effect */
     /* text-decoration: underline; */
-    font-size: 2.5vw; /* Adjust text size based on viewport width */
+    font-size: 3.5vw; /* Adjust text size based on viewport width */
 }
 
 title2 {
@@ -50,7 +50,7 @@ title2 {
     color:#8C6C9D;
     /* text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5); Shadow effect */
     /* text-decoration: underline; */
-    font-size: 2.5vw; /* Adjust text size based on viewport width */
+    font-size: 3.5vw; /* Adjust text size based on viewport width */
 }
 
 .header-container {
@@ -70,9 +70,9 @@ title2 {
 }
 
 iframe{
-    width: 90%;
-    height:100%; 
-      
+    width: 70%;
+    height: auto; /* This will make the height adjust proportionally with the width */
+    aspect-ratio: 1 / 1; /* Set the aspect ratio to 4:3 (adjust as needed) */
 }
 
 iframe:hover {
@@ -137,11 +137,14 @@ h1{
     border-color: black;
     border-width: 5px;
 }
+
 .side-container img {
-    max-width: 100%;
-    height: auto; /* Ensures the image maintains its aspect ratio */
+    /* max-width: 70%; */
+    width:auto;
+    /* max-height:50vw;  */
     border-radius: 1vw;
     padding: 5%;
+    
 }
 
 .description-container {
@@ -152,18 +155,35 @@ h1{
 
 .button {
     margin-top: 20vh;
-    padding-bottom: 5%;
+    padding-bottom: 2%;
     width: 30%;
+    position:absolute;
+    bottom: 0;
+    margin-bottom: 10px; /* Adjust as needed */
+    font-size: 1.5vw;
 
+}
+
+#next {
+    width: 10%;  
+
+}
+
+#botsc1{
+    padding-left:5vw;
+    padding-right:5vw;
 }
 
 .side-by-side-container {
     display: flex;
     justify-content: space-between;
-    margin: 40px; /* Increased space from the big container */
-    height: auto; /* Allow auto height */
+    /* margin: 40px; Increased space from the big container */
+    /*height: auto; Allow auto height*/
+    min-height: 70%;
     border-radius: 1vw;
     background-color: #ffffff;
+    position:relative;
+    
     /* display: flex;
     justify-content: space-between;
     margin-top: 20px;
@@ -187,15 +207,14 @@ h1{
     width: calc(45% - 10px); /* Adjusted width calculation */
     height: auto;
     align-items: center;
-    border-radius: 1vw;
+    background-color: white;
 }
 
 .side-container2 {
     width: calc(45% - 10px); /* Adjusted width calculation */
     height: auto;
     align-items: center;
-    border-color: #8C6C9D;
-    border-radius: 1vw;
+    border-color: #060606;
 }
 
 
