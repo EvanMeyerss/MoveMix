@@ -241,7 +241,7 @@ button {
 }
 
 .bottom-left-container {
-    color: white;
+    color: #FFFFFDff;
     font-size: 1vw;
     text-align: left;
     width: 30%;
@@ -252,7 +252,7 @@ button {
 }
 
 .bottom-right-container {
-    color: white;
+    color: #FFFFFDff;
     text-align: left;
     width: 30%;
     position: absolute;
