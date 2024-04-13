@@ -117,22 +117,6 @@ h1{
     padding: 0;
 }
 
-.divider { 
-    
-    width: 100%;
-    height: 60px; /* Adjust the height as needed */
-    background-color: #FFFFFDff; /* Background color */
-    border-bottom: 1px solid #ccc; /* Border color and thickness */
-    font-size: 14px; /* Font size */
-    line-height: 20px; /* Same as height for vertical alignment */
-    text-align: center; /* Center the text */
-    color: #333; /* Text color */
-    overflow: hidden; /* Hide any overflow */
-    white-space: nowrap; /* Prevent text wrapping */
-    text-overflow: ellipsis; /* Display ellipsis (...) for overflowing text */
-
-}
-
 .container {
     margin: 0 auto;
     height: 100%;
@@ -257,7 +241,7 @@ button {
 }
 
 .bottom-left-container {
-    color: white;
+    color: #FFFFFDff;
     font-size: 1vw;
     text-align: left;
     width: 30%;
@@ -268,7 +252,7 @@ button {
 }
 
 .bottom-right-container {
-    color: white;
+    color: #FFFFFDff;
     text-align: left;
     width: 30%;
     position: absolute;
