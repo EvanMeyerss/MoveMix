@@ -46,7 +46,7 @@ document.addEventListener('DOMContentLoaded', function() {
 
     function propagate(activities, index) {
         const desc = document.getElementById("desc");
-        // const next = document.getElementById("next");
+        const next = document.getElementById("next");
         const ytLink = document.getElementById("link");
         const pic = document.getElementById("pic");
         const map_link = document.getElementById("map");
