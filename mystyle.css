@@ -166,6 +166,7 @@ button {
     font-size: 1.5vw;
     border-radius: 8vw; 
     margin: 2%; 
+    border: solid 2px #FFFFFDff;
     background-color: #A29BC4ff; 
     color: #FFFFFDff; 
     font-family: 'Agbalumo', sans-serif; 
@@ -175,6 +176,14 @@ button {
 #next {
     width: 10%;  
 
+}
+
+#next:hover {
+    transition: 1000ms;
+    transform: translate(-50%, -0px);
+    background-color:#FFFFFDff;
+    color: #A29BC4ff;
+    border: solid 2px #A29BC4ff;
 }
 
 #botsc1{
@@ -277,3 +286,4 @@ f2 {
     font-family: monospace, sans-serif;
     font-size: 16px;
 }
+
