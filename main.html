@@ -5,29 +5,31 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Layout Example</title>
     <link rel="stylesheet" href="mystyle.css">
+    <script src="main.js"></script>
 </head>
 <body>
     <h1>MoveMix</h1>
     <div class="container">
-        <div class="big-container">
-            <title id="title1"></title>
-            <div class="picture-container">
-                <img id="pic" src="placeholder.jpg" alt="Placeholder Image">
-            </div>
-            <button id="next">Button</button>
-        </div>
         <div class="side-by-side-container">
             <div class="side-container">
-                <title>Description</title>
-                    <main_body id="desc"> </main_body>
+                <title id="title1">hello</title>
+                <img id="pic" src="placeholder.jpg" alt="Placeholder Image">
             </div>
             <div class="side-container">
+                <title>Description</title>
+                    <main_body id="desc"> This is the descrption and it will probably be very lomng so I am just going to put it herer now yip yip hurray</main_body>
+                    <button id="next">next</button>
+            </div>
+        </div>
+        <div class="side-by-side-container2">
+            <div class="side-container2">
                 <title>Youtube Tutorial</title>
                     <link id="link"> </link>
             </div>
-        </div>
-        <div id="map" class="bottom-container">
-            Bottom Container
+            <div class="side-container2">
+                <title>Closest Location</title>
+                    <GPS id="map"> </GPS>
+            </div>
         </div>
     </div>
 </body>

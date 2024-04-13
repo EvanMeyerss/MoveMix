@@ -6,25 +6,24 @@ body {
     text-align: center;
 }
 
-link {
-
+img {
+    padding-bottom: 20px;
 }
 
 title {
-    padding: 30px;
     display: flex;
     flex-direction: column;
     justify-content: space-between;
     align-items: center;
-<<<<<<< HEAD
-=======
     padding: 8% 0; /* we want 8% on the margins */
-
->>>>>>> fad586dfe0590a303cba39285b5be48d443322d4
+    color: white;
+    text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5); /* Shadow effect */
+    text-decoration: underline;
+    font-size: 2.5vw; /* Adjust text size based on viewport width */
 }
 
 main_body {
-
+    margin-bottom: 10px;
 }
 
 h1{
@@ -32,8 +31,6 @@ h1{
     font-size: calc(50px + 0.5vw); /* Text size increases as viewport width increases */
     text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5); /* Shadow effect */
     color:#8C6C9D;
-
-
 }
 .container {
     margin: 0 auto;
@@ -47,10 +44,6 @@ h1{
     position: relative;
 }
 
-<<<<<<< HEAD
-=======
-
->>>>>>> fad586dfe0590a303cba39285b5be48d443322d4
 .big-container {
     margin-top: 2px;
     width: auto;
@@ -62,19 +55,20 @@ h1{
 }
 
 .picture-container {
-<<<<<<< HEAD
-    margin-bottom: 20px;
-    width: 60%;
-    height: auto;
-=======
-    margin-bottom: 20px 10px;
+    margin-bottom: 40px; /* Adjusted margin */
     width: auto;
     height: 100%;
     border-radius: 1vw;
->>>>>>> fad586dfe0590a303cba39285b5be48d443322d4
     border-style: solid;
     border-color: #8C6C9D;
     border-width: 5px;
+    /* margin-bottom: 20px 10px;
+    width: auto;
+    height: 100%;
+    border-radius: 1vw;
+    border-style: solid;
+    border-color: #8C6C9D;
+    border-width: 5px; */
 }
 
 .button {
@@ -85,17 +79,44 @@ h1{
 .side-by-side-container {
     display: flex;
     justify-content: space-between;
-    margin-top: 40px;
+    margin: 40px; /* Increased space from the big container */
+    height: auto; /* Allow auto height */
+    border-radius: 1vw;
+    background-color: #af9cb9;
+    /* display: flex;
+    justify-content: space-between;
+    margin-top: 20px;
+    
+    height: auto;
+    border-radius: 1vw;
+    background-color: #af9cb9; */
+
+    
+}
+
+.side-by-side-container2 {
+    display: flex;
+    height: auto;
+    justify-content: space-between;
+    margin-top: 20px;
+
 }
 
 .side-container {
     width: calc(45% - 10px); /* Adjusted width calculation */
-    
-    background-color: aliceblue;
+    height: auto;
+    align-items: center;
     border-radius: 1vw;
 }
 
-.bottom-container {
-    margin-top: 40px;
+
+.side-container2 {
+    width: calc(45% - 10px); /* Adjusted width calculation */
+    height: auto;
+    align-items: center;
+    border-color: #8C6C9D;
+    border-radius: 1vw;
 }
+
+
 
