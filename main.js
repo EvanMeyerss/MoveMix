@@ -1,8 +1,6 @@
 // Created: 4/12/2024
 // Updated:
 const activities = [];
-// Create a new hash table
-
 let currentIndex = 0
 let iterator = 0
 let easyIterator = 0
@@ -13,43 +11,6 @@ let easyBool = true
 let medBool = true
 let hardBool = true
 
-
-class HashTable {
-    constructor() {
-        this.buckets = {};
-        this.size = 57;
-        // Initialize buckets for easy, medium, and hard difficulties
-        this.buckets['easy'] = [];
-        this.buckets['medium'] = [];
-        this.buckets['hard'] = [];
-    }
-
-    // Function to generate hash code
-    hash(key) {
-        let hash = 0;
-        for (let i = 0; i < key.length; i++) {
-            hash += key.charCodeAt(i);
-        }
-        return hash % this.size;
-    }
-
-    // Function to insert an object into the hash table
-    insert(object) {
-        const intensity = object.intensity;
-        if (!this.buckets[intensity]) {
-            this.buckets[intensity] = []; // Initialize the bucket if it doesn't exist
-        }
-        const index = this.hash(intensity);
-        this.buckets[intensity].push(object);
-    }
-
-    // Function to retrieve objects of a certain difficulty
-    retrieve(intensity) {
-        return this.buckets[intensity];
-    }
-}
-
-const hashTable = new HashTable();
 
 document.addEventListener('DOMContentLoaded', function() {
     fetch('info.json')

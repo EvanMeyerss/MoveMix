@@ -1,18 +1,20 @@
 @import url('https://fonts.googleapis.com/css2?family=Agbalumo&family=Lilita+One&family=Philosopher:ital,wght@0,400;0,700;1,400;1,700&display=swap');
 
 body {
-    background: #fcd3cd;
+    background: #FFFFFDff;
     font-family: 'Agbalumo', sans-serif;
     text-align: center;
     margin: 0;
     padding: 0;
 
 }
-
+#desc{
+    text-align: left;
+}
 p {
     /* width: 60%; */
     /* margin-top: 20v; */
-    color: #f0f0f0;
+    color: #FFFFFDff;
     position: relative;
     margin: 0 auto;
     /* padding-bottom:6%; */
@@ -34,7 +36,7 @@ title1 {
     align-items: center;
     padding-top: 3%;
     padding-bottom:3%;
-    color:#8C6C9D;
+    color:#6C6EA9ff;
     /* text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5); Shadow effect */
     /* text-decoration: underline; */
     font-size: 3.5vw; /* Adjust text size based on viewport width */
@@ -47,7 +49,7 @@ title2 {
     align-items: center;
     padding-top: 3%;
     padding-bottom:3%;
-    color:#8C6C9D;
+    color:#FFFFFDff;
     /* text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5); Shadow effect */
     /* text-decoration: underline; */
     font-size: 3.5vw; /* Adjust text size based on viewport width */
@@ -70,9 +72,15 @@ title2 {
 }
 
 iframe{
-    width: 70%;
+    width: 60%;
     height: auto; /* This will make the height adjust proportionally with the width */
     aspect-ratio: 1 / 1; /* Set the aspect ratio to 4:3 (adjust as needed) */
+}
+
+#link {
+    height: 75%;
+    width: 100%;
+    aspect-ratio: 5/3;
 }
 
 iframe:hover {
@@ -87,7 +95,7 @@ h1{
     transform: translate(-50%, -50%);
     font-size: 10vw; /* Text size increases as viewport width increases */
     text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5); /* Shadow effect */
-    color:#6C6EA9ff;
+    color:#A29BC4ff;
     
 }
 
@@ -106,7 +114,7 @@ h1{
     
     width: 100%;
     height: 60px; /* Adjust the height as needed */
-    background-color: #f0f0f0; /* Background color */
+    background-color: #FFFFFDff; /* Background color */
     border-bottom: 1px solid #ccc; /* Border color and thickness */
     font-size: 14px; /* Font size */
     line-height: 20px; /* Same as height for vertical alignment */
@@ -122,26 +130,16 @@ h1{
     margin: 0 auto;
     height: 100%;
     width: 100%;
-    padding: 15px 0px;
-    background: #FFFFFDff;
+    background-color:#FFFFFDff;
     box-sizing: border-box;
     position: relative;
 }
 
-.big-container {
-    margin-top: 2px;
-    width: auto;
-    height: 100%;
-    border-radius: 1vw;
-    border-style: solid;
-    border-color: black;
-    border-width: 5px;
-}
-
 .side-container img {
-    /* max-width: 70%; */
+    max-width: 100%;
     width:auto;
-    /* max-height:50vw;  */
+    height: auto;
+    max-height:60vw; 
     border-radius: 1vw;
     padding: 5%;
     
@@ -153,10 +151,13 @@ h1{
     padding-bottom: 2vh;
 }
 
-.button {
+button {
     margin-top: 20vh;
     padding-bottom: 2%;
     width: 30%;
+    bottom: 0; /* Position at the bottom of the parent container */
+    left: 75%; /* Center horizontally */
+    transform: translateX(-50%); /* Center horizontally using transform */
     position:absolute;
     bottom: 0;
     margin-bottom: 10px; /* Adjust as needed */
@@ -170,18 +171,23 @@ h1{
 }
 
 #botsc1{
-    padding-left:5vw;
-    padding-right:5vw;
+    padding-left:7vw;
+}
+
+#botsc2{
+
+    padding-right:7vw;
 }
 
 .side-by-side-container {
+    padding-top:3vh;
+    padding-bottom:3vh;
     display: flex;
     justify-content: space-between;
     /* margin: 40px; Increased space from the big container */
     /*height: auto; Allow auto height*/
     min-height: 70%;
-    border-radius: 1vw;
-    background-color: #ffffff;
+    background-color:#FFFFFDff;
     position:relative;
     
     /* display: flex;
@@ -199,15 +205,15 @@ h1{
     display: flex;
     height: auto;
     justify-content: space-between;
-    margin-bottom: 20vh;
-
+    background: #6C6EA9ff; /*linear-gradient(to bottom, #ffffff, #a6a6e5); */
+    padding-bottom:10vh;
 }
 
 .side-container {
     width: calc(45% - 10px); /* Adjusted width calculation */
     height: auto;
     align-items: center;
-    background-color: white;
+    background-color: transparent;
 }
 
 .side-container2 {
@@ -218,4 +224,12 @@ h1{
 }
 
 
-
+.bottom-container {
+    background-color: #44364D;
+    width: 100%;
+    height: 100px;
+    position: relative;
+    bottom: 0;
+    left: 0;
+    z-index: 9999;
+}
