@@ -9,14 +9,26 @@ body {
     max-width: 800px;
     margin: 0 auto;
     padding: 20px;
+    width: auto;
+    height: auto;
 }
 
 .big-container {
     margin-top: 40px;
+    width: auto;
+    height: auto;
+    border-style: solid;
+    border-color: purple;
+    border-width: 5px;
 }
 
 .picture-container {
     margin-bottom: 20px;
+    width: auto;
+    height: auto;
+    border-style: solid;
+    border-color: green;
+    border-width: 5px;
 }
 
 .button {
