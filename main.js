@@ -116,17 +116,21 @@ document.addEventListener('DOMContentLoaded', function() {
             console.log(hard);
             //event listener for when user clicks next
             document.getElementById("next").addEventListener("click", () => {
-                //bucketfound will let the while loop search until it finds a bucket that has elements
+                //bucketfound will let the while loop search until it finds a bucket that isn't empty (if it finds a bucket it will be set to true)
                 let bucketfound = false;
                 while(bucketfound == false) {
+                    //select bucket from 1-3
                     bucketSelect = Math.floor(Math.random() * 3) + 1;
+                    //lets us know what buckey was selected
                     console.log("bucketSelect", bucketSelect)
+                    //for easy bucket
                     if(bucketSelect == 1 && easyBool) {
+                        //get index from easy array
                         currentIndex = easy[easyIterator];
                         easyIterator++;
-
+                        //lets us know what index was selected
                         console.log("currentIndex1", currentIndex);
-
+                        //if each item in the bucket has been selected set easyBool to be false so it won't be selected again until all sports have been selected
                         if(easyIterator >= (easyObjects.length-1)) {
                             easyBool = false;
                         }
@@ -134,6 +138,7 @@ document.addEventListener('DOMContentLoaded', function() {
                         propagate(easyObjects, currentIndex);
                         bucketfound = true
                     }
+                    //medium bucket (see easy bucket if statement to know whats going on in statement)
                     else if(bucketSelect == 2 && medBool) {
 
                         currentIndex = med[medIterator];
@@ -147,6 +152,7 @@ document.addEventListener('DOMContentLoaded', function() {
                         propagate(mediumObjects, currentIndex);
                         bucketfound = true
                     }
+                    //hard bucket (see easy bucket if statement to know whats going on in statement)
                     else if(bucketSelect == 3 && hardBool) {
                         currentIndex = hard[hardIterator];
                         hardIterator++;
@@ -159,7 +165,7 @@ document.addEventListener('DOMContentLoaded', function() {
                         propagate(hardObjects, currentIndex);
                         bucketfound = true
                     }
-
+                    //if every item has been selected reset everything to rerun through each sport
                     if(!easyBool && !medBool && !hardBool) {
                         easyIterator = 0;
                         medIterator = 0;
