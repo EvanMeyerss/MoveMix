@@ -201,7 +201,7 @@ function setSideContainerImageHeight() {
     images.forEach(image => {
         const aspectRatio = image.naturalWidth / image.naturalHeight;
         const height = sideContainerWidth / aspectRatio;
-        image.style.height = height + 'px';
+        image.style.height = 575 + 'px';
     });
 }
 
