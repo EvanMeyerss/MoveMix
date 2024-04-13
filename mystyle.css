@@ -264,13 +264,13 @@ button {
     position: absolute;
     bottom: 20px;
     right: 10px;
-    width: 200px;
-    height: auto;
+    width: auto;
+    height: 14vh;
     z-index: 999;
 
 }
 
 f2 {
     font-family: monospace, sans-serif;
-    font-size: 12px;
+    font-size: 16px;
 }
