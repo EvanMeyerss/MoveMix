@@ -6,7 +6,13 @@ body {
     text-align: center;
     margin: 0;
     padding: 0;
+    background-size: cover;
+    height: 100%;
 
+}
+
+html {
+    height: 100%;
 }
 #desc{
     text-align: left;
@@ -27,6 +33,8 @@ p2 {
     margin: 0 auto;
     padding: 0;
     font-size: 1.5vw; /* Adjust text size based on viewport width */
+    font-family:'Raleway';
+    line-height: 2.3vw;
 }
 
 
@@ -109,22 +117,6 @@ h1{
     background-position: center; /* Center the background image */
     margin: 0;
     padding: 0;
-}
-
-.divider { 
-    
-    width: 100%;
-    height: 60px; /* Adjust the height as needed */
-    background-color: #FFFFFDff; /* Background color */
-    border-bottom: 1px solid #ccc; /* Border color and thickness */
-    font-size: 14px; /* Font size */
-    line-height: 20px; /* Same as height for vertical alignment */
-    text-align: center; /* Center the text */
-    color: #333; /* Text color */
-    overflow: hidden; /* Hide any overflow */
-    white-space: nowrap; /* Prevent text wrapping */
-    text-overflow: ellipsis; /* Display ellipsis (...) for overflowing text */
-
 }
 
 .container {
@@ -251,8 +243,8 @@ button {
 }
 
 .bottom-left-container {
-    color: white;
-    font-size: 12px;
+    color: #FFFFFDff;
+    font-size: 1vw;
     text-align: left;
     width: 30%;
     position: absolute;
@@ -262,7 +254,7 @@ button {
 }
 
 .bottom-right-container {
-    color: white;
+    color: #FFFFFDff;
     text-align: left;
     width: 30%;
     position: absolute;
@@ -274,8 +266,8 @@ button {
 
 .arkansas-logo {
     position: absolute;
-    bottom: 20px;
-    right: 10px;
+    bottom: 2vh;
+    right: 2vw;
     width: auto;
     height: 14vh;
     z-index: 999;
@@ -284,6 +276,6 @@ button {
 
 f2 {
     font-family: monospace, sans-serif;
-    font-size: 16px;
+    font-size: 2vh;
 }
 
