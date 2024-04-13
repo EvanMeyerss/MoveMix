@@ -55,7 +55,7 @@ document.addEventListener('DOMContentLoaded', function() {
         // Update the content of each element
         desc.textContent = activities[index].description;
         activityTitle.textContent = activities[index].name;
-        ytLink.textContent = activities[index].youtube_link;
+        ytLink.src = activities[index].youtube_link;
         pic.src = activities[index].img_src;
         map_link.src = activities[index].map_link;
         activityTitle.textContent = activities[index].name;
