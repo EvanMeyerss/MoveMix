@@ -237,10 +237,10 @@ function setSideContainerImageHeight() {
             }
         });
     });
-
+    const minHeight = Math.max(maxHeight, window.innerHeight * 0.25+ window.innerWidth * 0.25);
     // Set the height of the side-by-side container to accommodate the tallest image
     const padding = 20; // Adjust padding as needed
-    sideBySideContainer.style.height = (maxHeight + padding) + 'px';
+    sideBySideContainer.style.height = (minHeight + padding) + 'px';
 }
 
 window.addEventListener('resize', function() {

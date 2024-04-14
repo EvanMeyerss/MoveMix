@@ -129,7 +129,7 @@ h1{
 }
 
 .side-container img {
-    width:auto;
+
     max-width:90%;
     max-height: 90%;
     border-radius: 1vw;
@@ -161,12 +161,12 @@ button {
     border: solid 2px #FFFFFDff;
     background-color: #A29BC4ff; 
     color: #FFFFFDff; 
-    font-family: 'Agbalumo', sans-serif; 
+    font-family: 'Agbalumo', sans-serif;  
 
 }
 
 #next {
-    width: 10%;  
+    width: 10%; 
 
 }
 
@@ -272,7 +272,6 @@ button {
     /*right: 2vw;*/
     width: 10vw;
     height: auto;
-    z-index: 999;
 
 }
 
