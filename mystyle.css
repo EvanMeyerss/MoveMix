@@ -129,12 +129,12 @@ h1{
 }
 
 .side-container img {
-    max-width: 100%;
-    width: auto;
-    height: auto;
-    max-height:50vw; 
+    width:auto;
+    max-width:90%;
+    max-height: 90%;
     border-radius: 1vw;
     padding: 5%;
+    
     
 }
 
@@ -148,7 +148,7 @@ button {
     margin-top: 20vh;
     padding-bottom: 2%;
     width: 30%;
-    height: 3vw;
+    height: 2vw,2vh;
     line-height: 2.5vw;
     bottom: 5%; /* Position at the bottom of the parent container */
     left: 75%; /* Center horizontally */
@@ -194,7 +194,7 @@ button {
     justify-content: space-between;
     /* margin: 40px; Increased space from the big container */
     /*height: auto; Allow auto height*/
-    min-height: 70%;
+    /* min-height: 70%; */
     background-color:#FFFFFDff;
     position:relative;
     

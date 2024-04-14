@@ -223,15 +223,24 @@ document.addEventListener('DOMContentLoaded', function() {
 
 // sets the maximum height for all images displayed on the screen
 function setSideContainerImageHeight() {
-    const sideContainer = document.querySelectorAll('.side-container');
-    const sideContainerWidth = sideContainer[0].offsetWidth; // Assuming all side containers have the same width
+    const sideContainers = document.querySelectorAll('.side-container');
+    const sideBySideContainer = document.querySelector('.side-by-side-container');
 
-    const images = document.querySelectorAll('.side-container img');
-    images.forEach(image => {
-        const aspectRatio = image.naturalWidth / image.naturalHeight;
-        const height = sideContainerWidth / aspectRatio;
-        image.style.height = 575 + 'px';
+    let maxHeight = 0;
+    sideContainers.forEach(container => {
+        const images = container.querySelectorAll('img');
+        images.forEach(image => {
+            image.style.height = 'auto'; // Reset height to auto before calculating new height
+            const naturalHeight = image.offsetHeight; // Get the natural height after resetting
+            if (naturalHeight > maxHeight) {
+                maxHeight = naturalHeight;
+            }
+        });
     });
+
+    // Set the height of the side-by-side container to accommodate the tallest image
+    const padding = 20; // Adjust padding as needed
+    sideBySideContainer.style.height = (maxHeight + padding) + 'px';
 }
 
 window.addEventListener('resize', function() {
